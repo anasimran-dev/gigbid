@@ -1,0 +1,67 @@
+"""Portfolio MCP tools (A1). Plain functions; server.py registers them with their annotations."""
+import os
+from typing import Annotated, Any
+
+from pydantic import BaseModel, Field
+
+from agent.config import cfg
+from mcp_servers.common import ToolError, audit
+from rag.retriever import get_corpus, get_retriever
+from rag.skills import extract_skills
+
+Persona = Annotated[str, Field(description="Portfolio to search. Empty = server default.", max_length=64)]
+
+
+def _persona(p: str) -> str:
+    return p or os.getenv("PORTFOLIO_PERSONA", "ai_ml_engineer")
+
+
+def _corpus(persona: str):
+    emb = cfg()["embeddings"]
+    return get_corpus(persona, emb["backend"], emb["model"])
+
+
+def _public(item: dict, snippet: int = 800) -> dict:
+    return {"id": item["id"], "type": item["type"], "title": item["title"], "project": item["project"],
+            "source": item["source"], "date": item["date"], "outcome": item["outcome"], "industry": item["industry"],
+            "skills": item["skills"], "snippet": item["text"][:snippet], "score": round(item.get("score", 0.0), 4)}
+
+
+class Filters(BaseModel):
+    types: list[str] = Field(default_factory=list, description="Keep only these evidence types: cv, case_study, readme, code, review, proposal")
+    industry: str = Field("", description="Client industry to prefer, e.g. fintech")
+    outcomes: list[str] = Field(default_factory=list, description="For past proposals: won, replied, ignored")
+
+
+def search_evidence(requirement: Annotated[str, Field(min_length=2, max_length=4000, description="One job requirement, or a whole job post")],
+                    k: Annotated[int, Field(ge=1, le=20)] = 5, filters: Filters | None = None,
+                    persona: Persona = "", trace_id: str = "") -> dict[str, Any]:
+    """Find portfolio evidence that proves a requirement. Returns items with type, source, date and outcome.
+    Use the returned ids as citations; never claim experience that no item supports."""
+    f = filters or Filters()
+    job = {"title": "", "description": requirement, "industry": f.industry}
+    spec = {"required_skills": extract_skills(requirement)}
+    hits = get_retriever(cfg()["rag"]["variant"]).retrieve(_persona(persona), job, spec, k=k * 3, cfg=cfg())
+    hits = [h for h in hits if (not f.types or h["type"] in f.types) and (not f.outcomes or h["outcome"] in f.outcomes)][:k]
+    out = {"evidence": [_public(h) for h in hits], "variant": cfg()["rag"]["variant"]}
+    audit("portfolio", _persona(persona), "search_evidence", {"requirement": requirement[:200], "k": k}, {"n": len(hits)}, trace_id)
+    return out
+
+
+def get_case_study(id: Annotated[str, Field(min_length=3, max_length=80, description="Evidence id from search_evidence")],
+                   persona: Persona = "", trace_id: str = "") -> dict[str, Any]:
+    """Load one full evidence item (case study, README, review or past proposal) by id."""
+    item = _corpus(_persona(persona)).by_id.get(id)
+    if not item:
+        raise ToolError(f"not_found: no evidence item with id {id}")
+    return {**_public(item, snippet=10_000), "text": item["text"]}
+
+
+def list_skills(persona: Persona = "") -> dict[str, Any]:
+    """List every skill the portfolio can prove, with the number of projects behind each."""
+    counts: dict[str, set] = {}
+    for it in _corpus(_persona(persona)).items:
+        if it["project"]:
+            for s in it["skills"]:
+                counts.setdefault(s, set()).add(it["project"])
+    return {"skills": [{"skill": s, "projects": len(p)} for s, p in sorted(counts.items(), key=lambda x: -len(x[1]))]}
