@@ -1,1 +1,2 @@
-Built a LangGraph multi-agent freelancer copilot with MCP tool servers, evidence-verified proposals and human approval; skill-graph retrieval reached recall@5 0.82 vs 0.58 naive on a synthetic benchmark.
+Built a LangGraph multi-agent freelancer copilot with three MCP tool servers, evidence-verified proposals and human approval; skill-graph retrieval reached recall@5 0.82 vs 0.58 for naive retrieval on a synthetic benchmark (evals/results/rag_eval.json).
+Measured tool design (fine-grained tools 0.825 vs coarse 0.525 tool-selection accuracy, 40 tasks) and found a silent LLM-fallback bug that had made early evals look healthy with no model called (evals/results/tool_granularity.json).
