@@ -4,209 +4,209 @@
   "persona": "ai_ml_engineer",
   "job": "Build a document Q&A chatbot",
   "proposal": "You need a document Q&A chatbot for your healthcare business, and the projects below are the closest matches from my portfolio.\n\nOn Support-ticket RAG assistant for a SaaS client I used RAG, LangChain, FAISS and cut first-response time from 9 hours to 40 minutes.\n\nOn Contract question-answering bot for a real estate client I used RAG, LangChain, LLM fine-tuning and answered 86% of test questions with a correct citation.\n\nOn Fine-tuned support tone model for an e-commerce client I used LLM fine-tuning, PyTorch, Python and lifted agent acceptance of drafts from 41% to 73%.\n\nI have also worked with FastAPI on other client projects.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 4
  },
  {
   "job_id": "job-0193",
   "persona": "ai_ml_engineer",
   "job": "Sales forecasting model",
   "proposal": "You need weekly forecasts with error metrics for your SaaS business, and the projects below are the closest matches from my portfolio.\n\nOn Demand forecasting for a grocery chain for an e-commerce client I used Time series and reduced forecast error (MAPE) from 22% to 13%.\n\nOn Course recommendation model for an education client I used Time series and increased course enrolment clicks by 12%.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 3
  },
  {
   "job_id": "job-0117",
   "persona": "ai_ml_engineer",
   "job": "Text classification API",
   "proposal": "You need a deployed classification endpoint for your real estate business, and the projects below are the closest matches from my portfolio.\n\nOn Clinical note classifier for a healthcare client I used NLP, scikit-learn, FastAPI and scored 0.89 macro-F1 across 12 note types.\n\nOn Invoice field extraction for a fintech client I used NLP, Docker and reached 94% field-level accuracy on 3,000 invoices.\n\nOn Semantic product search for an e-commerce client I used NLP, FastAPI and improved search click-through by 18%.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 4
  },
  {
   "job_id": "job-0213",
   "persona": "ai_ml_engineer",
   "job": "Deploy ML model to cloud",
   "proposal": "You need a monitored model endpoint for your e-commerce business, and the projects below are the closest matches from my portfolio.\n\nOn Fine-tuned support tone model for an e-commerce client I used Python and lifted agent acceptance of drafts from 41% to 73%.\n\nOn Demand forecasting for a grocery chain for an e-commerce client I used Python and reduced forecast error (MAPE) from 22% to 13%.\n\nOn Support-ticket RAG assistant for a SaaS client I used Python and cut first-response time from 9 hours to 40 minutes.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 2
  },
  {
   "job_id": "job-0220",
   "persona": "ai_ml_engineer",
   "job": "Semantic search for product catalogue",
   "proposal": "You need a search endpoint over our catalogue for your media business, and the projects below are the closest matches from my portfolio.\n\nOn Churn prediction for a telecom for a media client I used Python and raised recall on churners from 0.58 to 0.81.\n\nOn Support-ticket RAG assistant for a SaaS client I used Python and cut first-response time from 9 hours to 40 minutes.\n\nOn Invoice field extraction for a fintech client I used Python and reached 94% field-level accuracy on 3,000 invoices.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 2
  },
  {
   "job_id": "job-0133",
   "persona": "ai_ml_engineer",
   "job": "Build a document Q&A chatbot",
   "proposal": "You need a document Q&A chatbot for your SaaS business, and the projects below are the closest matches from my portfolio.\n\nOn Support-ticket RAG assistant for a SaaS client I used RAG, LangChain, FAISS and cut first-response time from 9 hours to 40 minutes.\n\nOn Contract question-answering bot for a real estate client I used RAG, LangChain, FAISS and answered 86% of test questions with a correct citation.\n\nOn Semantic product search for an e-commerce client I used FAISS, NLP, FastAPI and improved search click-through by 18%.\n\nI have also worked with Python on other client projects.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 4
  },
  {
   "job_id": "job-0124",
   "persona": "ai_ml_engineer",
   "job": "Image defect detection prototype",
   "proposal": "You need a detection model packaged in a container for your real estate business, and the projects below are the closest matches from my portfolio.\n\nOn Defect detection on a packaging line for a logistics client I used Computer vision, PyTorch, Docker and caught 96% of defects at 30 frames per second.\n\nOn Property photo tagger for a real estate client I used Computer vision, PyTorch and tagged 20,000 listing photos at 92% precision.\n\nOn Invoice field extraction for a fintech client I used PyTorch, Docker and reached 94% field-level accuracy on 3,000 invoices.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 5
  },
  {
   "job_id": "job-0171",
   "persona": "ai_ml_engineer",
   "job": "Deploy ML model to cloud",
   "proposal": "You need a monitored model endpoint for your education business, and the projects below are the closest matches from my portfolio.\n\nOn Model serving platform for a SaaS client I used FastAPI, Docker, AWS and brought p95 inference latency down to 120 ms.\n\nOn Defect detection on a packaging line for a logistics client I used Computer vision, PyTorch, Docker and caught 96% of defects at 30 frames per second.\n\nOn Property photo tagger for a real estate client I used Computer vision, PyTorch, FastAPI and tagged 20,000 listing photos at 92% precision.\n\nI have also worked with MLflow on other client projects.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 4
  },
  {
   "job_id": "job-0148",
   "persona": "ai_ml_engineer",
   "job": "Customer churn prediction model",
   "proposal": "You need a trained model with an evaluation report for your e-commerce business, and the projects below are the closest matches from my portfolio.\n\nOn Churn prediction for a telecom for a media client I used scikit-learn, XGBoost, pandas and raised recall on churners from 0.58 to 0.81.\n\nOn Resume-to-job matching engine for an education client I used NLP, FAISS, scikit-learn and matched 5,000 resumes with 0.77 nDCG@10.\n\nOn Fraud scoring pipeline for a fintech client I used XGBoost, scikit-learn, pandas and flagged 31% more fraud at the same false-positive rate.\n\nI have also worked with Python on other client projects.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 5
  },
  {
   "job_id": "job-0094",
   "persona": "ai_ml_engineer",
   "job": "Semantic search for product catalogue",
   "proposal": "You need a search endpoint over our catalogue for your real estate business, and the projects below are the closest matches from my portfolio.\n\nOn Semantic product search for an e-commerce client I used FAISS, NLP, FastAPI and improved search click-through by 18%.\n\nOn Model serving platform for a SaaS client I used FastAPI, AWS and brought p95 inference latency down to 120 ms.\n\nOn Resume-to-job matching engine for an education client I used NLP, FAISS and matched 5,000 resumes with 0.77 nDCG@10.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 4
  },
  {
   "job_id": "job-0132",
   "persona": "fullstack_dev",
   "job": "E-commerce storefront",
   "proposal": "You need a storefront with cart and checkout for your education business, and the projects below are the closest matches from my portfolio.\n\nOn Donation platform for an education client I used Next.js, Stripe, Tailwind CSS and processed 14,000 donations with zero payment disputes.\n\nOn Subscription billing dashboard for a SaaS client I used Next.js, Stripe, TypeScript and recovered 9% of failed payments automatically.\n\nOn Marketplace storefront rebuild for an e-commerce client I used Next.js, Tailwind CSS, TypeScript and improved Lighthouse performance from 54 to 96.\n\nI have also worked with MongoDB, React on other client projects.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 4
  },
  {
   "job_id": "job-0158",
   "persona": "fullstack_dev",
   "job": "Real-time chat feature",
   "proposal": "You need live chat inside our existing app for your real estate business, and the projects below are the closest matches from my portfolio.\n\nOn Fleet tracking live map for a logistics client I used React, WebSockets, Node.js and streamed positions for 1,200 vehicles with sub-second lag.\n\nOn Team chat widget for a SaaS client I used WebSockets, Node.js, Redis and handled 8,000 concurrent connections in load tests.\n\nOn Checkout redesign for an e-commerce client I used React, Stripe and raised checkout completion from 61% to 74%.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 4
  },
  {
   "job_id": "job-0004",
   "persona": "fullstack_dev",
   "job": "Build a SaaS dashboard",
   "proposal": "You need a SaaS dashboard for your real estate business, and the projects below are the closest matches from my portfolio.\n\nOn Clinic appointment portal for a healthcare client I used React, Node.js, PostgreSQL and moved 70% of bookings online within two months.\n\nOn Loan application workflow for a fintech client I used React, Node.js, Authentication and cut application time from 25 to 8 minutes.\n\nOn Subscription billing dashboard for a SaaS client I used TypeScript, PostgreSQL and recovered 9% of failed payments automatically.\n\nI have also worked with Data visualization on other client projects.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 3
  },
  {
   "job_id": "job-0112",
   "persona": "fullstack_dev",
   "job": "Stripe subscription integration",
   "proposal": "You need working subscriptions with webhooks for your logistics business, and the projects below are the closest matches from my portfolio.\n\nOn Warehouse inventory app for a logistics client I used Node.js, REST API and eliminated 90% of manual stock spreadsheets.\n\nOn Subscription billing dashboard for a SaaS client I used Stripe and recovered 9% of failed payments automatically.\n\nOn Checkout redesign for an e-commerce client I used Stripe and raised checkout completion from 61% to 74%.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 3
  },
  {
   "job_id": "job-0121",
   "persona": "fullstack_dev",
   "job": "GraphQL API for mobile app",
   "proposal": "You need a typed GraphQL schema and resolvers for your education business, and the projects below are the closest matches from my portfolio.\n\nOn Mobile-and-web GraphQL gateway for a media client I used GraphQL, Node.js, TypeScript and replaced 37 REST endpoints with one schema.\n\nOn Marketplace storefront rebuild for an e-commerce client I used TypeScript, GraphQL and improved Lighthouse performance from 54 to 96.\n\nOn Clinic appointment portal for a healthcare client I used Node.js, Authentication and moved 70% of bookings online within two months.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 4
  },
  {
   "job_id": "job-0122",
   "persona": "fullstack_dev",
   "job": "Add automated tests to React app",
   "proposal": "You need a test suite running in CI for your SaaS business, and the projects below are the closest matches from my portfolio.\n\nOn Checkout redesign for an e-commerce client I used React, Jest, TypeScript and raised checkout completion from 61% to 74%.\n\nOn Test suite for a legacy app for a fintech client I used Jest, TypeScript, React and took coverage from 12% to 78% and halved regressions.\n\nOn Subscription billing dashboard for a SaaS client I used TypeScript and recovered 9% of failed payments automatically.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 4
  },
  {
   "job_id": "job-0221",
   "persona": "fullstack_dev",
   "job": "Next.js marketing site with CMS",
   "proposal": "You need a fast site our team can edit for your SaaS business, and the projects below are the closest matches from my portfolio.\n\nOn Subscription billing dashboard for a SaaS client I used Next.js and recovered 9% of failed payments automatically.\n\nOn Marketplace storefront rebuild for an e-commerce client I used Next.js and improved Lighthouse performance from 54 to 96.\n\nOn Donation platform for an education client I used Next.js and processed 14,000 donations with zero payment disputes.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 2
  },
  {
   "job_id": "job-0113",
   "persona": "fullstack_dev",
   "job": "Real-time chat feature",
   "proposal": "You need live chat inside our existing app for your fintech business, and the projects below are the closest matches from my portfolio.\n\nOn Fleet tracking live map for a logistics client I used React, WebSockets, Node.js and streamed positions for 1,200 vehicles with sub-second lag.\n\nOn Team chat widget for a SaaS client I used WebSockets, Node.js, Redis and handled 8,000 concurrent connections in load tests.\n\nOn Loan application workflow for a fintech client I used React, Node.js and cut application time from 25 to 8 minutes.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 4
  },
  {
   "job_id": "job-0139",
   "persona": "fullstack_dev",
   "job": "Stripe subscription integration",
   "proposal": "You need working subscriptions with webhooks for your SaaS business, and the projects below are the closest matches from my portfolio.\n\nOn Mobile-and-web GraphQL gateway for a media client I used GraphQL, Node.js and replaced 37 REST endpoints with one schema.\n\nOn Warehouse inventory app for a logistics client I used Node.js, REST API and eliminated 90% of manual stock spreadsheets.\n\nOn Subscription billing dashboard for a SaaS client I used Stripe and recovered 9% of failed payments automatically.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 2
  },
  {
   "job_id": "job-0090",
   "persona": "fullstack_dev",
   "job": "Build a SaaS dashboard",
   "proposal": "You need a SaaS dashboard for your healthcare business, and the projects below are the closest matches from my portfolio.\n\nOn Clinic appointment portal for a healthcare client I used React, Node.js, PostgreSQL and moved 70% of bookings online within two months.\n\nOn Loan application workflow for a fintech client I used React, Node.js, Authentication and cut application time from 25 to 8 minutes.\n\nOn Subscription billing dashboard for a SaaS client I used TypeScript, PostgreSQL and recovered 9% of failed payments automatically.\n\nI have also worked with Data visualization on other client projects.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 3
  },
  {
   "job_id": "job-0182",
   "persona": "fullstack_dev",
   "job": "Next.js marketing site with CMS",
   "proposal": "You need a fast site our team can edit for your fintech business, and the projects below are the closest matches from my portfolio.\n\nOn Test suite for a legacy app for a fintech client I used Jest, TypeScript, React and took coverage from 12% to 78% and halved regressions.\n\nOn Marketplace storefront rebuild for an e-commerce client I used Next.js, Tailwind CSS, TypeScript and improved Lighthouse performance from 54 to 96.\n\nOn Checkout redesign for an e-commerce client I used React, Jest, TypeScript and raised checkout completion from 61% to 74%.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 3
  },
  {
   "job_id": "job-0181",
   "persona": "data_analyst",
   "job": "A/B test analysis",
   "proposal": "You need a readout with significance and a recommendation for your logistics business, and the projects below are the closest matches from my portfolio.\n\nOn Warehouse modelling with dbt for a SaaS client I used dbt, BigQuery, SQL and cut dashboard query cost by 63%.\n\nOn Product analytics tracking plan for a SaaS client I used BigQuery, SQL, A/B testing and defined 42 events and fixed 9 broken funnels.\n\nOn Checkout A/B test analysis for an e-commerce client I used A/B testing, Statistics, SQL and showed a 4.2% conversion lift at 95% confidence.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 4
  },
  {
   "job_id": "job-0143",
   "persona": "data_analyst",
   "job": "Automate data pipeline",
   "proposal": "You need a scheduled pipeline with alerts for your logistics business, and the projects below are the closest matches from my portfolio.\n\nOn Nightly data pipeline for a logistics client I used Airflow, ETL, BigQuery and brought data freshness from 3 days to 6 hours.\n\nOn Warehouse modelling with dbt for a SaaS client I used dbt, BigQuery, ETL and cut dashboard query cost by 63%.\n\nOn Product analytics tracking plan for a SaaS client I used BigQuery and defined 42 events and fixed 9 broken funnels.\n\nI have also worked with Python on other client projects.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 4
  },
  {
   "job_id": "job-0123",
   "persona": "data_analyst",
   "job": "Customer segmentation analysis",
   "proposal": "You need segments with a dashboard for your logistics business, and the projects below are the closest matches from my portfolio.\n\nOn Customer segmentation for an e-commerce client I used pandas, SQL, Tableau and found 5 segments and lifted email revenue by 15%.\n\nOn Delivery delay root-cause analysis for a logistics client I used SQL, pandas, Statistics and traced 58% of delays to two depots.\n\nOn Patient wait-time study for a healthcare client I used Statistics, pandas, Tableau and identified two bottlenecks worth 18 minutes per visit.\n\nI have also worked with Data visualization on other client projects.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 4
  },
  {
   "job_id": "job-0120",
   "persona": "data_analyst",
   "job": "Customer churn prediction model",
   "proposal": "You need a trained model with an evaluation report for your SaaS business, and the projects below are the closest matches from my portfolio.\n\nOn Customer segmentation for an e-commerce client I used pandas, scikit-learn and found 5 segments and lifted email revenue by 15%.\n\nOn Patient wait-time study for a healthcare client I used pandas, Python and identified two bottlenecks worth 18 minutes per visit.\n\nOn Competitor price tracker for a real estate client I used Python, pandas and I built the solution with Web scraping, py3, pandas.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 2
  },
  {
   "job_id": "job-0064",
   "persona": "data_analyst",
   "job": "Tableau KPI dashboard",
   "proposal": "You need an executive KPI board for your logistics business, and the projects below are the closest matches from my portfolio.\n\nOn Executive KPI board for a fintech client I used Tableau, SQL, Data visualization and gave leadership one view of 14 KPIs.\n\nOn Customer segmentation for an e-commerce client I used SQL, Tableau and found 5 segments and lifted email revenue by 15%.\n\nOn Sales performance dashboard for an e-commerce client I used SQL, Data visualization and replaced 11 weekly spreadsheets with one dashboard.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 5
  },
  {
   "job_id": "job-0077",
   "persona": "data_analyst",
   "job": "Marketing analytics report",
   "proposal": "You need a monthly attribution report for your healthcare business, and the projects below are the closest matches from my portfolio.\n\nOn Marketing attribution report for a media client I used Google Analytics, Looker, SQL and reallocated 22% of ad spend to better channels.\n\nOn Product analytics tracking plan for a SaaS client I used Google Analytics, SQL and defined 42 events and fixed 9 broken funnels.\n\nOn Churn cohort analysis for a SaaS client I used SQL, Looker and pinpointed a 30-day drop-off that drove 40% of churn.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 5
  },
  {
   "job_id": "job-0083",
   "persona": "data_analyst",
   "job": "Marketing analytics report",
   "proposal": "You need a monthly attribution report for your logistics business, and the projects below are the closest matches from my portfolio.\n\nOn Marketing attribution report for a media client I used Google Analytics, Looker, SQL and reallocated 22% of ad spend to better channels.\n\nOn Product analytics tracking plan for a SaaS client I used Google Analytics, SQL and defined 42 events and fixed 9 broken funnels.\n\nOn Churn cohort analysis for a SaaS client I used SQL, Looker and pinpointed a 30-day drop-off that drove 40% of churn.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 5
  },
  {
   "job_id": "job-0211",
   "persona": "data_analyst",
   "job": "A/B test analysis",
   "proposal": "You need a readout with significance and a recommendation for your fintech business, and the projects below are the closest matches from my portfolio.\n\nOn Checkout A/B test analysis for an e-commerce client I used A/B testing and showed a 4.2% conversion lift at 95% confidence.\n\nOn Product analytics tracking plan for a SaaS client I used A/B testing and defined 42 events and fixed 9 broken funnels.\n\nOn Pricing experiment readout for a media client I used A/B testing and I built the solution with ab testing, Statistics, py3.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 3
  },
  {
   "job_id": "job-0027",
   "persona": "data_analyst",
   "job": "Excel financial model",
   "proposal": "You need a forecast workbook with scenarios for your healthcare business, and the projects below are the closest matches from my portfolio.\n\nOn Financial forecast workbook for a fintech client I used Excel, Time series, Statistics and forecast quarterly revenue within 3% for four quarters.\n\nOn Survey analysis for a university for an education client I used Statistics, Excel and analysed 6,200 responses and reported 3 significant drivers.\n\nOn Patient wait-time study for a healthcare client I used Statistics and identified two bottlenecks worth 18 minutes per visit.\n\nI can start this week. Would a 20 minute call suit you to confirm scope and milestones?",
-  "human": null
+  "human": 4
  }
 ]
