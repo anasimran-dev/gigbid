@@ -1,0 +1,114 @@
+[
+ {
+  "id": "ai_ml_engineer-rev-01",
+  "project": "ai_ml_engineer-p01",
+  "industry": "SaaS",
+  "date": "2024-06",
+  "rating": 5,
+  "skills": [
+   "RAG",
+   "LangChain",
+   "FAISS",
+   "FastAPI",
+   "Python"
+  ],
+  "text": "Great work on our support-ticket rag assistant. It cut first-response time from 9 hours to 40 minutes. Clear communication throughout."
+ },
+ {
+  "id": "ai_ml_engineer-rev-02",
+  "project": "ai_ml_engineer-p02",
+  "industry": "media",
+  "date": "2025-11",
+  "rating": 5,
+  "skills": [
+   "scikit-learn",
+   "XGBoost",
+   "pandas",
+   "Python"
+  ],
+  "text": "Great work on our churn prediction for a telecom. It raised recall on churners from 0.58 to 0.81. Clear communication throughout."
+ },
+ {
+  "id": "ai_ml_engineer-rev-03",
+  "project": "ai_ml_engineer-p03",
+  "industry": "fintech",
+  "date": "2023-04",
+  "rating": 5,
+  "skills": [
+   "NLP",
+   "PyTorch",
+   "Python",
+   "Docker"
+  ],
+  "text": "Great work on our invoice field extraction. It reached 94% field-level accuracy on 3,000 invoices. Clear communication throughout."
+ },
+ {
+  "id": "ai_ml_engineer-rev-04",
+  "project": "ai_ml_engineer-p04",
+  "industry": "logistics",
+  "date": "2024-09",
+  "rating": 5,
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "Docker"
+  ],
+  "text": "Great work on our defect detection on a packaging line. It caught 96% of defects at 30 frames per second. Clear communication throughout."
+ },
+ {
+  "id": "ai_ml_engineer-rev-05",
+  "project": "ai_ml_engineer-p05",
+  "industry": "e-commerce",
+  "date": "2025-02",
+  "rating": 5,
+  "skills": [
+   "LLM fine-tuning",
+   "PyTorch",
+   "MLflow",
+   "Python"
+  ],
+  "text": "Great work on our fine-tuned support tone model. It lifted agent acceptance of drafts from 41% to 73%. Clear communication throughout."
+ },
+ {
+  "id": "ai_ml_engineer-rev-06",
+  "project": "ai_ml_engineer-p06",
+  "industry": "e-commerce",
+  "date": "2023-07",
+  "rating": 5,
+  "skills": [
+   "Time series",
+   "pandas",
+   "XGBoost",
+   "Python"
+  ],
+  "text": "Great work on our demand forecasting for a grocery chain. It reduced forecast error (MAPE) from 22% to 13%. Clear communication throughout."
+ },
+ {
+  "id": "ai_ml_engineer-rev-07",
+  "project": "ai_ml_engineer-p07",
+  "industry": "healthcare",
+  "date": "2024-12",
+  "rating": 5,
+  "skills": [
+   "NLP",
+   "scikit-learn",
+   "FastAPI",
+   "Python"
+  ],
+  "text": "Great work on our clinical note classifier. It scored 0.89 macro-F1 across 12 note types. Clear communication throughout."
+ },
+ {
+  "id": "ai_ml_engineer-rev-08",
+  "project": "ai_ml_engineer-p08",
+  "industry": "e-commerce",
+  "date": "2025-05",
+  "rating": 5,
+  "skills": [
+   "FAISS",
+   "NLP",
+   "FastAPI",
+   "AWS"
+  ],
+  "text": "Great work on our semantic product search. It improved search click-through by 18%. Clear communication throughout."
+ }
+]

@@ -1,0 +1,2208 @@
+[
+ {
+  "id": "ai_ml_engineer-prop-001",
+  "project": "ai_ml_engineer-p09",
+  "industry": "SaaS",
+  "skills": [
+   "FastAPI",
+   "Docker",
+   "AWS",
+   "MLflow"
+  ],
+  "date": "2023-10",
+  "outcome": "ignored",
+  "text": "Your post mentions a small Python web service. In my model serving platform project for a SaaS client I used fast api and dockerfile, and it brought p95 inference latency down to 120 ms. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-002",
+  "project": "ai_ml_engineer-p06",
+  "industry": "e-commerce",
+  "skills": [
+   "Time series",
+   "pandas",
+   "XGBoost",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "won",
+  "text": "Your post mentions predicting next quarter's numbers. In my demand forecasting for a grocery chain project for a e-commerce client I used forecasting and numpy, and it reduced forecast error (MAPE) from 22% to 13%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-003",
+  "project": "ai_ml_engineer-p01",
+  "industry": "SaaS",
+  "skills": [
+   "RAG",
+   "LangChain",
+   "FAISS",
+   "FastAPI",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Your post mentions a chatbot that answers questions from our internal documents. In my support-ticket rag assistant project for a SaaS client I used rag and langgraph, and it cut first-response time from 9 hours to 40 minutes. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-004",
+  "project": "ai_ml_engineer-p15",
+  "industry": "education",
+  "skills": [
+   "scikit-learn",
+   "pandas",
+   "Time series",
+   "Python"
+  ],
+  "date": "2023-04",
+  "outcome": "won",
+  "text": "Your post mentions classical machine learning models. In my course recommendation model project for a education client I used scikit-learn and pandas, and it increased course enrolment clicks by 12%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-005",
+  "project": "ai_ml_engineer-p06",
+  "industry": "e-commerce",
+  "skills": [
+   "Time series",
+   "pandas",
+   "XGBoost",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "won",
+  "text": "Your post mentions predicting next quarter's numbers. In my demand forecasting for a grocery chain project for a e-commerce client I used forecasting and pandas, and it reduced forecast error (MAPE) from 22% to 13%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-006",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "XGBoost",
+   "MLflow",
+   "scikit-learn",
+   "Time series",
+   "LLM fine-tuning",
+   "Docker"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in XGBoost, MLflow, scikit-learn, Time series, LLM fine-tuning, Docker with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-007",
+  "project": "ai_ml_engineer-p06",
+  "industry": "e-commerce",
+  "skills": [
+   "Time series",
+   "pandas",
+   "XGBoost",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "won",
+  "text": "Your post mentions predicting next quarter's numbers. In my demand forecasting for a grocery chain project for a e-commerce client I used time series and pandas, and it reduced forecast error (MAPE) from 22% to 13%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-008",
+  "project": "ai_ml_engineer-p05",
+  "industry": "e-commerce",
+  "skills": [
+   "LLM fine-tuning",
+   "PyTorch",
+   "MLflow",
+   "Python"
+  ],
+  "date": "2025-02",
+  "outcome": "replied",
+  "text": "Your post mentions adapting a language model to our own tone and data. In my fine-tuned support tone model project for a e-commerce client I used fine tuning and pytorch, and it lifted agent acceptance of drafts from 41% to 73%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-009",
+  "project": "ai_ml_engineer-p04",
+  "industry": "logistics",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "Docker"
+  ],
+  "date": "2024-09",
+  "outcome": "replied",
+  "text": "Your post mentions recognising things in photos. In my defect detection on a packaging line project for a logistics client I used opencv and pytorch, and it caught 96% of defects at 30 frames per second. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-010",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "XGBoost",
+   "AWS",
+   "scikit-learn",
+   "Computer vision",
+   "NLP",
+   "LLM fine-tuning"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in XGBoost, AWS, scikit-learn, Computer vision, NLP, LLM fine-tuning with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-011",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "FAISS",
+   "LLM fine-tuning",
+   "LangChain",
+   "FastAPI",
+   "AWS",
+   "scikit-learn"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in FAISS, LLM fine-tuning, LangChain, FastAPI, AWS, scikit-learn with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-012",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "FastAPI",
+   "LangChain",
+   "Docker",
+   "NLP",
+   "pandas",
+   "Computer vision"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in FastAPI, LangChain, Docker, NLP, pandas, Computer vision with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-013",
+  "project": "ai_ml_engineer-p11",
+  "industry": "fintech",
+  "skills": [
+   "XGBoost",
+   "scikit-learn",
+   "AWS",
+   "pandas"
+  ],
+  "date": "2025-08",
+  "outcome": "replied",
+  "text": "Your post mentions tabular prediction models. In my fraud scoring pipeline project for a fintech client I used xgboost and sklearn, and it flagged 31% more fraud at the same false-positive rate. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-014",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "LLM fine-tuning",
+   "AWS",
+   "FastAPI",
+   "Docker",
+   "RAG",
+   "NLP"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in LLM fine-tuning, AWS, FastAPI, Docker, RAG, NLP with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-015",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "scikit-learn",
+   "LLM fine-tuning",
+   "Time series",
+   "AWS",
+   "NLP",
+   "Docker"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in scikit-learn, LLM fine-tuning, Time series, AWS, NLP, Docker with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-016",
+  "project": "ai_ml_engineer-p13",
+  "industry": "healthcare",
+  "skills": [
+   "MLflow",
+   "Docker",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Your post mentions keeping model experiments reproducible. In my experiment tracking rollout project for a healthcare client I used MLflow and dockerfile, and it made 140 past experiments reproducible. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-017",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Python",
+   "Computer vision",
+   "PyTorch",
+   "Docker",
+   "FastAPI",
+   "pandas"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Python, Computer vision, PyTorch, Docker, FastAPI, pandas with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-018",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Python",
+   "RAG",
+   "FastAPI",
+   "Time series",
+   "PyTorch",
+   "Docker"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Python, RAG, FastAPI, Time series, PyTorch, Docker with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-019",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "LLM fine-tuning",
+   "XGBoost",
+   "Python",
+   "PyTorch",
+   "Time series",
+   "Docker"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in LLM fine-tuning, XGBoost, Python, PyTorch, Time series, Docker with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-020",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "scikit-learn",
+   "FAISS",
+   "Python",
+   "NLP",
+   "Time series",
+   "LangChain"
+  ],
+  "date": "2024-06",
+  "outcome": "won",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in scikit-learn, FAISS, Python, NLP, Time series, LangChain with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-021",
+  "project": "ai_ml_engineer-p14",
+  "industry": "real estate",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "FastAPI"
+  ],
+  "date": "2025-11",
+  "outcome": "replied",
+  "text": "Your post mentions recognising things in photos. In my property photo tagger project for a real estate client I used opencv and PyTorch, and it tagged 20,000 listing photos at 92% precision. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-022",
+  "project": "ai_ml_engineer-p05",
+  "industry": "e-commerce",
+  "skills": [
+   "LLM fine-tuning",
+   "PyTorch",
+   "MLflow",
+   "Python"
+  ],
+  "date": "2025-02",
+  "outcome": "replied",
+  "text": "Your post mentions adapting a language model to our own tone and data. In my fine-tuned support tone model project for a e-commerce client I used fine-tuning and torch, and it lifted agent acceptance of drafts from 41% to 73%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-023",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "NLP",
+   "RAG",
+   "Python",
+   "FAISS",
+   "scikit-learn",
+   "Docker"
+  ],
+  "date": "2024-06",
+  "outcome": "won",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in NLP, RAG, Python, FAISS, scikit-learn, Docker with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-024",
+  "project": "ai_ml_engineer-p10",
+  "industry": "education",
+  "skills": [
+   "NLP",
+   "FAISS",
+   "scikit-learn",
+   "Python"
+  ],
+  "date": "2024-03",
+  "outcome": "replied",
+  "text": "Your post mentions making sense of customer text at scale. In my resume-to-job matching engine project for a education client I used natural language processing and FAISS, and it matched 5,000 resumes with 0.77 nDCG@10. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-025",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "scikit-learn",
+   "pandas",
+   "PyTorch",
+   "RAG",
+   "FAISS",
+   "FastAPI"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in scikit-learn, pandas, PyTorch, RAG, FAISS, FastAPI with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-026",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Time series",
+   "FastAPI",
+   "Python",
+   "Docker",
+   "AWS",
+   "pandas"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Time series, FastAPI, Python, Docker, AWS, pandas with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-027",
+  "project": "ai_ml_engineer-p05",
+  "industry": "e-commerce",
+  "skills": [
+   "LLM fine-tuning",
+   "PyTorch",
+   "MLflow",
+   "Python"
+  ],
+  "date": "2025-02",
+  "outcome": "replied",
+  "text": "Your post mentions adapting a language model to our own tone and data. In my fine-tuned support tone model project for a e-commerce client I used LLM fine-tuning and torch, and it lifted agent acceptance of drafts from 41% to 73%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-028",
+  "project": "ai_ml_engineer-p15",
+  "industry": "education",
+  "skills": [
+   "scikit-learn",
+   "pandas",
+   "Time series",
+   "Python"
+  ],
+  "date": "2023-04",
+  "outcome": "won",
+  "text": "Your post mentions classical machine learning models. In my course recommendation model project for a education client I used scikit-learn and pandas, and it increased course enrolment clicks by 12%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-029",
+  "project": "ai_ml_engineer-p14",
+  "industry": "real estate",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "FastAPI"
+  ],
+  "date": "2025-11",
+  "outcome": "replied",
+  "text": "Your post mentions recognising things in photos. In my property photo tagger project for a real estate client I used computer vision and pytorch, and it tagged 20,000 listing photos at 92% precision. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-030",
+  "project": "ai_ml_engineer-p01",
+  "industry": "SaaS",
+  "skills": [
+   "RAG",
+   "LangChain",
+   "FAISS",
+   "FastAPI",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "won",
+  "text": "Your post mentions a chatbot that answers questions from our internal documents. In my support-ticket rag assistant project for a SaaS client I used RAG and LangChain, and it cut first-response time from 9 hours to 40 minutes. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-031",
+  "project": "ai_ml_engineer-p02",
+  "industry": "media",
+  "skills": [
+   "scikit-learn",
+   "XGBoost",
+   "pandas",
+   "Python"
+  ],
+  "date": "2025-11",
+  "outcome": "won",
+  "text": "Your post mentions classical machine learning models. In my churn prediction for a telecom project for a media client I used scikit-learn and gradient boosting, and it raised recall on churners from 0.58 to 0.81. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-032",
+  "project": "ai_ml_engineer-p04",
+  "industry": "logistics",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "Docker"
+  ],
+  "date": "2024-09",
+  "outcome": "ignored",
+  "text": "Your post mentions recognising things in photos. In my defect detection on a packaging line project for a logistics client I used opencv and torch, and it caught 96% of defects at 30 frames per second. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-033",
+  "project": "ai_ml_engineer-p14",
+  "industry": "real estate",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "FastAPI"
+  ],
+  "date": "2025-11",
+  "outcome": "won",
+  "text": "Your post mentions recognising things in photos. In my property photo tagger project for a real estate client I used opencv and PyTorch, and it tagged 20,000 listing photos at 92% precision. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-034",
+  "project": "ai_ml_engineer-p05",
+  "industry": "e-commerce",
+  "skills": [
+   "LLM fine-tuning",
+   "PyTorch",
+   "MLflow",
+   "Python"
+  ],
+  "date": "2025-02",
+  "outcome": "replied",
+  "text": "Your post mentions adapting a language model to our own tone and data. In my fine-tuned support tone model project for a e-commerce client I used fine-tuning and pytorch, and it lifted agent acceptance of drafts from 41% to 73%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-035",
+  "project": "ai_ml_engineer-p04",
+  "industry": "logistics",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "Docker"
+  ],
+  "date": "2024-09",
+  "outcome": "won",
+  "text": "Your post mentions recognising things in photos. In my defect detection on a packaging line project for a logistics client I used Computer vision and pytorch, and it caught 96% of defects at 30 frames per second. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-036",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "scikit-learn",
+   "LLM fine-tuning",
+   "Time series",
+   "FAISS",
+   "FastAPI",
+   "Computer vision"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in scikit-learn, LLM fine-tuning, Time series, FAISS, FastAPI, Computer vision with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-037",
+  "project": "ai_ml_engineer-p08",
+  "industry": "e-commerce",
+  "skills": [
+   "FAISS",
+   "NLP",
+   "FastAPI",
+   "AWS"
+  ],
+  "date": "2025-05",
+  "outcome": "won",
+  "text": "Your post mentions semantic search over embeddings. In my semantic product search project for a e-commerce client I used FAISS and natural language processing, and it improved search click-through by 18%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-038",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "MLflow",
+   "FastAPI",
+   "PyTorch",
+   "RAG",
+   "Docker",
+   "XGBoost"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in MLflow, FastAPI, PyTorch, RAG, Docker, XGBoost with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-039",
+  "project": "ai_ml_engineer-p09",
+  "industry": "SaaS",
+  "skills": [
+   "FastAPI",
+   "Docker",
+   "AWS",
+   "MLflow"
+  ],
+  "date": "2023-10",
+  "outcome": "won",
+  "text": "Your post mentions a small Python web service. In my model serving platform project for a SaaS client I used fast api and dockerfile, and it brought p95 inference latency down to 120 ms. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-040",
+  "project": "ai_ml_engineer-p15",
+  "industry": "education",
+  "skills": [
+   "scikit-learn",
+   "pandas",
+   "Time series",
+   "Python"
+  ],
+  "date": "2023-04",
+  "outcome": "won",
+  "text": "Your post mentions classical machine learning models. In my course recommendation model project for a education client I used scikit-learn and pandas, and it increased course enrolment clicks by 12%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-041",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "AWS",
+   "RAG",
+   "XGBoost",
+   "Computer vision",
+   "scikit-learn",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in AWS, RAG, XGBoost, Computer vision, scikit-learn, Python with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-042",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "NLP",
+   "pandas",
+   "FastAPI",
+   "RAG",
+   "Time series",
+   "AWS"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in NLP, pandas, FastAPI, RAG, Time series, AWS with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-043",
+  "project": "ai_ml_engineer-p08",
+  "industry": "e-commerce",
+  "skills": [
+   "FAISS",
+   "NLP",
+   "FastAPI",
+   "AWS"
+  ],
+  "date": "2025-05",
+  "outcome": "ignored",
+  "text": "Your post mentions semantic search over embeddings. In my semantic product search project for a e-commerce client I used vector database and NLP, and it improved search click-through by 18%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-044",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "MLflow",
+   "pandas",
+   "LangChain",
+   "Docker",
+   "Python",
+   "AWS"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in MLflow, pandas, LangChain, Docker, Python, AWS with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-045",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "scikit-learn",
+   "LLM fine-tuning",
+   "pandas",
+   "Docker",
+   "NLP",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in scikit-learn, LLM fine-tuning, pandas, Docker, NLP, Python with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-046",
+  "project": "ai_ml_engineer-p13",
+  "industry": "healthcare",
+  "skills": [
+   "MLflow",
+   "Docker",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "won",
+  "text": "Your post mentions keeping model experiments reproducible. In my experiment tracking rollout project for a healthcare client I used experiment tracking and Docker, and it made 140 past experiments reproducible. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-047",
+  "project": "ai_ml_engineer-p07",
+  "industry": "healthcare",
+  "skills": [
+   "NLP",
+   "scikit-learn",
+   "FastAPI",
+   "Python"
+  ],
+  "date": "2024-12",
+  "outcome": "replied",
+  "text": "Your post mentions making sense of customer text at scale. In my clinical note classifier project for a healthcare client I used natural language processing and scikit-learn, and it scored 0.89 macro-F1 across 12 note types. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-048",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "scikit-learn",
+   "MLflow",
+   "LangChain",
+   "FAISS",
+   "XGBoost",
+   "Time series"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in scikit-learn, MLflow, LangChain, FAISS, XGBoost, Time series with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-049",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "NLP",
+   "pandas",
+   "XGBoost",
+   "FastAPI",
+   "FAISS",
+   "Time series"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in NLP, pandas, XGBoost, FastAPI, FAISS, Time series with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-050",
+  "project": "ai_ml_engineer-p15",
+  "industry": "education",
+  "skills": [
+   "scikit-learn",
+   "pandas",
+   "Time series",
+   "Python"
+  ],
+  "date": "2023-04",
+  "outcome": "ignored",
+  "text": "Your post mentions classical machine learning models. In my course recommendation model project for a education client I used scikit-learn and pandas, and it increased course enrolment clicks by 12%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-051",
+  "project": "ai_ml_engineer-p12",
+  "industry": "real estate",
+  "skills": [
+   "RAG",
+   "LangChain",
+   "LLM fine-tuning",
+   "FAISS"
+  ],
+  "date": "2023-01",
+  "outcome": "won",
+  "text": "Your post mentions a chatbot that answers questions from our internal documents. In my contract question-answering bot project for a real estate client I used RAG and langchain, and it answered 86% of test questions with a correct citation. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-052",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "LangChain",
+   "FastAPI",
+   "Python",
+   "RAG",
+   "XGBoost",
+   "FAISS"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in LangChain, FastAPI, Python, RAG, XGBoost, FAISS with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-053",
+  "project": "ai_ml_engineer-p04",
+  "industry": "logistics",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "Docker"
+  ],
+  "date": "2024-09",
+  "outcome": "replied",
+  "text": "Your post mentions recognising things in photos. In my defect detection on a packaging line project for a logistics client I used opencv and pytorch, and it caught 96% of defects at 30 frames per second. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-054",
+  "project": "ai_ml_engineer-p13",
+  "industry": "healthcare",
+  "skills": [
+   "MLflow",
+   "Docker",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Your post mentions keeping model experiments reproducible. In my experiment tracking rollout project for a healthcare client I used experiment tracking and docker, and it made 140 past experiments reproducible. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-055",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Time series",
+   "FastAPI",
+   "XGBoost",
+   "Python",
+   "scikit-learn",
+   "LLM fine-tuning"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Time series, FastAPI, XGBoost, Python, scikit-learn, LLM fine-tuning with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-056",
+  "project": "ai_ml_engineer-p01",
+  "industry": "SaaS",
+  "skills": [
+   "RAG",
+   "LangChain",
+   "FAISS",
+   "FastAPI",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Your post mentions a chatbot that answers questions from our internal documents. In my support-ticket rag assistant project for a SaaS client I used retrieval-augmented generation and langgraph, and it cut first-response time from 9 hours to 40 minutes. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-057",
+  "project": "ai_ml_engineer-p04",
+  "industry": "logistics",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "Docker"
+  ],
+  "date": "2024-09",
+  "outcome": "replied",
+  "text": "Your post mentions recognising things in photos. In my defect detection on a packaging line project for a logistics client I used computer vision and torch, and it caught 96% of defects at 30 frames per second. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-058",
+  "project": "ai_ml_engineer-p04",
+  "industry": "logistics",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "Docker"
+  ],
+  "date": "2024-09",
+  "outcome": "won",
+  "text": "Your post mentions recognising things in photos. In my defect detection on a packaging line project for a logistics client I used computer vision and pytorch, and it caught 96% of defects at 30 frames per second. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-059",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "PyTorch",
+   "Docker",
+   "Computer vision",
+   "LLM fine-tuning",
+   "scikit-learn",
+   "FAISS"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in PyTorch, Docker, Computer vision, LLM fine-tuning, scikit-learn, FAISS with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-060",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "scikit-learn",
+   "PyTorch",
+   "Docker",
+   "Computer vision",
+   "LLM fine-tuning",
+   "FAISS"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in scikit-learn, PyTorch, Docker, Computer vision, LLM fine-tuning, FAISS with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-061",
+  "project": "ai_ml_engineer-p06",
+  "industry": "e-commerce",
+  "skills": [
+   "Time series",
+   "pandas",
+   "XGBoost",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "ignored",
+  "text": "Your post mentions predicting next quarter's numbers. In my demand forecasting for a grocery chain project for a e-commerce client I used time series and numpy, and it reduced forecast error (MAPE) from 22% to 13%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-062",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "FAISS",
+   "Docker",
+   "XGBoost",
+   "LLM fine-tuning",
+   "NLP",
+   "scikit-learn"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in FAISS, Docker, XGBoost, LLM fine-tuning, NLP, scikit-learn with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-063",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "FAISS",
+   "RAG",
+   "FastAPI",
+   "LLM fine-tuning",
+   "Python",
+   "MLflow"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in FAISS, RAG, FastAPI, LLM fine-tuning, Python, MLflow with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-064",
+  "project": "ai_ml_engineer-p03",
+  "industry": "fintech",
+  "skills": [
+   "NLP",
+   "PyTorch",
+   "Python",
+   "Docker"
+  ],
+  "date": "2023-04",
+  "outcome": "ignored",
+  "text": "Your post mentions making sense of customer text at scale. In my invoice field extraction project for a fintech client I used nlp and PyTorch, and it reached 94% field-level accuracy on 3,000 invoices. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-065",
+  "project": "ai_ml_engineer-p06",
+  "industry": "e-commerce",
+  "skills": [
+   "Time series",
+   "pandas",
+   "XGBoost",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "replied",
+  "text": "Your post mentions predicting next quarter's numbers. In my demand forecasting for a grocery chain project for a e-commerce client I used forecasting and pandas, and it reduced forecast error (MAPE) from 22% to 13%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-066",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "RAG",
+   "FAISS",
+   "Time series",
+   "FastAPI",
+   "LangChain",
+   "Computer vision"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in RAG, FAISS, Time series, FastAPI, LangChain, Computer vision with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-067",
+  "project": "ai_ml_engineer-p07",
+  "industry": "healthcare",
+  "skills": [
+   "NLP",
+   "scikit-learn",
+   "FastAPI",
+   "Python"
+  ],
+  "date": "2024-12",
+  "outcome": "replied",
+  "text": "Your post mentions making sense of customer text at scale. In my clinical note classifier project for a healthcare client I used natural language processing and scikit-learn, and it scored 0.89 macro-F1 across 12 note types. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-068",
+  "project": "ai_ml_engineer-p12",
+  "industry": "real estate",
+  "skills": [
+   "RAG",
+   "LangChain",
+   "LLM fine-tuning",
+   "FAISS"
+  ],
+  "date": "2023-01",
+  "outcome": "won",
+  "text": "Your post mentions a chatbot that answers questions from our internal documents. In my contract question-answering bot project for a real estate client I used retrieval-augmented generation and langgraph, and it answered 86% of test questions with a correct citation. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-069",
+  "project": "ai_ml_engineer-p10",
+  "industry": "education",
+  "skills": [
+   "NLP",
+   "FAISS",
+   "scikit-learn",
+   "Python"
+  ],
+  "date": "2024-03",
+  "outcome": "won",
+  "text": "Your post mentions making sense of customer text at scale. In my resume-to-job matching engine project for a education client I used natural language processing and faiss, and it matched 5,000 resumes with 0.77 nDCG@10. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-070",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "FastAPI",
+   "AWS",
+   "Python",
+   "PyTorch",
+   "LangChain",
+   "pandas"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in FastAPI, AWS, Python, PyTorch, LangChain, pandas with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-071",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "FAISS",
+   "Python",
+   "Time series",
+   "LangChain",
+   "FastAPI",
+   "RAG"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in FAISS, Python, Time series, LangChain, FastAPI, RAG with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-072",
+  "project": "ai_ml_engineer-p07",
+  "industry": "healthcare",
+  "skills": [
+   "NLP",
+   "scikit-learn",
+   "FastAPI",
+   "Python"
+  ],
+  "date": "2024-12",
+  "outcome": "replied",
+  "text": "Your post mentions making sense of customer text at scale. In my clinical note classifier project for a healthcare client I used NLP and scikit-learn, and it scored 0.89 macro-F1 across 12 note types. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-073",
+  "project": "ai_ml_engineer-p07",
+  "industry": "healthcare",
+  "skills": [
+   "NLP",
+   "scikit-learn",
+   "FastAPI",
+   "Python"
+  ],
+  "date": "2024-12",
+  "outcome": "won",
+  "text": "Your post mentions making sense of customer text at scale. In my clinical note classifier project for a healthcare client I used nlp and scikit-learn, and it scored 0.89 macro-F1 across 12 note types. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-074",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Python",
+   "FastAPI",
+   "LLM fine-tuning",
+   "RAG",
+   "Time series",
+   "PyTorch"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Python, FastAPI, LLM fine-tuning, RAG, Time series, PyTorch with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-075",
+  "project": "ai_ml_engineer-p13",
+  "industry": "healthcare",
+  "skills": [
+   "MLflow",
+   "Docker",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Your post mentions keeping model experiments reproducible. In my experiment tracking rollout project for a healthcare client I used experiment tracking and dockerfile, and it made 140 past experiments reproducible. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-076",
+  "project": "ai_ml_engineer-p08",
+  "industry": "e-commerce",
+  "skills": [
+   "FAISS",
+   "NLP",
+   "FastAPI",
+   "AWS"
+  ],
+  "date": "2025-05",
+  "outcome": "won",
+  "text": "Your post mentions semantic search over embeddings. In my semantic product search project for a e-commerce client I used FAISS and natural language processing, and it improved search click-through by 18%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-077",
+  "project": "ai_ml_engineer-p06",
+  "industry": "e-commerce",
+  "skills": [
+   "Time series",
+   "pandas",
+   "XGBoost",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "replied",
+  "text": "Your post mentions predicting next quarter's numbers. In my demand forecasting for a grocery chain project for a e-commerce client I used time series and numpy, and it reduced forecast error (MAPE) from 22% to 13%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-078",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "FastAPI",
+   "Time series",
+   "pandas",
+   "scikit-learn",
+   "Computer vision",
+   "LLM fine-tuning"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in FastAPI, Time series, pandas, scikit-learn, Computer vision, LLM fine-tuning with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-079",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Docker",
+   "scikit-learn",
+   "NLP",
+   "PyTorch",
+   "LangChain",
+   "MLflow"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Docker, scikit-learn, NLP, PyTorch, LangChain, MLflow with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-080",
+  "project": "ai_ml_engineer-p02",
+  "industry": "media",
+  "skills": [
+   "scikit-learn",
+   "XGBoost",
+   "pandas",
+   "Python"
+  ],
+  "date": "2025-11",
+  "outcome": "ignored",
+  "text": "Your post mentions classical machine learning models. In my churn prediction for a telecom project for a media client I used scikit-learn and XGBoost, and it raised recall on churners from 0.58 to 0.81. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-081",
+  "project": "ai_ml_engineer-p08",
+  "industry": "e-commerce",
+  "skills": [
+   "FAISS",
+   "NLP",
+   "FastAPI",
+   "AWS"
+  ],
+  "date": "2025-05",
+  "outcome": "won",
+  "text": "Your post mentions semantic search over embeddings. In my semantic product search project for a e-commerce client I used FAISS and NLP, and it improved search click-through by 18%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-082",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Docker",
+   "scikit-learn",
+   "pandas",
+   "LangChain",
+   "FastAPI",
+   "NLP"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Docker, scikit-learn, pandas, LangChain, FastAPI, NLP with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-083",
+  "project": "ai_ml_engineer-p02",
+  "industry": "media",
+  "skills": [
+   "scikit-learn",
+   "XGBoost",
+   "pandas",
+   "Python"
+  ],
+  "date": "2025-11",
+  "outcome": "won",
+  "text": "Your post mentions classical machine learning models. In my churn prediction for a telecom project for a media client I used scikit-learn and gradient boosting, and it raised recall on churners from 0.58 to 0.81. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-084",
+  "project": "ai_ml_engineer-p03",
+  "industry": "fintech",
+  "skills": [
+   "NLP",
+   "PyTorch",
+   "Python",
+   "Docker"
+  ],
+  "date": "2023-04",
+  "outcome": "won",
+  "text": "Your post mentions making sense of customer text at scale. In my invoice field extraction project for a fintech client I used natural language processing and torch, and it reached 94% field-level accuracy on 3,000 invoices. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-085",
+  "project": "ai_ml_engineer-p05",
+  "industry": "e-commerce",
+  "skills": [
+   "LLM fine-tuning",
+   "PyTorch",
+   "MLflow",
+   "Python"
+  ],
+  "date": "2025-02",
+  "outcome": "ignored",
+  "text": "Your post mentions adapting a language model to our own tone and data. In my fine-tuned support tone model project for a e-commerce client I used fine-tuning and PyTorch, and it lifted agent acceptance of drafts from 41% to 73%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-086",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "LangChain",
+   "Python",
+   "NLP",
+   "RAG",
+   "scikit-learn",
+   "Computer vision"
+  ],
+  "date": "2024-06",
+  "outcome": "won",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in LangChain, Python, NLP, RAG, scikit-learn, Computer vision with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-087",
+  "project": "ai_ml_engineer-p02",
+  "industry": "media",
+  "skills": [
+   "scikit-learn",
+   "XGBoost",
+   "pandas",
+   "Python"
+  ],
+  "date": "2025-11",
+  "outcome": "replied",
+  "text": "Your post mentions classical machine learning models. In my churn prediction for a telecom project for a media client I used scikit-learn and gradient boosting, and it raised recall on churners from 0.58 to 0.81. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-088",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "LLM fine-tuning",
+   "RAG",
+   "Time series",
+   "LangChain",
+   "PyTorch",
+   "pandas"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in LLM fine-tuning, RAG, Time series, LangChain, PyTorch, pandas with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-089",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "MLflow",
+   "NLP",
+   "Time series",
+   "FAISS",
+   "LLM fine-tuning",
+   "Docker"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in MLflow, NLP, Time series, FAISS, LLM fine-tuning, Docker with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-090",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "MLflow",
+   "PyTorch",
+   "Time series",
+   "Python",
+   "LangChain",
+   "scikit-learn"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in MLflow, PyTorch, Time series, Python, LangChain, scikit-learn with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-091",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "LLM fine-tuning",
+   "NLP",
+   "Computer vision",
+   "XGBoost",
+   "scikit-learn",
+   "Time series"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in LLM fine-tuning, NLP, Computer vision, XGBoost, scikit-learn, Time series with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-092",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "RAG",
+   "NLP",
+   "Python",
+   "Time series",
+   "LangChain",
+   "PyTorch"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in RAG, NLP, Python, Time series, LangChain, PyTorch with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-093",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "Time series",
+   "AWS",
+   "pandas",
+   "MLflow"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Computer vision, PyTorch, Time series, AWS, pandas, MLflow with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-094",
+  "project": "ai_ml_engineer-p06",
+  "industry": "e-commerce",
+  "skills": [
+   "Time series",
+   "pandas",
+   "XGBoost",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "ignored",
+  "text": "Your post mentions predicting next quarter's numbers. In my demand forecasting for a grocery chain project for a e-commerce client I used Time series and pandas, and it reduced forecast error (MAPE) from 22% to 13%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-095",
+  "project": "ai_ml_engineer-p05",
+  "industry": "e-commerce",
+  "skills": [
+   "LLM fine-tuning",
+   "PyTorch",
+   "MLflow",
+   "Python"
+  ],
+  "date": "2025-02",
+  "outcome": "won",
+  "text": "Your post mentions adapting a language model to our own tone and data. In my fine-tuned support tone model project for a e-commerce client I used LLM fine-tuning and pytorch, and it lifted agent acceptance of drafts from 41% to 73%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-096",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "NLP",
+   "AWS",
+   "LLM fine-tuning",
+   "scikit-learn",
+   "PyTorch",
+   "LangChain"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in NLP, AWS, LLM fine-tuning, scikit-learn, PyTorch, LangChain with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-097",
+  "project": "ai_ml_engineer-p15",
+  "industry": "education",
+  "skills": [
+   "scikit-learn",
+   "pandas",
+   "Time series",
+   "Python"
+  ],
+  "date": "2023-04",
+  "outcome": "replied",
+  "text": "Your post mentions classical machine learning models. In my course recommendation model project for a education client I used sklearn and pandas, and it increased course enrolment clicks by 12%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-098",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "scikit-learn",
+   "MLflow",
+   "pandas",
+   "Time series",
+   "Docker",
+   "LangChain"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in scikit-learn, MLflow, pandas, Time series, Docker, LangChain with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-099",
+  "project": "ai_ml_engineer-p11",
+  "industry": "fintech",
+  "skills": [
+   "XGBoost",
+   "scikit-learn",
+   "AWS",
+   "pandas"
+  ],
+  "date": "2025-08",
+  "outcome": "ignored",
+  "text": "Your post mentions tabular prediction models. In my fraud scoring pipeline project for a fintech client I used xgboost and scikit-learn, and it flagged 31% more fraud at the same false-positive rate. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-100",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "FastAPI",
+   "MLflow",
+   "scikit-learn",
+   "Time series",
+   "pandas",
+   "NLP"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in FastAPI, MLflow, scikit-learn, Time series, pandas, NLP with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-101",
+  "project": "ai_ml_engineer-p08",
+  "industry": "e-commerce",
+  "skills": [
+   "FAISS",
+   "NLP",
+   "FastAPI",
+   "AWS"
+  ],
+  "date": "2025-05",
+  "outcome": "replied",
+  "text": "Your post mentions semantic search over embeddings. In my semantic product search project for a e-commerce client I used faiss and natural language processing, and it improved search click-through by 18%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-102",
+  "project": "ai_ml_engineer-p14",
+  "industry": "real estate",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "FastAPI"
+  ],
+  "date": "2025-11",
+  "outcome": "won",
+  "text": "Your post mentions recognising things in photos. In my property photo tagger project for a real estate client I used Computer vision and pytorch, and it tagged 20,000 listing photos at 92% precision. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-103",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Python",
+   "NLP",
+   "RAG",
+   "Computer vision",
+   "XGBoost",
+   "MLflow"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Python, NLP, RAG, Computer vision, XGBoost, MLflow with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-104",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "LangChain",
+   "scikit-learn",
+   "NLP",
+   "RAG",
+   "Time series",
+   "XGBoost"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in LangChain, scikit-learn, NLP, RAG, Time series, XGBoost with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-105",
+  "project": "ai_ml_engineer-p12",
+  "industry": "real estate",
+  "skills": [
+   "RAG",
+   "LangChain",
+   "LLM fine-tuning",
+   "FAISS"
+  ],
+  "date": "2023-01",
+  "outcome": "ignored",
+  "text": "Your post mentions a chatbot that answers questions from our internal documents. In my contract question-answering bot project for a real estate client I used rag and LangChain, and it answered 86% of test questions with a correct citation. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-106",
+  "project": "ai_ml_engineer-p09",
+  "industry": "SaaS",
+  "skills": [
+   "FastAPI",
+   "Docker",
+   "AWS",
+   "MLflow"
+  ],
+  "date": "2023-10",
+  "outcome": "replied",
+  "text": "Your post mentions a small Python web service. In my model serving platform project for a SaaS client I used fast api and dockerfile, and it brought p95 inference latency down to 120 ms. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-107",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Python",
+   "LangChain",
+   "FAISS",
+   "Time series",
+   "RAG",
+   "LLM fine-tuning"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Python, LangChain, FAISS, Time series, RAG, LLM fine-tuning with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-108",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "pandas",
+   "Computer vision",
+   "Time series",
+   "MLflow",
+   "AWS",
+   "RAG"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in pandas, Computer vision, Time series, MLflow, AWS, RAG with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-109",
+  "project": "ai_ml_engineer-p02",
+  "industry": "media",
+  "skills": [
+   "scikit-learn",
+   "XGBoost",
+   "pandas",
+   "Python"
+  ],
+  "date": "2025-11",
+  "outcome": "won",
+  "text": "Your post mentions classical machine learning models. In my churn prediction for a telecom project for a media client I used scikit-learn and gradient boosting, and it raised recall on churners from 0.58 to 0.81. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-110",
+  "project": "ai_ml_engineer-p06",
+  "industry": "e-commerce",
+  "skills": [
+   "Time series",
+   "pandas",
+   "XGBoost",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "ignored",
+  "text": "Your post mentions predicting next quarter's numbers. In my demand forecasting for a grocery chain project for a e-commerce client I used forecasting and pandas, and it reduced forecast error (MAPE) from 22% to 13%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-111",
+  "project": "ai_ml_engineer-p10",
+  "industry": "education",
+  "skills": [
+   "NLP",
+   "FAISS",
+   "scikit-learn",
+   "Python"
+  ],
+  "date": "2024-03",
+  "outcome": "ignored",
+  "text": "Your post mentions making sense of customer text at scale. In my resume-to-job matching engine project for a education client I used NLP and faiss, and it matched 5,000 resumes with 0.77 nDCG@10. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-112",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "scikit-learn",
+   "RAG",
+   "PyTorch",
+   "LLM fine-tuning",
+   "MLflow",
+   "Docker"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in scikit-learn, RAG, PyTorch, LLM fine-tuning, MLflow, Docker with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-113",
+  "project": "ai_ml_engineer-p08",
+  "industry": "e-commerce",
+  "skills": [
+   "FAISS",
+   "NLP",
+   "FastAPI",
+   "AWS"
+  ],
+  "date": "2025-05",
+  "outcome": "won",
+  "text": "Your post mentions semantic search over embeddings. In my semantic product search project for a e-commerce client I used faiss and natural language processing, and it improved search click-through by 18%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-114",
+  "project": "ai_ml_engineer-p14",
+  "industry": "real estate",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "FastAPI"
+  ],
+  "date": "2025-11",
+  "outcome": "won",
+  "text": "Your post mentions recognising things in photos. In my property photo tagger project for a real estate client I used opencv and PyTorch, and it tagged 20,000 listing photos at 92% precision. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-115",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Docker",
+   "scikit-learn",
+   "Time series",
+   "XGBoost",
+   "RAG",
+   "LLM fine-tuning"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Docker, scikit-learn, Time series, XGBoost, RAG, LLM fine-tuning with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-116",
+  "project": "ai_ml_engineer-p06",
+  "industry": "e-commerce",
+  "skills": [
+   "Time series",
+   "pandas",
+   "XGBoost",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "ignored",
+  "text": "Your post mentions predicting next quarter's numbers. In my demand forecasting for a grocery chain project for a e-commerce client I used time series and pandas, and it reduced forecast error (MAPE) from 22% to 13%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-117",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Docker",
+   "LLM fine-tuning",
+   "XGBoost",
+   "pandas",
+   "MLflow",
+   "scikit-learn"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Docker, LLM fine-tuning, XGBoost, pandas, MLflow, scikit-learn with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-118",
+  "project": "ai_ml_engineer-p05",
+  "industry": "e-commerce",
+  "skills": [
+   "LLM fine-tuning",
+   "PyTorch",
+   "MLflow",
+   "Python"
+  ],
+  "date": "2025-02",
+  "outcome": "won",
+  "text": "Your post mentions adapting a language model to our own tone and data. In my fine-tuned support tone model project for a e-commerce client I used fine tuning and pytorch, and it lifted agent acceptance of drafts from 41% to 73%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-119",
+  "project": "ai_ml_engineer-p11",
+  "industry": "fintech",
+  "skills": [
+   "XGBoost",
+   "scikit-learn",
+   "AWS",
+   "pandas"
+  ],
+  "date": "2025-08",
+  "outcome": "replied",
+  "text": "Your post mentions tabular prediction models. In my fraud scoring pipeline project for a fintech client I used xgboost and scikit-learn, and it flagged 31% more fraud at the same false-positive rate. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-120",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "NLP",
+   "Computer vision",
+   "scikit-learn",
+   "pandas",
+   "FAISS",
+   "PyTorch"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in NLP, Computer vision, scikit-learn, pandas, FAISS, PyTorch with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-121",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "FAISS",
+   "scikit-learn",
+   "Python",
+   "pandas",
+   "RAG",
+   "NLP"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in FAISS, scikit-learn, Python, pandas, RAG, NLP with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-122",
+  "project": "ai_ml_engineer-p02",
+  "industry": "media",
+  "skills": [
+   "scikit-learn",
+   "XGBoost",
+   "pandas",
+   "Python"
+  ],
+  "date": "2025-11",
+  "outcome": "ignored",
+  "text": "Your post mentions classical machine learning models. In my churn prediction for a telecom project for a media client I used scikit-learn and xgboost, and it raised recall on churners from 0.58 to 0.81. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-123",
+  "project": "ai_ml_engineer-p04",
+  "industry": "logistics",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "Docker"
+  ],
+  "date": "2024-09",
+  "outcome": "ignored",
+  "text": "Your post mentions recognising things in photos. In my defect detection on a packaging line project for a logistics client I used computer vision and PyTorch, and it caught 96% of defects at 30 frames per second. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-124",
+  "project": "ai_ml_engineer-p03",
+  "industry": "fintech",
+  "skills": [
+   "NLP",
+   "PyTorch",
+   "Python",
+   "Docker"
+  ],
+  "date": "2023-04",
+  "outcome": "ignored",
+  "text": "Your post mentions making sense of customer text at scale. In my invoice field extraction project for a fintech client I used natural language processing and pytorch, and it reached 94% field-level accuracy on 3,000 invoices. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-125",
+  "project": "ai_ml_engineer-p12",
+  "industry": "real estate",
+  "skills": [
+   "RAG",
+   "LangChain",
+   "LLM fine-tuning",
+   "FAISS"
+  ],
+  "date": "2023-01",
+  "outcome": "replied",
+  "text": "Your post mentions a chatbot that answers questions from our internal documents. In my contract question-answering bot project for a real estate client I used retrieval-augmented generation and langchain, and it answered 86% of test questions with a correct citation. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-126",
+  "project": "ai_ml_engineer-p11",
+  "industry": "fintech",
+  "skills": [
+   "XGBoost",
+   "scikit-learn",
+   "AWS",
+   "pandas"
+  ],
+  "date": "2025-08",
+  "outcome": "ignored",
+  "text": "Your post mentions tabular prediction models. In my fraud scoring pipeline project for a fintech client I used xgboost and scikit-learn, and it flagged 31% more fraud at the same false-positive rate. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-127",
+  "project": "ai_ml_engineer-p06",
+  "industry": "e-commerce",
+  "skills": [
+   "Time series",
+   "pandas",
+   "XGBoost",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "ignored",
+  "text": "Your post mentions predicting next quarter's numbers. In my demand forecasting for a grocery chain project for a e-commerce client I used Time series and pandas, and it reduced forecast error (MAPE) from 22% to 13%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-128",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "LangChain",
+   "Computer vision",
+   "MLflow",
+   "LLM fine-tuning",
+   "Python",
+   "pandas"
+  ],
+  "date": "2024-06",
+  "outcome": "won",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in LangChain, Computer vision, MLflow, LLM fine-tuning, Python, pandas with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-129",
+  "project": "ai_ml_engineer-p02",
+  "industry": "media",
+  "skills": [
+   "scikit-learn",
+   "XGBoost",
+   "pandas",
+   "Python"
+  ],
+  "date": "2025-11",
+  "outcome": "won",
+  "text": "Your post mentions classical machine learning models. In my churn prediction for a telecom project for a media client I used sklearn and XGBoost, and it raised recall on churners from 0.58 to 0.81. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-130",
+  "project": "ai_ml_engineer-p07",
+  "industry": "healthcare",
+  "skills": [
+   "NLP",
+   "scikit-learn",
+   "FastAPI",
+   "Python"
+  ],
+  "date": "2024-12",
+  "outcome": "ignored",
+  "text": "Your post mentions making sense of customer text at scale. In my clinical note classifier project for a healthcare client I used nlp and scikit-learn, and it scored 0.89 macro-F1 across 12 note types. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-131",
+  "project": "ai_ml_engineer-p08",
+  "industry": "e-commerce",
+  "skills": [
+   "FAISS",
+   "NLP",
+   "FastAPI",
+   "AWS"
+  ],
+  "date": "2025-05",
+  "outcome": "replied",
+  "text": "Your post mentions semantic search over embeddings. In my semantic product search project for a e-commerce client I used FAISS and NLP, and it improved search click-through by 18%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-132",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Time series",
+   "MLflow",
+   "Docker",
+   "Computer vision",
+   "PyTorch",
+   "LangChain"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Time series, MLflow, Docker, Computer vision, PyTorch, LangChain with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-133",
+  "project": "ai_ml_engineer-p14",
+  "industry": "real estate",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "FastAPI"
+  ],
+  "date": "2025-11",
+  "outcome": "replied",
+  "text": "Your post mentions recognising things in photos. In my property photo tagger project for a real estate client I used Computer vision and torch, and it tagged 20,000 listing photos at 92% precision. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-134",
+  "project": "ai_ml_engineer-p07",
+  "industry": "healthcare",
+  "skills": [
+   "NLP",
+   "scikit-learn",
+   "FastAPI",
+   "Python"
+  ],
+  "date": "2024-12",
+  "outcome": "replied",
+  "text": "Your post mentions making sense of customer text at scale. In my clinical note classifier project for a healthcare client I used NLP and sklearn, and it scored 0.89 macro-F1 across 12 note types. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-135",
+  "project": "ai_ml_engineer-p03",
+  "industry": "fintech",
+  "skills": [
+   "NLP",
+   "PyTorch",
+   "Python",
+   "Docker"
+  ],
+  "date": "2023-04",
+  "outcome": "won",
+  "text": "Your post mentions making sense of customer text at scale. In my invoice field extraction project for a fintech client I used nlp and PyTorch, and it reached 94% field-level accuracy on 3,000 invoices. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-136",
+  "project": "ai_ml_engineer-p04",
+  "industry": "logistics",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "Docker"
+  ],
+  "date": "2024-09",
+  "outcome": "replied",
+  "text": "Your post mentions recognising things in photos. In my defect detection on a packaging line project for a logistics client I used opencv and pytorch, and it caught 96% of defects at 30 frames per second. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-137",
+  "project": "ai_ml_engineer-p12",
+  "industry": "real estate",
+  "skills": [
+   "RAG",
+   "LangChain",
+   "LLM fine-tuning",
+   "FAISS"
+  ],
+  "date": "2023-01",
+  "outcome": "replied",
+  "text": "Your post mentions a chatbot that answers questions from our internal documents. In my contract question-answering bot project for a real estate client I used RAG and langchain, and it answered 86% of test questions with a correct citation. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-138",
+  "project": "ai_ml_engineer-p09",
+  "industry": "SaaS",
+  "skills": [
+   "FastAPI",
+   "Docker",
+   "AWS",
+   "MLflow"
+  ],
+  "date": "2023-10",
+  "outcome": "ignored",
+  "text": "Your post mentions a small Python web service. In my model serving platform project for a SaaS client I used fastapi and docker, and it brought p95 inference latency down to 120 ms. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-139",
+  "project": "ai_ml_engineer-p04",
+  "industry": "logistics",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "Docker"
+  ],
+  "date": "2024-09",
+  "outcome": "won",
+  "text": "Your post mentions recognising things in photos. In my defect detection on a packaging line project for a logistics client I used opencv and torch, and it caught 96% of defects at 30 frames per second. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-140",
+  "project": "ai_ml_engineer-p11",
+  "industry": "fintech",
+  "skills": [
+   "XGBoost",
+   "scikit-learn",
+   "AWS",
+   "pandas"
+  ],
+  "date": "2025-08",
+  "outcome": "replied",
+  "text": "Your post mentions tabular prediction models. In my fraud scoring pipeline project for a fintech client I used xgboost and scikit-learn, and it flagged 31% more fraud at the same false-positive rate. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-141",
+  "project": "ai_ml_engineer-p09",
+  "industry": "SaaS",
+  "skills": [
+   "FastAPI",
+   "Docker",
+   "AWS",
+   "MLflow"
+  ],
+  "date": "2023-10",
+  "outcome": "replied",
+  "text": "Your post mentions a small Python web service. In my model serving platform project for a SaaS client I used fastapi and docker, and it brought p95 inference latency down to 120 ms. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-142",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "XGBoost",
+   "AWS",
+   "Docker",
+   "pandas",
+   "RAG",
+   "PyTorch"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in XGBoost, AWS, Docker, pandas, RAG, PyTorch with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-143",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "MLflow",
+   "Docker",
+   "NLP",
+   "Computer vision",
+   "LangChain",
+   "LLM fine-tuning"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in MLflow, Docker, NLP, Computer vision, LangChain, LLM fine-tuning with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-144",
+  "project": "ai_ml_engineer-p04",
+  "industry": "logistics",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "Docker"
+  ],
+  "date": "2024-09",
+  "outcome": "replied",
+  "text": "Your post mentions recognising things in photos. In my defect detection on a packaging line project for a logistics client I used opencv and torch, and it caught 96% of defects at 30 frames per second. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-145",
+  "project": "ai_ml_engineer-p14",
+  "industry": "real estate",
+  "skills": [
+   "Computer vision",
+   "PyTorch",
+   "FastAPI"
+  ],
+  "date": "2025-11",
+  "outcome": "ignored",
+  "text": "Your post mentions recognising things in photos. In my property photo tagger project for a real estate client I used opencv and pytorch, and it tagged 20,000 listing photos at 92% precision. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "ai_ml_engineer-prop-146",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "PyTorch",
+   "FastAPI",
+   "MLflow",
+   "NLP",
+   "LLM fine-tuning",
+   "AWS"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in PyTorch, FastAPI, MLflow, NLP, LLM fine-tuning, AWS with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-147",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Docker",
+   "NLP",
+   "Python",
+   "PyTorch",
+   "FastAPI",
+   "LangChain"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Docker, NLP, Python, PyTorch, FastAPI, LangChain with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-148",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "pandas",
+   "XGBoost",
+   "Docker",
+   "Computer vision",
+   "NLP",
+   "LLM fine-tuning"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in pandas, XGBoost, Docker, Computer vision, NLP, LLM fine-tuning with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-149",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Docker",
+   "NLP",
+   "Python",
+   "Time series",
+   "RAG",
+   "FastAPI"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Docker, NLP, Python, Time series, RAG, FastAPI with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "ai_ml_engineer-prop-150",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "AWS",
+   "Time series",
+   "XGBoost",
+   "Docker",
+   "LangChain",
+   "pandas"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in AWS, Time series, XGBoost, Docker, LangChain, pandas with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ }
+]

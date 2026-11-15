@@ -1,0 +1,1322 @@
+{
+ "client-001": {
+  "client_id": "client-001",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 17,
+  "hire_rate": 0.55,
+  "avg_rating_given": 4.6,
+  "member_since": "2022",
+  "country": "UK"
+ },
+ "client-002": {
+  "client_id": "client-002",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 26,
+  "hire_rate": 0.7,
+  "avg_rating_given": 4.3,
+  "member_since": "2024",
+  "country": "CA"
+ },
+ "client-003": {
+  "client_id": "client-003",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 24,
+  "hire_rate": 0.49,
+  "avg_rating_given": 3.9,
+  "member_since": "2017",
+  "country": "DE"
+ },
+ "client-004": {
+  "client_id": "client-004",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 28,
+  "hire_rate": 0.61,
+  "avg_rating_given": 4.9,
+  "member_since": "2017",
+  "country": "UK"
+ },
+ "client-005": {
+  "client_id": "client-005",
+  "payment_verified": false,
+  "total_spent_usd": 60000,
+  "hires": 34,
+  "hire_rate": 0.46,
+  "avg_rating_given": 4.5,
+  "member_since": "2024",
+  "country": "CA"
+ },
+ "client-006": {
+  "client_id": "client-006",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 14,
+  "hire_rate": 0.88,
+  "avg_rating_given": 3.9,
+  "member_since": "2017",
+  "country": "UK"
+ },
+ "client-007": {
+  "client_id": "client-007",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 21,
+  "hire_rate": 0.72,
+  "avg_rating_given": 5.0,
+  "member_since": "2025",
+  "country": "AU"
+ },
+ "client-008": {
+  "client_id": "client-008",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 4,
+  "hire_rate": 0.72,
+  "avg_rating_given": 4.9,
+  "member_since": "2020",
+  "country": "DE"
+ },
+ "client-009": {
+  "client_id": "client-009",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 9,
+  "hire_rate": 0.34,
+  "avg_rating_given": 4.4,
+  "member_since": "2025",
+  "country": "CA"
+ },
+ "client-010": {
+  "client_id": "client-010",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 15,
+  "hire_rate": 0.52,
+  "avg_rating_given": 4.7,
+  "member_since": "2022",
+  "country": "AU"
+ },
+ "client-011": {
+  "client_id": "client-011",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 13,
+  "hire_rate": 0.22,
+  "avg_rating_given": 3.7,
+  "member_since": "2020",
+  "country": "CA"
+ },
+ "client-012": {
+  "client_id": "client-012",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 37,
+  "hire_rate": 0.32,
+  "avg_rating_given": 4.5,
+  "member_since": "2025",
+  "country": "AU"
+ },
+ "client-013": {
+  "client_id": "client-013",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 31,
+  "hire_rate": 0.87,
+  "avg_rating_given": 4.1,
+  "member_since": "2022",
+  "country": "CA"
+ },
+ "client-014": {
+  "client_id": "client-014",
+  "payment_verified": false,
+  "total_spent_usd": 3000,
+  "hires": 16,
+  "hire_rate": 0.58,
+  "avg_rating_given": 3.7,
+  "member_since": "2017",
+  "country": "CA"
+ },
+ "client-015": {
+  "client_id": "client-015",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 21,
+  "hire_rate": 0.88,
+  "avg_rating_given": 4.2,
+  "member_since": "2023",
+  "country": "CA"
+ },
+ "client-016": {
+  "client_id": "client-016",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 20,
+  "hire_rate": 0.33,
+  "avg_rating_given": 4.2,
+  "member_since": "2026",
+  "country": "US"
+ },
+ "client-017": {
+  "client_id": "client-017",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 2,
+  "hire_rate": 0.66,
+  "avg_rating_given": 4.9,
+  "member_since": "2017",
+  "country": "DE"
+ },
+ "client-018": {
+  "client_id": "client-018",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 26,
+  "hire_rate": 0.22,
+  "avg_rating_given": 4.6,
+  "member_since": "2019",
+  "country": "AE"
+ },
+ "client-019": {
+  "client_id": "client-019",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 21,
+  "hire_rate": 0.76,
+  "avg_rating_given": 3.7,
+  "member_since": "2020",
+  "country": "AE"
+ },
+ "client-020": {
+  "client_id": "client-020",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 0,
+  "hire_rate": 0.55,
+  "avg_rating_given": 4.8,
+  "member_since": "2026",
+  "country": "PK"
+ },
+ "client-021": {
+  "client_id": "client-021",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 25,
+  "hire_rate": 0.22,
+  "avg_rating_given": 4.3,
+  "member_since": "2019",
+  "country": "UK"
+ },
+ "client-022": {
+  "client_id": "client-022",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 26,
+  "hire_rate": 0.34,
+  "avg_rating_given": 4.7,
+  "member_since": "2017",
+  "country": "DE"
+ },
+ "client-023": {
+  "client_id": "client-023",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 34,
+  "hire_rate": 0.83,
+  "avg_rating_given": 3.8,
+  "member_since": "2025",
+  "country": "CA"
+ },
+ "client-024": {
+  "client_id": "client-024",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 21,
+  "hire_rate": 0.23,
+  "avg_rating_given": 3.9,
+  "member_since": "2018",
+  "country": "CA"
+ },
+ "client-025": {
+  "client_id": "client-025",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 27,
+  "hire_rate": 0.5,
+  "avg_rating_given": 3.8,
+  "member_since": "2025",
+  "country": "AU"
+ },
+ "client-026": {
+  "client_id": "client-026",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 39,
+  "hire_rate": 0.22,
+  "avg_rating_given": 4.2,
+  "member_since": "2018",
+  "country": "US"
+ },
+ "client-027": {
+  "client_id": "client-027",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 33,
+  "hire_rate": 0.23,
+  "avg_rating_given": 4.5,
+  "member_since": "2018",
+  "country": "PK"
+ },
+ "client-028": {
+  "client_id": "client-028",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 13,
+  "hire_rate": 0.48,
+  "avg_rating_given": 4.5,
+  "member_since": "2025",
+  "country": "UK"
+ },
+ "client-029": {
+  "client_id": "client-029",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 27,
+  "hire_rate": 0.26,
+  "avg_rating_given": 4.9,
+  "member_since": "2020",
+  "country": "AU"
+ },
+ "client-030": {
+  "client_id": "client-030",
+  "payment_verified": false,
+  "total_spent_usd": 500,
+  "hires": 31,
+  "hire_rate": 0.72,
+  "avg_rating_given": 3.9,
+  "member_since": "2026",
+  "country": "PK"
+ },
+ "client-031": {
+  "client_id": "client-031",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 5,
+  "hire_rate": 0.26,
+  "avg_rating_given": 4.9,
+  "member_since": "2018",
+  "country": "UK"
+ },
+ "client-032": {
+  "client_id": "client-032",
+  "payment_verified": false,
+  "total_spent_usd": 3000,
+  "hires": 15,
+  "hire_rate": 0.64,
+  "avg_rating_given": 4.3,
+  "member_since": "2024",
+  "country": "AU"
+ },
+ "client-033": {
+  "client_id": "client-033",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 0,
+  "hire_rate": 0.89,
+  "avg_rating_given": 4.3,
+  "member_since": "2024",
+  "country": "UK"
+ },
+ "client-034": {
+  "client_id": "client-034",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 23,
+  "hire_rate": 0.25,
+  "avg_rating_given": 4.3,
+  "member_since": "2018",
+  "country": "PK"
+ },
+ "client-035": {
+  "client_id": "client-035",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 7,
+  "hire_rate": 0.4,
+  "avg_rating_given": 4.8,
+  "member_since": "2017",
+  "country": "UK"
+ },
+ "client-036": {
+  "client_id": "client-036",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 14,
+  "hire_rate": 0.39,
+  "avg_rating_given": 4.2,
+  "member_since": "2021",
+  "country": "US"
+ },
+ "client-037": {
+  "client_id": "client-037",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 38,
+  "hire_rate": 0.54,
+  "avg_rating_given": 4.1,
+  "member_since": "2024",
+  "country": "AE"
+ },
+ "client-038": {
+  "client_id": "client-038",
+  "payment_verified": false,
+  "total_spent_usd": 500,
+  "hires": 32,
+  "hire_rate": 0.22,
+  "avg_rating_given": 4.6,
+  "member_since": "2018",
+  "country": "AE"
+ },
+ "client-039": {
+  "client_id": "client-039",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 13,
+  "hire_rate": 0.41,
+  "avg_rating_given": 4.4,
+  "member_since": "2020",
+  "country": "AE"
+ },
+ "client-040": {
+  "client_id": "client-040",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 36,
+  "hire_rate": 0.57,
+  "avg_rating_given": 4.5,
+  "member_since": "2017",
+  "country": "CA"
+ },
+ "client-041": {
+  "client_id": "client-041",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 36,
+  "hire_rate": 0.47,
+  "avg_rating_given": 4.4,
+  "member_since": "2023",
+  "country": "CA"
+ },
+ "client-042": {
+  "client_id": "client-042",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 27,
+  "hire_rate": 0.23,
+  "avg_rating_given": 4.0,
+  "member_since": "2026",
+  "country": "CA"
+ },
+ "client-043": {
+  "client_id": "client-043",
+  "payment_verified": false,
+  "total_spent_usd": 3000,
+  "hires": 15,
+  "hire_rate": 0.67,
+  "avg_rating_given": 3.9,
+  "member_since": "2023",
+  "country": "DE"
+ },
+ "client-044": {
+  "client_id": "client-044",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 4,
+  "hire_rate": 0.9,
+  "avg_rating_given": 3.7,
+  "member_since": "2019",
+  "country": "AU"
+ },
+ "client-045": {
+  "client_id": "client-045",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 5,
+  "hire_rate": 0.38,
+  "avg_rating_given": 4.9,
+  "member_since": "2024",
+  "country": "US"
+ },
+ "client-046": {
+  "client_id": "client-046",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 40,
+  "hire_rate": 0.48,
+  "avg_rating_given": 3.7,
+  "member_since": "2024",
+  "country": "AE"
+ },
+ "client-047": {
+  "client_id": "client-047",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 13,
+  "hire_rate": 0.37,
+  "avg_rating_given": 3.9,
+  "member_since": "2017",
+  "country": "US"
+ },
+ "client-048": {
+  "client_id": "client-048",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 7,
+  "hire_rate": 0.55,
+  "avg_rating_given": 4.6,
+  "member_since": "2017",
+  "country": "PK"
+ },
+ "client-049": {
+  "client_id": "client-049",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 19,
+  "hire_rate": 0.62,
+  "avg_rating_given": 4.3,
+  "member_since": "2019",
+  "country": "AU"
+ },
+ "client-050": {
+  "client_id": "client-050",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 12,
+  "hire_rate": 0.85,
+  "avg_rating_given": 3.6,
+  "member_since": "2025",
+  "country": "AE"
+ },
+ "client-051": {
+  "client_id": "client-051",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 24,
+  "hire_rate": 0.89,
+  "avg_rating_given": 4.9,
+  "member_since": "2023",
+  "country": "AE"
+ },
+ "client-052": {
+  "client_id": "client-052",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 21,
+  "hire_rate": 0.34,
+  "avg_rating_given": 4.5,
+  "member_since": "2019",
+  "country": "AU"
+ },
+ "client-053": {
+  "client_id": "client-053",
+  "payment_verified": false,
+  "total_spent_usd": 500,
+  "hires": 13,
+  "hire_rate": 0.28,
+  "avg_rating_given": 4.8,
+  "member_since": "2023",
+  "country": "CA"
+ },
+ "client-054": {
+  "client_id": "client-054",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 15,
+  "hire_rate": 0.55,
+  "avg_rating_given": 4.0,
+  "member_since": "2026",
+  "country": "UK"
+ },
+ "client-055": {
+  "client_id": "client-055",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 25,
+  "hire_rate": 0.7,
+  "avg_rating_given": 4.0,
+  "member_since": "2026",
+  "country": "AU"
+ },
+ "client-056": {
+  "client_id": "client-056",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 30,
+  "hire_rate": 0.78,
+  "avg_rating_given": 4.4,
+  "member_since": "2024",
+  "country": "DE"
+ },
+ "client-057": {
+  "client_id": "client-057",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 37,
+  "hire_rate": 0.69,
+  "avg_rating_given": 4.7,
+  "member_since": "2019",
+  "country": "PK"
+ },
+ "client-058": {
+  "client_id": "client-058",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 40,
+  "hire_rate": 0.58,
+  "avg_rating_given": 4.0,
+  "member_since": "2023",
+  "country": "US"
+ },
+ "client-059": {
+  "client_id": "client-059",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 23,
+  "hire_rate": 0.22,
+  "avg_rating_given": 4.9,
+  "member_since": "2019",
+  "country": "DE"
+ },
+ "client-060": {
+  "client_id": "client-060",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 32,
+  "hire_rate": 0.8,
+  "avg_rating_given": 4.0,
+  "member_since": "2021",
+  "country": "DE"
+ },
+ "client-061": {
+  "client_id": "client-061",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 30,
+  "hire_rate": 0.88,
+  "avg_rating_given": 4.5,
+  "member_since": "2017",
+  "country": "UK"
+ },
+ "client-062": {
+  "client_id": "client-062",
+  "payment_verified": false,
+  "total_spent_usd": 3000,
+  "hires": 1,
+  "hire_rate": 0.69,
+  "avg_rating_given": 4.1,
+  "member_since": "2024",
+  "country": "PK"
+ },
+ "client-063": {
+  "client_id": "client-063",
+  "payment_verified": false,
+  "total_spent_usd": 0,
+  "hires": 35,
+  "hire_rate": 0.29,
+  "avg_rating_given": 4.4,
+  "member_since": "2024",
+  "country": "US"
+ },
+ "client-064": {
+  "client_id": "client-064",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 8,
+  "hire_rate": 0.59,
+  "avg_rating_given": 4.1,
+  "member_since": "2020",
+  "country": "UK"
+ },
+ "client-065": {
+  "client_id": "client-065",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 38,
+  "hire_rate": 0.75,
+  "avg_rating_given": 4.8,
+  "member_since": "2022",
+  "country": "DE"
+ },
+ "client-066": {
+  "client_id": "client-066",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 21,
+  "hire_rate": 0.46,
+  "avg_rating_given": 3.9,
+  "member_since": "2018",
+  "country": "AU"
+ },
+ "client-067": {
+  "client_id": "client-067",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 40,
+  "hire_rate": 0.67,
+  "avg_rating_given": 4.3,
+  "member_since": "2025",
+  "country": "CA"
+ },
+ "client-068": {
+  "client_id": "client-068",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 1,
+  "hire_rate": 0.55,
+  "avg_rating_given": 4.8,
+  "member_since": "2020",
+  "country": "UK"
+ },
+ "client-069": {
+  "client_id": "client-069",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 12,
+  "hire_rate": 0.89,
+  "avg_rating_given": 4.7,
+  "member_since": "2025",
+  "country": "DE"
+ },
+ "client-070": {
+  "client_id": "client-070",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 10,
+  "hire_rate": 0.61,
+  "avg_rating_given": 3.9,
+  "member_since": "2022",
+  "country": "PK"
+ },
+ "client-071": {
+  "client_id": "client-071",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 10,
+  "hire_rate": 0.9,
+  "avg_rating_given": 4.4,
+  "member_since": "2025",
+  "country": "UK"
+ },
+ "client-072": {
+  "client_id": "client-072",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 2,
+  "hire_rate": 0.27,
+  "avg_rating_given": 4.2,
+  "member_since": "2024",
+  "country": "UK"
+ },
+ "client-073": {
+  "client_id": "client-073",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 25,
+  "hire_rate": 0.28,
+  "avg_rating_given": 4.5,
+  "member_since": "2022",
+  "country": "CA"
+ },
+ "client-074": {
+  "client_id": "client-074",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 11,
+  "hire_rate": 0.61,
+  "avg_rating_given": 4.5,
+  "member_since": "2026",
+  "country": "DE"
+ },
+ "client-075": {
+  "client_id": "client-075",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 23,
+  "hire_rate": 0.5,
+  "avg_rating_given": 3.7,
+  "member_since": "2022",
+  "country": "DE"
+ },
+ "client-076": {
+  "client_id": "client-076",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 3,
+  "hire_rate": 0.71,
+  "avg_rating_given": 4.5,
+  "member_since": "2025",
+  "country": "CA"
+ },
+ "client-077": {
+  "client_id": "client-077",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 36,
+  "hire_rate": 0.22,
+  "avg_rating_given": 4.6,
+  "member_since": "2025",
+  "country": "AE"
+ },
+ "client-078": {
+  "client_id": "client-078",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 33,
+  "hire_rate": 0.32,
+  "avg_rating_given": 3.7,
+  "member_since": "2019",
+  "country": "DE"
+ },
+ "client-079": {
+  "client_id": "client-079",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 11,
+  "hire_rate": 0.75,
+  "avg_rating_given": 4.4,
+  "member_since": "2018",
+  "country": "UK"
+ },
+ "client-080": {
+  "client_id": "client-080",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 9,
+  "hire_rate": 0.88,
+  "avg_rating_given": 3.6,
+  "member_since": "2024",
+  "country": "DE"
+ },
+ "client-081": {
+  "client_id": "client-081",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 33,
+  "hire_rate": 0.81,
+  "avg_rating_given": 4.0,
+  "member_since": "2023",
+  "country": "CA"
+ },
+ "client-082": {
+  "client_id": "client-082",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 2,
+  "hire_rate": 0.35,
+  "avg_rating_given": 4.2,
+  "member_since": "2020",
+  "country": "PK"
+ },
+ "client-083": {
+  "client_id": "client-083",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 40,
+  "hire_rate": 0.63,
+  "avg_rating_given": 4.7,
+  "member_since": "2021",
+  "country": "AU"
+ },
+ "client-084": {
+  "client_id": "client-084",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 31,
+  "hire_rate": 0.67,
+  "avg_rating_given": 4.7,
+  "member_since": "2023",
+  "country": "DE"
+ },
+ "client-085": {
+  "client_id": "client-085",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 30,
+  "hire_rate": 0.44,
+  "avg_rating_given": 4.1,
+  "member_since": "2020",
+  "country": "UK"
+ },
+ "client-086": {
+  "client_id": "client-086",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 20,
+  "hire_rate": 0.64,
+  "avg_rating_given": 4.2,
+  "member_since": "2019",
+  "country": "CA"
+ },
+ "client-087": {
+  "client_id": "client-087",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 8,
+  "hire_rate": 0.76,
+  "avg_rating_given": 4.7,
+  "member_since": "2018",
+  "country": "DE"
+ },
+ "client-088": {
+  "client_id": "client-088",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 36,
+  "hire_rate": 0.52,
+  "avg_rating_given": 4.5,
+  "member_since": "2024",
+  "country": "PK"
+ },
+ "client-089": {
+  "client_id": "client-089",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 28,
+  "hire_rate": 0.37,
+  "avg_rating_given": 4.4,
+  "member_since": "2022",
+  "country": "CA"
+ },
+ "client-090": {
+  "client_id": "client-090",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 0,
+  "hire_rate": 0.75,
+  "avg_rating_given": 3.7,
+  "member_since": "2026",
+  "country": "AE"
+ },
+ "client-091": {
+  "client_id": "client-091",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 32,
+  "hire_rate": 0.45,
+  "avg_rating_given": 3.9,
+  "member_since": "2018",
+  "country": "US"
+ },
+ "client-092": {
+  "client_id": "client-092",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 6,
+  "hire_rate": 0.6,
+  "avg_rating_given": 3.8,
+  "member_since": "2024",
+  "country": "DE"
+ },
+ "client-093": {
+  "client_id": "client-093",
+  "payment_verified": false,
+  "total_spent_usd": 12000,
+  "hires": 28,
+  "hire_rate": 0.58,
+  "avg_rating_given": 4.9,
+  "member_since": "2017",
+  "country": "US"
+ },
+ "client-094": {
+  "client_id": "client-094",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 33,
+  "hire_rate": 0.25,
+  "avg_rating_given": 4.1,
+  "member_since": "2018",
+  "country": "PK"
+ },
+ "client-095": {
+  "client_id": "client-095",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 40,
+  "hire_rate": 0.78,
+  "avg_rating_given": 4.7,
+  "member_since": "2017",
+  "country": "DE"
+ },
+ "client-096": {
+  "client_id": "client-096",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 7,
+  "hire_rate": 0.5,
+  "avg_rating_given": 4.4,
+  "member_since": "2021",
+  "country": "DE"
+ },
+ "client-097": {
+  "client_id": "client-097",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 3,
+  "hire_rate": 0.7,
+  "avg_rating_given": 4.6,
+  "member_since": "2019",
+  "country": "AE"
+ },
+ "client-098": {
+  "client_id": "client-098",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 16,
+  "hire_rate": 0.81,
+  "avg_rating_given": 4.7,
+  "member_since": "2025",
+  "country": "PK"
+ },
+ "client-099": {
+  "client_id": "client-099",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 19,
+  "hire_rate": 0.31,
+  "avg_rating_given": 4.8,
+  "member_since": "2019",
+  "country": "AU"
+ },
+ "client-100": {
+  "client_id": "client-100",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 21,
+  "hire_rate": 0.68,
+  "avg_rating_given": 4.4,
+  "member_since": "2024",
+  "country": "AE"
+ },
+ "client-101": {
+  "client_id": "client-101",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 4,
+  "hire_rate": 0.38,
+  "avg_rating_given": 4.8,
+  "member_since": "2019",
+  "country": "DE"
+ },
+ "client-102": {
+  "client_id": "client-102",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 29,
+  "hire_rate": 0.62,
+  "avg_rating_given": 4.3,
+  "member_since": "2022",
+  "country": "UK"
+ },
+ "client-103": {
+  "client_id": "client-103",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 1,
+  "hire_rate": 0.85,
+  "avg_rating_given": 3.6,
+  "member_since": "2026",
+  "country": "AE"
+ },
+ "client-104": {
+  "client_id": "client-104",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 23,
+  "hire_rate": 0.85,
+  "avg_rating_given": 4.1,
+  "member_since": "2019",
+  "country": "AU"
+ },
+ "client-105": {
+  "client_id": "client-105",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 5,
+  "hire_rate": 0.53,
+  "avg_rating_given": 4.4,
+  "member_since": "2020",
+  "country": "AE"
+ },
+ "client-106": {
+  "client_id": "client-106",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 11,
+  "hire_rate": 0.9,
+  "avg_rating_given": 4.7,
+  "member_since": "2026",
+  "country": "AU"
+ },
+ "client-107": {
+  "client_id": "client-107",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 6,
+  "hire_rate": 0.51,
+  "avg_rating_given": 4.2,
+  "member_since": "2019",
+  "country": "UK"
+ },
+ "client-108": {
+  "client_id": "client-108",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 3,
+  "hire_rate": 0.26,
+  "avg_rating_given": 4.0,
+  "member_since": "2026",
+  "country": "CA"
+ },
+ "client-109": {
+  "client_id": "client-109",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 38,
+  "hire_rate": 0.7,
+  "avg_rating_given": 3.7,
+  "member_since": "2024",
+  "country": "AE"
+ },
+ "client-110": {
+  "client_id": "client-110",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 22,
+  "hire_rate": 0.47,
+  "avg_rating_given": 4.7,
+  "member_since": "2023",
+  "country": "AE"
+ },
+ "client-111": {
+  "client_id": "client-111",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 4,
+  "hire_rate": 0.24,
+  "avg_rating_given": 3.7,
+  "member_since": "2017",
+  "country": "US"
+ },
+ "client-112": {
+  "client_id": "client-112",
+  "payment_verified": false,
+  "total_spent_usd": 3000,
+  "hires": 15,
+  "hire_rate": 0.22,
+  "avg_rating_given": 5.0,
+  "member_since": "2026",
+  "country": "CA"
+ },
+ "client-113": {
+  "client_id": "client-113",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 3,
+  "hire_rate": 0.53,
+  "avg_rating_given": 3.7,
+  "member_since": "2023",
+  "country": "CA"
+ },
+ "client-114": {
+  "client_id": "client-114",
+  "payment_verified": true,
+  "total_spent_usd": 60000,
+  "hires": 20,
+  "hire_rate": 0.39,
+  "avg_rating_given": 4.4,
+  "member_since": "2022",
+  "country": "UK"
+ },
+ "client-115": {
+  "client_id": "client-115",
+  "payment_verified": true,
+  "total_spent_usd": 0,
+  "hires": 17,
+  "hire_rate": 0.64,
+  "avg_rating_given": 4.0,
+  "member_since": "2018",
+  "country": "UK"
+ },
+ "client-116": {
+  "client_id": "client-116",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 31,
+  "hire_rate": 0.52,
+  "avg_rating_given": 3.9,
+  "member_since": "2024",
+  "country": "CA"
+ },
+ "client-117": {
+  "client_id": "client-117",
+  "payment_verified": true,
+  "total_spent_usd": 12000,
+  "hires": 4,
+  "hire_rate": 0.88,
+  "avg_rating_given": 3.8,
+  "member_since": "2025",
+  "country": "US"
+ },
+ "client-118": {
+  "client_id": "client-118",
+  "payment_verified": true,
+  "total_spent_usd": 500,
+  "hires": 3,
+  "hire_rate": 0.63,
+  "avg_rating_given": 4.5,
+  "member_since": "2017",
+  "country": "UK"
+ },
+ "client-119": {
+  "client_id": "client-119",
+  "payment_verified": false,
+  "total_spent_usd": 3000,
+  "hires": 19,
+  "hire_rate": 0.42,
+  "avg_rating_given": 3.8,
+  "member_since": "2021",
+  "country": "CA"
+ },
+ "client-120": {
+  "client_id": "client-120",
+  "payment_verified": true,
+  "total_spent_usd": 3000,
+  "hires": 7,
+  "hire_rate": 0.73,
+  "avg_rating_given": 4.9,
+  "member_since": "2023",
+  "country": "DE"
+ },
+ "client-scam-01": {
+  "client_id": "client-scam-01",
+  "payment_verified": false,
+  "total_spent_usd": 0,
+  "hires": 0,
+  "hire_rate": 0.0,
+  "avg_rating_given": 0.0,
+  "member_since": "2026",
+  "country": "??"
+ },
+ "client-scam-02": {
+  "client_id": "client-scam-02",
+  "payment_verified": false,
+  "total_spent_usd": 0,
+  "hires": 0,
+  "hire_rate": 0.0,
+  "avg_rating_given": 0.0,
+  "member_since": "2026",
+  "country": "??"
+ },
+ "client-scam-03": {
+  "client_id": "client-scam-03",
+  "payment_verified": false,
+  "total_spent_usd": 0,
+  "hires": 0,
+  "hire_rate": 0.0,
+  "avg_rating_given": 0.0,
+  "member_since": "2026",
+  "country": "??"
+ },
+ "client-scam-04": {
+  "client_id": "client-scam-04",
+  "payment_verified": false,
+  "total_spent_usd": 0,
+  "hires": 0,
+  "hire_rate": 0.0,
+  "avg_rating_given": 0.0,
+  "member_since": "2026",
+  "country": "??"
+ },
+ "client-scam-05": {
+  "client_id": "client-scam-05",
+  "payment_verified": false,
+  "total_spent_usd": 0,
+  "hires": 0,
+  "hire_rate": 0.0,
+  "avg_rating_given": 0.0,
+  "member_since": "2026",
+  "country": "??"
+ },
+ "client-scam-06": {
+  "client_id": "client-scam-06",
+  "payment_verified": false,
+  "total_spent_usd": 0,
+  "hires": 0,
+  "hire_rate": 0.0,
+  "avg_rating_given": 0.0,
+  "member_since": "2026",
+  "country": "??"
+ },
+ "client-scam-07": {
+  "client_id": "client-scam-07",
+  "payment_verified": false,
+  "total_spent_usd": 0,
+  "hires": 0,
+  "hire_rate": 0.0,
+  "avg_rating_given": 0.0,
+  "member_since": "2026",
+  "country": "??"
+ },
+ "client-scam-08": {
+  "client_id": "client-scam-08",
+  "payment_verified": false,
+  "total_spent_usd": 0,
+  "hires": 0,
+  "hire_rate": 0.0,
+  "avg_rating_given": 0.0,
+  "member_since": "2026",
+  "country": "??"
+ },
+ "client-scam-09": {
+  "client_id": "client-scam-09",
+  "payment_verified": false,
+  "total_spent_usd": 0,
+  "hires": 0,
+  "hire_rate": 0.0,
+  "avg_rating_given": 0.0,
+  "member_since": "2026",
+  "country": "??"
+ },
+ "client-scam-10": {
+  "client_id": "client-scam-10",
+  "payment_verified": false,
+  "total_spent_usd": 0,
+  "hires": 0,
+  "hire_rate": 0.0,
+  "avg_rating_given": 0.0,
+  "member_since": "2026",
+  "country": "??"
+ },
+ "client-scam-11": {
+  "client_id": "client-scam-11",
+  "payment_verified": false,
+  "total_spent_usd": 0,
+  "hires": 0,
+  "hire_rate": 0.0,
+  "avg_rating_given": 0.0,
+  "member_since": "2026",
+  "country": "??"
+ },
+ "client-scam-12": {
+  "client_id": "client-scam-12",
+  "payment_verified": false,
+  "total_spent_usd": 0,
+  "hires": 0,
+  "hire_rate": 0.0,
+  "avg_rating_given": 0.0,
+  "member_since": "2026",
+  "country": "??"
+ }
+}

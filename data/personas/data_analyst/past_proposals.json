@@ -1,0 +1,2222 @@
+[
+ {
+  "id": "data_analyst-prop-001",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Airflow",
+   "Power BI",
+   "pandas",
+   "BigQuery",
+   "Data visualization",
+   "Looker"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Airflow, Power BI, pandas, BigQuery, Data visualization, Looker with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-002",
+  "project": "data_analyst-p06",
+  "industry": "logistics",
+  "skills": [
+   "Airflow",
+   "ETL",
+   "BigQuery",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "replied",
+  "text": "Your post mentions scheduled jobs that retry themselves. In my nightly data pipeline project for a logistics client I used Airflow and elt, and it brought data freshness from 3 days to 6 hours. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-003",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Python",
+   "Time series",
+   "Looker",
+   "scikit-learn",
+   "Excel",
+   "Google Analytics"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Python, Time series, Looker, scikit-learn, Excel, Google Analytics with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-004",
+  "project": "data_analyst-p03",
+  "industry": "SaaS",
+  "skills": [
+   "dbt",
+   "BigQuery",
+   "SQL",
+   "ETL"
+  ],
+  "date": "2023-04",
+  "outcome": "won",
+  "text": "Your post mentions version-controlled SQL transformations. In my warehouse modelling with dbt project for a SaaS client I used data build tool and BigQuery, and it cut dashboard query cost by 63%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-005",
+  "project": "data_analyst-p08",
+  "industry": "e-commerce",
+  "skills": [
+   "pandas",
+   "scikit-learn",
+   "SQL",
+   "Tableau"
+  ],
+  "date": "2025-05",
+  "outcome": "ignored",
+  "text": "Your post mentions cleaning messy exports. In my customer segmentation project for a e-commerce client I used pandas and scikit-learn, and it found 5 segments and lifted email revenue by 15%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-006",
+  "project": "data_analyst-p12",
+  "industry": "education",
+  "skills": [
+   "Statistics",
+   "Excel",
+   "Data visualization",
+   "pandas"
+  ],
+  "date": "2023-01",
+  "outcome": "ignored",
+  "text": "Your post mentions telling signal from noise. In my survey analysis for a university project for a education client I used statistical analysis and excel, and it analysed 6,200 responses and reported 3 significant drivers. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-007",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Tableau",
+   "Python",
+   "Power BI",
+   "ETL",
+   "pandas",
+   "Time series"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Tableau, Python, Power BI, ETL, pandas, Time series with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-008",
+  "project": "data_analyst-p15",
+  "industry": "media",
+  "skills": [
+   "A/B testing",
+   "Statistics",
+   "Python",
+   "Looker"
+  ],
+  "date": "2023-04",
+  "outcome": "replied",
+  "text": "Your post mentions knowing whether the new checkout really converts better. In my pricing experiment readout project for a media client I used A/B testing and statistics, and it showed the higher price raised revenue per user by 11%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-009",
+  "project": "data_analyst-p13",
+  "industry": "logistics",
+  "skills": [
+   "SQL",
+   "pandas",
+   "Statistics",
+   "Power BI"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Your post mentions pulling answers out of our database. In my delivery delay root-cause analysis project for a logistics client I used queries and pandas, and it traced 58% of delays to two depots. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-010",
+  "project": "data_analyst-p04",
+  "industry": "healthcare",
+  "skills": [
+   "Statistics",
+   "pandas",
+   "Tableau",
+   "Python"
+  ],
+  "date": "2024-09",
+  "outcome": "replied",
+  "text": "Your post mentions telling signal from noise. In my patient wait-time study project for a healthcare client I used statistical analysis and pandas, and it identified two bottlenecks worth 18 minutes per visit. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-011",
+  "project": "data_analyst-p08",
+  "industry": "e-commerce",
+  "skills": [
+   "pandas",
+   "scikit-learn",
+   "SQL",
+   "Tableau"
+  ],
+  "date": "2025-05",
+  "outcome": "won",
+  "text": "Your post mentions cleaning messy exports. In my customer segmentation project for a e-commerce client I used pandas and scikit-learn, and it found 5 segments and lifted email revenue by 15%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-012",
+  "project": "data_analyst-p03",
+  "industry": "SaaS",
+  "skills": [
+   "dbt",
+   "BigQuery",
+   "SQL",
+   "ETL"
+  ],
+  "date": "2023-04",
+  "outcome": "ignored",
+  "text": "Your post mentions version-controlled SQL transformations. In my warehouse modelling with dbt project for a SaaS client I used dbt and BigQuery, and it cut dashboard query cost by 63%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-013",
+  "project": "data_analyst-p06",
+  "industry": "logistics",
+  "skills": [
+   "Airflow",
+   "ETL",
+   "BigQuery",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "replied",
+  "text": "Your post mentions scheduled jobs that retry themselves. In my nightly data pipeline project for a logistics client I used apache airflow and elt, and it brought data freshness from 3 days to 6 hours. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-014",
+  "project": "data_analyst-p13",
+  "industry": "logistics",
+  "skills": [
+   "SQL",
+   "pandas",
+   "Statistics",
+   "Power BI"
+  ],
+  "date": "2024-06",
+  "outcome": "won",
+  "text": "Your post mentions pulling answers out of our database. In my delivery delay root-cause analysis project for a logistics client I used SQL and pandas, and it traced 58% of delays to two depots. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-015",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "scikit-learn",
+   "BigQuery",
+   "dbt",
+   "SQL",
+   "Tableau",
+   "Looker"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in scikit-learn, BigQuery, dbt, SQL, Tableau, Looker with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-016",
+  "project": "data_analyst-p08",
+  "industry": "e-commerce",
+  "skills": [
+   "pandas",
+   "scikit-learn",
+   "SQL",
+   "Tableau"
+  ],
+  "date": "2025-05",
+  "outcome": "replied",
+  "text": "Your post mentions cleaning messy exports. In my customer segmentation project for a e-commerce client I used pandas and sklearn, and it found 5 segments and lifted email revenue by 15%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-017",
+  "project": "data_analyst-p07",
+  "industry": "fintech",
+  "skills": [
+   "Excel",
+   "Time series",
+   "Statistics"
+  ],
+  "date": "2024-12",
+  "outcome": "won",
+  "text": "Your post mentions a workbook the finance team can maintain. In my financial forecast workbook project for a fintech client I used excel and Time series, and it forecast quarterly revenue within 3% for four quarters. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-018",
+  "project": "data_analyst-p14",
+  "industry": "SaaS",
+  "skills": [
+   "Google Analytics",
+   "BigQuery",
+   "SQL",
+   "A/B testing"
+  ],
+  "date": "2025-11",
+  "outcome": "replied",
+  "text": "Your post mentions understanding where visitors drop off. In my product analytics tracking plan project for a SaaS client I used Google Analytics and big query, and it defined 42 events and fixed 9 broken funnels. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-019",
+  "project": "data_analyst-p04",
+  "industry": "healthcare",
+  "skills": [
+   "Statistics",
+   "pandas",
+   "Tableau",
+   "Python"
+  ],
+  "date": "2024-09",
+  "outcome": "replied",
+  "text": "Your post mentions telling signal from noise. In my patient wait-time study project for a healthcare client I used statistics and pandas, and it identified two bottlenecks worth 18 minutes per visit. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-020",
+  "project": "data_analyst-p12",
+  "industry": "education",
+  "skills": [
+   "Statistics",
+   "Excel",
+   "Data visualization",
+   "pandas"
+  ],
+  "date": "2023-01",
+  "outcome": "replied",
+  "text": "Your post mentions telling signal from noise. In my survey analysis for a university project for a education client I used statistical analysis and spreadsheets, and it analysed 6,200 responses and reported 3 significant drivers. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-021",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Python",
+   "Airflow",
+   "scikit-learn",
+   "Time series",
+   "ETL",
+   "A/B testing"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Python, Airflow, scikit-learn, Time series, ETL, A/B testing with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-022",
+  "project": "data_analyst-p12",
+  "industry": "education",
+  "skills": [
+   "Statistics",
+   "Excel",
+   "Data visualization",
+   "pandas"
+  ],
+  "date": "2023-01",
+  "outcome": "won",
+  "text": "Your post mentions telling signal from noise. In my survey analysis for a university project for a education client I used Statistics and Excel, and it analysed 6,200 responses and reported 3 significant drivers. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-023",
+  "project": "data_analyst-p11",
+  "industry": "fintech",
+  "skills": [
+   "Tableau",
+   "SQL",
+   "Data visualization"
+  ],
+  "date": "2025-08",
+  "outcome": "ignored",
+  "text": "Your post mentions interactive charts executives can click through. In my executive kpi board project for a fintech client I used Tableau and queries, and it gave leadership one view of 14 KPIs. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-024",
+  "project": "data_analyst-p10",
+  "industry": "real estate",
+  "skills": [
+   "Web scraping",
+   "Python",
+   "pandas",
+   "Excel"
+  ],
+  "date": "2024-03",
+  "outcome": "won",
+  "text": "Your post mentions collecting public listings into a sheet. In my competitor price tracker project for a real estate client I used Web scraping and Python, and it tracked 9,000 listings daily from public APIs. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-025",
+  "project": "data_analyst-p13",
+  "industry": "logistics",
+  "skills": [
+   "SQL",
+   "pandas",
+   "Statistics",
+   "Power BI"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Your post mentions pulling answers out of our database. In my delivery delay root-cause analysis project for a logistics client I used SQL and pandas, and it traced 58% of delays to two depots. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-026",
+  "project": "data_analyst-p10",
+  "industry": "real estate",
+  "skills": [
+   "Web scraping",
+   "Python",
+   "pandas",
+   "Excel"
+  ],
+  "date": "2024-03",
+  "outcome": "ignored",
+  "text": "Your post mentions collecting public listings into a sheet. In my competitor price tracker project for a real estate client I used scraper and python, and it tracked 9,000 listings daily from public APIs. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-027",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Google Analytics",
+   "BigQuery",
+   "Tableau",
+   "Python",
+   "Airflow",
+   "A/B testing"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Google Analytics, BigQuery, Tableau, Python, Airflow, A/B testing with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-028",
+  "project": "data_analyst-p10",
+  "industry": "real estate",
+  "skills": [
+   "Web scraping",
+   "Python",
+   "pandas",
+   "Excel"
+  ],
+  "date": "2024-03",
+  "outcome": "ignored",
+  "text": "Your post mentions collecting public listings into a sheet. In my competitor price tracker project for a real estate client I used web scraping and Python, and it tracked 9,000 listings daily from public APIs. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-029",
+  "project": "data_analyst-p06",
+  "industry": "logistics",
+  "skills": [
+   "Airflow",
+   "ETL",
+   "BigQuery",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "ignored",
+  "text": "Your post mentions scheduled jobs that retry themselves. In my nightly data pipeline project for a logistics client I used Airflow and elt, and it brought data freshness from 3 days to 6 hours. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-030",
+  "project": "data_analyst-p03",
+  "industry": "SaaS",
+  "skills": [
+   "dbt",
+   "BigQuery",
+   "SQL",
+   "ETL"
+  ],
+  "date": "2023-04",
+  "outcome": "won",
+  "text": "Your post mentions version-controlled SQL transformations. In my warehouse modelling with dbt project for a SaaS client I used dbt and BigQuery, and it cut dashboard query cost by 63%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-031",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "ETL",
+   "Python",
+   "Excel",
+   "Airflow",
+   "scikit-learn",
+   "A/B testing"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in ETL, Python, Excel, Airflow, scikit-learn, A/B testing with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-032",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Time series",
+   "Google Analytics",
+   "SQL",
+   "Web scraping",
+   "BigQuery",
+   "Power BI"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Time series, Google Analytics, SQL, Web scraping, BigQuery, Power BI with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-033",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "scikit-learn",
+   "dbt",
+   "Excel",
+   "ETL",
+   "Airflow",
+   "Web scraping"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in scikit-learn, dbt, Excel, ETL, Airflow, Web scraping with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-034",
+  "project": "data_analyst-p15",
+  "industry": "media",
+  "skills": [
+   "A/B testing",
+   "Statistics",
+   "Python",
+   "Looker"
+  ],
+  "date": "2023-04",
+  "outcome": "ignored",
+  "text": "Your post mentions knowing whether the new checkout really converts better. In my pricing experiment readout project for a media client I used a/b testing and statistics, and it showed the higher price raised revenue per user by 11%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-035",
+  "project": "data_analyst-p09",
+  "industry": "SaaS",
+  "skills": [
+   "SQL",
+   "pandas",
+   "Statistics",
+   "Looker"
+  ],
+  "date": "2023-10",
+  "outcome": "replied",
+  "text": "Your post mentions pulling answers out of our database. In my churn cohort analysis project for a SaaS client I used sql and numpy, and it pinpointed a 30-day drop-off that drove 40% of churn. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-036",
+  "project": "data_analyst-p05",
+  "industry": "media",
+  "skills": [
+   "Google Analytics",
+   "Looker",
+   "SQL",
+   "Data visualization"
+  ],
+  "date": "2025-02",
+  "outcome": "won",
+  "text": "Your post mentions understanding where visitors drop off. In my marketing attribution report project for a media client I used google analytics and Looker, and it reallocated 22% of ad spend to better channels. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-037",
+  "project": "data_analyst-p15",
+  "industry": "media",
+  "skills": [
+   "A/B testing",
+   "Statistics",
+   "Python",
+   "Looker"
+  ],
+  "date": "2023-04",
+  "outcome": "ignored",
+  "text": "Your post mentions knowing whether the new checkout really converts better. In my pricing experiment readout project for a media client I used a/b testing and statistics, and it showed the higher price raised revenue per user by 11%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-038",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "ETL",
+   "Looker",
+   "dbt",
+   "Google Analytics",
+   "Tableau",
+   "pandas"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in ETL, Looker, dbt, Google Analytics, Tableau, pandas with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-039",
+  "project": "data_analyst-p04",
+  "industry": "healthcare",
+  "skills": [
+   "Statistics",
+   "pandas",
+   "Tableau",
+   "Python"
+  ],
+  "date": "2024-09",
+  "outcome": "won",
+  "text": "Your post mentions telling signal from noise. In my patient wait-time study project for a healthcare client I used statistics and numpy, and it identified two bottlenecks worth 18 minutes per visit. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-040",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Statistics",
+   "ETL",
+   "Python",
+   "Web scraping",
+   "dbt",
+   "scikit-learn"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Statistics, ETL, Python, Web scraping, dbt, scikit-learn with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-041",
+  "project": "data_analyst-p06",
+  "industry": "logistics",
+  "skills": [
+   "Airflow",
+   "ETL",
+   "BigQuery",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "replied",
+  "text": "Your post mentions scheduled jobs that retry themselves. In my nightly data pipeline project for a logistics client I used Airflow and elt, and it brought data freshness from 3 days to 6 hours. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-042",
+  "project": "data_analyst-p14",
+  "industry": "SaaS",
+  "skills": [
+   "Google Analytics",
+   "BigQuery",
+   "SQL",
+   "A/B testing"
+  ],
+  "date": "2025-11",
+  "outcome": "ignored",
+  "text": "Your post mentions understanding where visitors drop off. In my product analytics tracking plan project for a SaaS client I used Google Analytics and big query, and it defined 42 events and fixed 9 broken funnels. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-043",
+  "project": "data_analyst-p09",
+  "industry": "SaaS",
+  "skills": [
+   "SQL",
+   "pandas",
+   "Statistics",
+   "Looker"
+  ],
+  "date": "2023-10",
+  "outcome": "won",
+  "text": "Your post mentions pulling answers out of our database. In my churn cohort analysis project for a SaaS client I used queries and pandas, and it pinpointed a 30-day drop-off that drove 40% of churn. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-044",
+  "project": "data_analyst-p09",
+  "industry": "SaaS",
+  "skills": [
+   "SQL",
+   "pandas",
+   "Statistics",
+   "Looker"
+  ],
+  "date": "2023-10",
+  "outcome": "won",
+  "text": "Your post mentions pulling answers out of our database. In my churn cohort analysis project for a SaaS client I used queries and numpy, and it pinpointed a 30-day drop-off that drove 40% of churn. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-045",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Time series",
+   "ETL",
+   "scikit-learn",
+   "Excel",
+   "BigQuery",
+   "A/B testing"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Time series, ETL, scikit-learn, Excel, BigQuery, A/B testing with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-046",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Time series",
+   "SQL",
+   "Excel",
+   "Power BI",
+   "dbt",
+   "pandas"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Time series, SQL, Excel, Power BI, dbt, pandas with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-047",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Looker",
+   "Time series",
+   "ETL",
+   "BigQuery",
+   "scikit-learn",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Looker, Time series, ETL, BigQuery, scikit-learn, Python with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-048",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "BigQuery",
+   "SQL",
+   "Web scraping",
+   "scikit-learn",
+   "ETL",
+   "dbt"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in BigQuery, SQL, Web scraping, scikit-learn, ETL, dbt with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-049",
+  "project": "data_analyst-p12",
+  "industry": "education",
+  "skills": [
+   "Statistics",
+   "Excel",
+   "Data visualization",
+   "pandas"
+  ],
+  "date": "2023-01",
+  "outcome": "replied",
+  "text": "Your post mentions telling signal from noise. In my survey analysis for a university project for a education client I used statistical analysis and excel, and it analysed 6,200 responses and reported 3 significant drivers. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-050",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Statistics",
+   "Google Analytics",
+   "dbt",
+   "scikit-learn",
+   "SQL",
+   "A/B testing"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Statistics, Google Analytics, dbt, scikit-learn, SQL, A/B testing with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-051",
+  "project": "data_analyst-p12",
+  "industry": "education",
+  "skills": [
+   "Statistics",
+   "Excel",
+   "Data visualization",
+   "pandas"
+  ],
+  "date": "2023-01",
+  "outcome": "replied",
+  "text": "Your post mentions telling signal from noise. In my survey analysis for a university project for a education client I used statistics and spreadsheets, and it analysed 6,200 responses and reported 3 significant drivers. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-052",
+  "project": "data_analyst-p05",
+  "industry": "media",
+  "skills": [
+   "Google Analytics",
+   "Looker",
+   "SQL",
+   "Data visualization"
+  ],
+  "date": "2025-02",
+  "outcome": "won",
+  "text": "Your post mentions understanding where visitors drop off. In my marketing attribution report project for a media client I used Google Analytics and Looker, and it reallocated 22% of ad spend to better channels. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-053",
+  "project": "data_analyst-p01",
+  "industry": "e-commerce",
+  "skills": [
+   "Power BI",
+   "SQL",
+   "Data visualization",
+   "Excel"
+  ],
+  "date": "2024-06",
+  "outcome": "won",
+  "text": "Your post mentions a management dashboard in the Microsoft stack. In my sales performance dashboard project for a e-commerce client I used Power BI and sql, and it replaced 11 weekly spreadsheets with one dashboard. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-054",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Airflow",
+   "scikit-learn",
+   "Tableau",
+   "Python",
+   "Google Analytics",
+   "Statistics"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Airflow, scikit-learn, Tableau, Python, Google Analytics, Statistics with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-055",
+  "project": "data_analyst-p07",
+  "industry": "fintech",
+  "skills": [
+   "Excel",
+   "Time series",
+   "Statistics"
+  ],
+  "date": "2024-12",
+  "outcome": "won",
+  "text": "Your post mentions a workbook the finance team can maintain. In my financial forecast workbook project for a fintech client I used excel and time series, and it forecast quarterly revenue within 3% for four quarters. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-056",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Python",
+   "Looker",
+   "Web scraping",
+   "ETL",
+   "SQL",
+   "pandas"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Python, Looker, Web scraping, ETL, SQL, pandas with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-057",
+  "project": "data_analyst-p01",
+  "industry": "e-commerce",
+  "skills": [
+   "Power BI",
+   "SQL",
+   "Data visualization",
+   "Excel"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Your post mentions a management dashboard in the Microsoft stack. In my sales performance dashboard project for a e-commerce client I used power bi and SQL, and it replaced 11 weekly spreadsheets with one dashboard. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-058",
+  "project": "data_analyst-p06",
+  "industry": "logistics",
+  "skills": [
+   "Airflow",
+   "ETL",
+   "BigQuery",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "replied",
+  "text": "Your post mentions scheduled jobs that retry themselves. In my nightly data pipeline project for a logistics client I used airflow and ETL, and it brought data freshness from 3 days to 6 hours. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-059",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "ETL",
+   "scikit-learn",
+   "A/B testing",
+   "pandas",
+   "Time series",
+   "Airflow"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in ETL, scikit-learn, A/B testing, pandas, Time series, Airflow with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-060",
+  "project": "data_analyst-p07",
+  "industry": "fintech",
+  "skills": [
+   "Excel",
+   "Time series",
+   "Statistics"
+  ],
+  "date": "2024-12",
+  "outcome": "won",
+  "text": "Your post mentions a workbook the finance team can maintain. In my financial forecast workbook project for a fintech client I used excel and time series, and it forecast quarterly revenue within 3% for four quarters. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-061",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "A/B testing",
+   "pandas",
+   "Tableau",
+   "Looker",
+   "Excel",
+   "Data visualization"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in A/B testing, pandas, Tableau, Looker, Excel, Data visualization with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-062",
+  "project": "data_analyst-p11",
+  "industry": "fintech",
+  "skills": [
+   "Tableau",
+   "SQL",
+   "Data visualization"
+  ],
+  "date": "2025-08",
+  "outcome": "won",
+  "text": "Your post mentions interactive charts executives can click through. In my executive kpi board project for a fintech client I used tableau and SQL, and it gave leadership one view of 14 KPIs. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-063",
+  "project": "data_analyst-p06",
+  "industry": "logistics",
+  "skills": [
+   "Airflow",
+   "ETL",
+   "BigQuery",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "replied",
+  "text": "Your post mentions scheduled jobs that retry themselves. In my nightly data pipeline project for a logistics client I used Airflow and etl, and it brought data freshness from 3 days to 6 hours. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-064",
+  "project": "data_analyst-p10",
+  "industry": "real estate",
+  "skills": [
+   "Web scraping",
+   "Python",
+   "pandas",
+   "Excel"
+  ],
+  "date": "2024-03",
+  "outcome": "replied",
+  "text": "Your post mentions collecting public listings into a sheet. In my competitor price tracker project for a real estate client I used web scraping and python, and it tracked 9,000 listings daily from public APIs. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-065",
+  "project": "data_analyst-p05",
+  "industry": "media",
+  "skills": [
+   "Google Analytics",
+   "Looker",
+   "SQL",
+   "Data visualization"
+  ],
+  "date": "2025-02",
+  "outcome": "won",
+  "text": "Your post mentions understanding where visitors drop off. In my marketing attribution report project for a media client I used google analytics and looker, and it reallocated 22% of ad spend to better channels. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-066",
+  "project": "data_analyst-p13",
+  "industry": "logistics",
+  "skills": [
+   "SQL",
+   "pandas",
+   "Statistics",
+   "Power BI"
+  ],
+  "date": "2024-06",
+  "outcome": "won",
+  "text": "Your post mentions pulling answers out of our database. In my delivery delay root-cause analysis project for a logistics client I used queries and numpy, and it traced 58% of delays to two depots. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-067",
+  "project": "data_analyst-p04",
+  "industry": "healthcare",
+  "skills": [
+   "Statistics",
+   "pandas",
+   "Tableau",
+   "Python"
+  ],
+  "date": "2024-09",
+  "outcome": "ignored",
+  "text": "Your post mentions telling signal from noise. In my patient wait-time study project for a healthcare client I used statistical analysis and numpy, and it identified two bottlenecks worth 18 minutes per visit. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-068",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Statistics",
+   "ETL",
+   "Power BI",
+   "Time series",
+   "Excel",
+   "A/B testing"
+  ],
+  "date": "2024-06",
+  "outcome": "won",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Statistics, ETL, Power BI, Time series, Excel, A/B testing with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-069",
+  "project": "data_analyst-p12",
+  "industry": "education",
+  "skills": [
+   "Statistics",
+   "Excel",
+   "Data visualization",
+   "pandas"
+  ],
+  "date": "2023-01",
+  "outcome": "won",
+  "text": "Your post mentions telling signal from noise. In my survey analysis for a university project for a education client I used Statistics and excel, and it analysed 6,200 responses and reported 3 significant drivers. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-070",
+  "project": "data_analyst-p13",
+  "industry": "logistics",
+  "skills": [
+   "SQL",
+   "pandas",
+   "Statistics",
+   "Power BI"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Your post mentions pulling answers out of our database. In my delivery delay root-cause analysis project for a logistics client I used SQL and pandas, and it traced 58% of delays to two depots. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-071",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Tableau",
+   "pandas",
+   "Python",
+   "BigQuery",
+   "Web scraping",
+   "A/B testing"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Tableau, pandas, Python, BigQuery, Web scraping, A/B testing with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-072",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Data visualization",
+   "Tableau",
+   "Python",
+   "ETL",
+   "scikit-learn",
+   "Time series"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Data visualization, Tableau, Python, ETL, scikit-learn, Time series with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-073",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "SQL",
+   "A/B testing",
+   "ETL",
+   "Tableau",
+   "Data visualization",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in SQL, A/B testing, ETL, Tableau, Data visualization, Python with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-074",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "dbt",
+   "scikit-learn",
+   "Tableau",
+   "Data visualization",
+   "Looker",
+   "Power BI"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in dbt, scikit-learn, Tableau, Data visualization, Looker, Power BI with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-075",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Google Analytics",
+   "BigQuery",
+   "Statistics",
+   "Time series",
+   "Excel",
+   "A/B testing"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Google Analytics, BigQuery, Statistics, Time series, Excel, A/B testing with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-076",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "SQL",
+   "Excel",
+   "Power BI",
+   "Looker",
+   "Data visualization",
+   "Google Analytics"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in SQL, Excel, Power BI, Looker, Data visualization, Google Analytics with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-077",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Statistics",
+   "dbt",
+   "Excel",
+   "SQL",
+   "pandas",
+   "Looker"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Statistics, dbt, Excel, SQL, pandas, Looker with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-078",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "ETL",
+   "Google Analytics",
+   "SQL",
+   "Excel",
+   "A/B testing",
+   "Power BI"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in ETL, Google Analytics, SQL, Excel, A/B testing, Power BI with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-079",
+  "project": "data_analyst-p12",
+  "industry": "education",
+  "skills": [
+   "Statistics",
+   "Excel",
+   "Data visualization",
+   "pandas"
+  ],
+  "date": "2023-01",
+  "outcome": "ignored",
+  "text": "Your post mentions telling signal from noise. In my survey analysis for a university project for a education client I used statistics and spreadsheets, and it analysed 6,200 responses and reported 3 significant drivers. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-080",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Data visualization",
+   "Airflow",
+   "Power BI",
+   "Looker",
+   "Python",
+   "Tableau"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Data visualization, Airflow, Power BI, Looker, Python, Tableau with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-081",
+  "project": "data_analyst-p10",
+  "industry": "real estate",
+  "skills": [
+   "Web scraping",
+   "Python",
+   "pandas",
+   "Excel"
+  ],
+  "date": "2024-03",
+  "outcome": "won",
+  "text": "Your post mentions collecting public listings into a sheet. In my competitor price tracker project for a real estate client I used Web scraping and py3, and it tracked 9,000 listings daily from public APIs. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-082",
+  "project": "data_analyst-p07",
+  "industry": "fintech",
+  "skills": [
+   "Excel",
+   "Time series",
+   "Statistics"
+  ],
+  "date": "2024-12",
+  "outcome": "ignored",
+  "text": "Your post mentions a workbook the finance team can maintain. In my financial forecast workbook project for a fintech client I used spreadsheets and forecasting, and it forecast quarterly revenue within 3% for four quarters. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-083",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "dbt",
+   "Web scraping",
+   "Python",
+   "BigQuery",
+   "Power BI",
+   "SQL"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in dbt, Web scraping, Python, BigQuery, Power BI, SQL with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-084",
+  "project": "data_analyst-p05",
+  "industry": "media",
+  "skills": [
+   "Google Analytics",
+   "Looker",
+   "SQL",
+   "Data visualization"
+  ],
+  "date": "2025-02",
+  "outcome": "ignored",
+  "text": "Your post mentions understanding where visitors drop off. In my marketing attribution report project for a media client I used ga4 and Looker, and it reallocated 22% of ad spend to better channels. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-085",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "SQL",
+   "Tableau",
+   "Time series",
+   "Python",
+   "ETL",
+   "Google Analytics"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in SQL, Tableau, Time series, Python, ETL, Google Analytics with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-086",
+  "project": "data_analyst-p08",
+  "industry": "e-commerce",
+  "skills": [
+   "pandas",
+   "scikit-learn",
+   "SQL",
+   "Tableau"
+  ],
+  "date": "2025-05",
+  "outcome": "replied",
+  "text": "Your post mentions cleaning messy exports. In my customer segmentation project for a e-commerce client I used pandas and scikit-learn, and it found 5 segments and lifted email revenue by 15%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-087",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Airflow",
+   "Web scraping",
+   "pandas",
+   "Power BI",
+   "A/B testing",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Airflow, Web scraping, pandas, Power BI, A/B testing, Python with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-088",
+  "project": "data_analyst-p11",
+  "industry": "fintech",
+  "skills": [
+   "Tableau",
+   "SQL",
+   "Data visualization"
+  ],
+  "date": "2025-08",
+  "outcome": "ignored",
+  "text": "Your post mentions interactive charts executives can click through. In my executive kpi board project for a fintech client I used Tableau and SQL, and it gave leadership one view of 14 KPIs. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-089",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Looker",
+   "scikit-learn",
+   "Python",
+   "Airflow",
+   "BigQuery",
+   "ETL"
+  ],
+  "date": "2024-06",
+  "outcome": "won",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Looker, scikit-learn, Python, Airflow, BigQuery, ETL with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-090",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Tableau",
+   "Time series",
+   "dbt",
+   "scikit-learn",
+   "Power BI",
+   "A/B testing"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Tableau, Time series, dbt, scikit-learn, Power BI, A/B testing with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-091",
+  "project": "data_analyst-p12",
+  "industry": "education",
+  "skills": [
+   "Statistics",
+   "Excel",
+   "Data visualization",
+   "pandas"
+  ],
+  "date": "2023-01",
+  "outcome": "won",
+  "text": "Your post mentions telling signal from noise. In my survey analysis for a university project for a education client I used statistical analysis and Excel, and it analysed 6,200 responses and reported 3 significant drivers. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-092",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Web scraping",
+   "BigQuery",
+   "Time series",
+   "Power BI",
+   "Tableau",
+   "dbt"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Web scraping, BigQuery, Time series, Power BI, Tableau, dbt with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-093",
+  "project": "data_analyst-p14",
+  "industry": "SaaS",
+  "skills": [
+   "Google Analytics",
+   "BigQuery",
+   "SQL",
+   "A/B testing"
+  ],
+  "date": "2025-11",
+  "outcome": "won",
+  "text": "Your post mentions understanding where visitors drop off. In my product analytics tracking plan project for a SaaS client I used ga4 and bigquery, and it defined 42 events and fixed 9 broken funnels. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-094",
+  "project": "data_analyst-p05",
+  "industry": "media",
+  "skills": [
+   "Google Analytics",
+   "Looker",
+   "SQL",
+   "Data visualization"
+  ],
+  "date": "2025-02",
+  "outcome": "ignored",
+  "text": "Your post mentions understanding where visitors drop off. In my marketing attribution report project for a media client I used Google Analytics and looker studio, and it reallocated 22% of ad spend to better channels. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-095",
+  "project": "data_analyst-p14",
+  "industry": "SaaS",
+  "skills": [
+   "Google Analytics",
+   "BigQuery",
+   "SQL",
+   "A/B testing"
+  ],
+  "date": "2025-11",
+  "outcome": "won",
+  "text": "Your post mentions understanding where visitors drop off. In my product analytics tracking plan project for a SaaS client I used ga4 and BigQuery, and it defined 42 events and fixed 9 broken funnels. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-096",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Google Analytics",
+   "Python",
+   "Data visualization",
+   "Tableau",
+   "BigQuery",
+   "dbt"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Google Analytics, Python, Data visualization, Tableau, BigQuery, dbt with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-097",
+  "project": "data_analyst-p11",
+  "industry": "fintech",
+  "skills": [
+   "Tableau",
+   "SQL",
+   "Data visualization"
+  ],
+  "date": "2025-08",
+  "outcome": "replied",
+  "text": "Your post mentions interactive charts executives can click through. In my executive kpi board project for a fintech client I used Tableau and sql, and it gave leadership one view of 14 KPIs. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-098",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Airflow",
+   "Data visualization",
+   "Google Analytics",
+   "Power BI",
+   "SQL",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Airflow, Data visualization, Google Analytics, Power BI, SQL, Python with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-099",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Web scraping",
+   "dbt",
+   "Google Analytics",
+   "Tableau",
+   "Python",
+   "Excel"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Web scraping, dbt, Google Analytics, Tableau, Python, Excel with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-100",
+  "project": "data_analyst-p07",
+  "industry": "fintech",
+  "skills": [
+   "Excel",
+   "Time series",
+   "Statistics"
+  ],
+  "date": "2024-12",
+  "outcome": "ignored",
+  "text": "Your post mentions a workbook the finance team can maintain. In my financial forecast workbook project for a fintech client I used Excel and time series, and it forecast quarterly revenue within 3% for four quarters. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-101",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "dbt",
+   "Looker",
+   "ETL",
+   "scikit-learn",
+   "A/B testing",
+   "Web scraping"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in dbt, Looker, ETL, scikit-learn, A/B testing, Web scraping with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-102",
+  "project": "data_analyst-p05",
+  "industry": "media",
+  "skills": [
+   "Google Analytics",
+   "Looker",
+   "SQL",
+   "Data visualization"
+  ],
+  "date": "2025-02",
+  "outcome": "replied",
+  "text": "Your post mentions understanding where visitors drop off. In my marketing attribution report project for a media client I used google analytics and looker, and it reallocated 22% of ad spend to better channels. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-103",
+  "project": "data_analyst-p11",
+  "industry": "fintech",
+  "skills": [
+   "Tableau",
+   "SQL",
+   "Data visualization"
+  ],
+  "date": "2025-08",
+  "outcome": "replied",
+  "text": "Your post mentions interactive charts executives can click through. In my executive kpi board project for a fintech client I used Tableau and queries, and it gave leadership one view of 14 KPIs. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-104",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Time series",
+   "Airflow",
+   "scikit-learn",
+   "Data visualization",
+   "Google Analytics",
+   "Looker"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Time series, Airflow, scikit-learn, Data visualization, Google Analytics, Looker with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-105",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Tableau",
+   "Google Analytics",
+   "Airflow",
+   "Looker",
+   "A/B testing",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Tableau, Google Analytics, Airflow, Looker, A/B testing, Python with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-106",
+  "project": "data_analyst-p09",
+  "industry": "SaaS",
+  "skills": [
+   "SQL",
+   "pandas",
+   "Statistics",
+   "Looker"
+  ],
+  "date": "2023-10",
+  "outcome": "ignored",
+  "text": "Your post mentions pulling answers out of our database. In my churn cohort analysis project for a SaaS client I used queries and numpy, and it pinpointed a 30-day drop-off that drove 40% of churn. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-107",
+  "project": "data_analyst-p03",
+  "industry": "SaaS",
+  "skills": [
+   "dbt",
+   "BigQuery",
+   "SQL",
+   "ETL"
+  ],
+  "date": "2023-04",
+  "outcome": "replied",
+  "text": "Your post mentions version-controlled SQL transformations. In my warehouse modelling with dbt project for a SaaS client I used dbt and big query, and it cut dashboard query cost by 63%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-108",
+  "project": "data_analyst-p05",
+  "industry": "media",
+  "skills": [
+   "Google Analytics",
+   "Looker",
+   "SQL",
+   "Data visualization"
+  ],
+  "date": "2025-02",
+  "outcome": "won",
+  "text": "Your post mentions understanding where visitors drop off. In my marketing attribution report project for a media client I used google analytics and looker studio, and it reallocated 22% of ad spend to better channels. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-109",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "pandas",
+   "Looker",
+   "Power BI",
+   "Google Analytics",
+   "SQL",
+   "Data visualization"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in pandas, Looker, Power BI, Google Analytics, SQL, Data visualization with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-110",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "scikit-learn",
+   "Time series",
+   "ETL",
+   "Power BI",
+   "Tableau",
+   "BigQuery"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in scikit-learn, Time series, ETL, Power BI, Tableau, BigQuery with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-111",
+  "project": "data_analyst-p10",
+  "industry": "real estate",
+  "skills": [
+   "Web scraping",
+   "Python",
+   "pandas",
+   "Excel"
+  ],
+  "date": "2024-03",
+  "outcome": "replied",
+  "text": "Your post mentions collecting public listings into a sheet. In my competitor price tracker project for a real estate client I used Web scraping and python, and it tracked 9,000 listings daily from public APIs. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-112",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "ETL",
+   "Looker",
+   "Google Analytics",
+   "pandas",
+   "Time series",
+   "BigQuery"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in ETL, Looker, Google Analytics, pandas, Time series, BigQuery with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-113",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "BigQuery",
+   "dbt",
+   "Google Analytics",
+   "Power BI",
+   "pandas",
+   "Statistics"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in BigQuery, dbt, Google Analytics, Power BI, pandas, Statistics with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-114",
+  "project": "data_analyst-p12",
+  "industry": "education",
+  "skills": [
+   "Statistics",
+   "Excel",
+   "Data visualization",
+   "pandas"
+  ],
+  "date": "2023-01",
+  "outcome": "replied",
+  "text": "Your post mentions telling signal from noise. In my survey analysis for a university project for a education client I used statistical analysis and Excel, and it analysed 6,200 responses and reported 3 significant drivers. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-115",
+  "project": "data_analyst-p08",
+  "industry": "e-commerce",
+  "skills": [
+   "pandas",
+   "scikit-learn",
+   "SQL",
+   "Tableau"
+  ],
+  "date": "2025-05",
+  "outcome": "won",
+  "text": "Your post mentions cleaning messy exports. In my customer segmentation project for a e-commerce client I used pandas and scikit-learn, and it found 5 segments and lifted email revenue by 15%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-116",
+  "project": "data_analyst-p09",
+  "industry": "SaaS",
+  "skills": [
+   "SQL",
+   "pandas",
+   "Statistics",
+   "Looker"
+  ],
+  "date": "2023-10",
+  "outcome": "won",
+  "text": "Your post mentions pulling answers out of our database. In my churn cohort analysis project for a SaaS client I used SQL and pandas, and it pinpointed a 30-day drop-off that drove 40% of churn. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-117",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Airflow",
+   "pandas",
+   "Statistics",
+   "Data visualization",
+   "ETL",
+   "Power BI"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Airflow, pandas, Statistics, Data visualization, ETL, Power BI with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-118",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Google Analytics",
+   "Power BI",
+   "Statistics",
+   "dbt",
+   "Python",
+   "Airflow"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Google Analytics, Power BI, Statistics, dbt, Python, Airflow with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-119",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Google Analytics",
+   "Time series",
+   "Tableau",
+   "BigQuery",
+   "Statistics",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Google Analytics, Time series, Tableau, BigQuery, Statistics, Python with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-120",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "SQL",
+   "Google Analytics",
+   "Airflow",
+   "dbt",
+   "Excel",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in SQL, Google Analytics, Airflow, dbt, Excel, Python with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-121",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "A/B testing",
+   "Time series",
+   "Web scraping",
+   "Power BI",
+   "Google Analytics",
+   "Looker"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in A/B testing, Time series, Web scraping, Power BI, Google Analytics, Looker with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-122",
+  "project": "data_analyst-p06",
+  "industry": "logistics",
+  "skills": [
+   "Airflow",
+   "ETL",
+   "BigQuery",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "won",
+  "text": "Your post mentions scheduled jobs that retry themselves. In my nightly data pipeline project for a logistics client I used Airflow and elt, and it brought data freshness from 3 days to 6 hours. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-123",
+  "project": "data_analyst-p04",
+  "industry": "healthcare",
+  "skills": [
+   "Statistics",
+   "pandas",
+   "Tableau",
+   "Python"
+  ],
+  "date": "2024-09",
+  "outcome": "ignored",
+  "text": "Your post mentions telling signal from noise. In my patient wait-time study project for a healthcare client I used statistical analysis and pandas, and it identified two bottlenecks worth 18 minutes per visit. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-124",
+  "project": "data_analyst-p09",
+  "industry": "SaaS",
+  "skills": [
+   "SQL",
+   "pandas",
+   "Statistics",
+   "Looker"
+  ],
+  "date": "2023-10",
+  "outcome": "ignored",
+  "text": "Your post mentions pulling answers out of our database. In my churn cohort analysis project for a SaaS client I used queries and numpy, and it pinpointed a 30-day drop-off that drove 40% of churn. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-125",
+  "project": "data_analyst-p10",
+  "industry": "real estate",
+  "skills": [
+   "Web scraping",
+   "Python",
+   "pandas",
+   "Excel"
+  ],
+  "date": "2024-03",
+  "outcome": "won",
+  "text": "Your post mentions collecting public listings into a sheet. In my competitor price tracker project for a real estate client I used scraper and Python, and it tracked 9,000 listings daily from public APIs. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-126",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "SQL",
+   "Python",
+   "scikit-learn",
+   "A/B testing",
+   "BigQuery",
+   "Web scraping"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in SQL, Python, scikit-learn, A/B testing, BigQuery, Web scraping with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-127",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "dbt",
+   "ETL",
+   "SQL",
+   "Web scraping",
+   "BigQuery",
+   "Looker"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in dbt, ETL, SQL, Web scraping, BigQuery, Looker with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-128",
+  "project": "data_analyst-p02",
+  "industry": "e-commerce",
+  "skills": [
+   "A/B testing",
+   "Statistics",
+   "SQL",
+   "pandas"
+  ],
+  "date": "2025-11",
+  "outcome": "replied",
+  "text": "Your post mentions knowing whether the new checkout really converts better. In my checkout a/b test analysis project for a e-commerce client I used a/b testing and Statistics, and it showed a 4.2% conversion lift at 95% confidence. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-129",
+  "project": "data_analyst-p14",
+  "industry": "SaaS",
+  "skills": [
+   "Google Analytics",
+   "BigQuery",
+   "SQL",
+   "A/B testing"
+  ],
+  "date": "2025-11",
+  "outcome": "ignored",
+  "text": "Your post mentions understanding where visitors drop off. In my product analytics tracking plan project for a SaaS client I used ga4 and big query, and it defined 42 events and fixed 9 broken funnels. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-130",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Power BI",
+   "Time series",
+   "ETL",
+   "SQL",
+   "scikit-learn",
+   "Data visualization"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Power BI, Time series, ETL, SQL, scikit-learn, Data visualization with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-131",
+  "project": "data_analyst-p06",
+  "industry": "logistics",
+  "skills": [
+   "Airflow",
+   "ETL",
+   "BigQuery",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "replied",
+  "text": "Your post mentions scheduled jobs that retry themselves. In my nightly data pipeline project for a logistics client I used apache airflow and ETL, and it brought data freshness from 3 days to 6 hours. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-132",
+  "project": "data_analyst-p09",
+  "industry": "SaaS",
+  "skills": [
+   "SQL",
+   "pandas",
+   "Statistics",
+   "Looker"
+  ],
+  "date": "2023-10",
+  "outcome": "ignored",
+  "text": "Your post mentions pulling answers out of our database. In my churn cohort analysis project for a SaaS client I used queries and numpy, and it pinpointed a 30-day drop-off that drove 40% of churn. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-133",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "BigQuery",
+   "Data visualization",
+   "dbt",
+   "Python",
+   "pandas",
+   "Power BI"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in BigQuery, Data visualization, dbt, Python, pandas, Power BI with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-134",
+  "project": "data_analyst-p03",
+  "industry": "SaaS",
+  "skills": [
+   "dbt",
+   "BigQuery",
+   "SQL",
+   "ETL"
+  ],
+  "date": "2023-04",
+  "outcome": "ignored",
+  "text": "Your post mentions version-controlled SQL transformations. In my warehouse modelling with dbt project for a SaaS client I used dbt and bigquery, and it cut dashboard query cost by 63%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-135",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Airflow",
+   "scikit-learn",
+   "Looker",
+   "Time series",
+   "BigQuery",
+   "Web scraping"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Airflow, scikit-learn, Looker, Time series, BigQuery, Web scraping with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-136",
+  "project": "data_analyst-p03",
+  "industry": "SaaS",
+  "skills": [
+   "dbt",
+   "BigQuery",
+   "SQL",
+   "ETL"
+  ],
+  "date": "2023-04",
+  "outcome": "won",
+  "text": "Your post mentions version-controlled SQL transformations. In my warehouse modelling with dbt project for a SaaS client I used dbt and bigquery, and it cut dashboard query cost by 63%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-137",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Python",
+   "Tableau",
+   "SQL",
+   "Power BI",
+   "Airflow",
+   "Time series"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hi, I have read your job post carefully and I am the best fit. I am an expert in Python, Tableau, SQL, Power BI, Airflow, Time series with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-138",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Statistics",
+   "Looker",
+   "ETL",
+   "Power BI",
+   "Google Analytics",
+   "Web scraping"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Statistics, Looker, ETL, Power BI, Google Analytics, Web scraping with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-139",
+  "project": "data_analyst-p08",
+  "industry": "e-commerce",
+  "skills": [
+   "pandas",
+   "scikit-learn",
+   "SQL",
+   "Tableau"
+  ],
+  "date": "2025-05",
+  "outcome": "replied",
+  "text": "Your post mentions cleaning messy exports. In my customer segmentation project for a e-commerce client I used pandas and scikit-learn, and it found 5 segments and lifted email revenue by 15%. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-140",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Statistics",
+   "Power BI",
+   "SQL",
+   "pandas",
+   "dbt",
+   "scikit-learn"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Statistics, Power BI, SQL, pandas, dbt, scikit-learn with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-141",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Power BI",
+   "dbt",
+   "A/B testing",
+   "Excel",
+   "pandas",
+   "Looker"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Power BI, dbt, A/B testing, Excel, pandas, Looker with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-142",
+  "project": "data_analyst-p05",
+  "industry": "media",
+  "skills": [
+   "Google Analytics",
+   "Looker",
+   "SQL",
+   "Data visualization"
+  ],
+  "date": "2025-02",
+  "outcome": "replied",
+  "text": "Your post mentions understanding where visitors drop off. In my marketing attribution report project for a media client I used google analytics and Looker, and it reallocated 22% of ad spend to better channels. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-143",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Python",
+   "Excel",
+   "SQL",
+   "pandas",
+   "Statistics",
+   "A/B testing"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Python, Excel, SQL, pandas, Statistics, A/B testing with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-144",
+  "project": "data_analyst-p06",
+  "industry": "logistics",
+  "skills": [
+   "Airflow",
+   "ETL",
+   "BigQuery",
+   "Python"
+  ],
+  "date": "2023-07",
+  "outcome": "won",
+  "text": "Your post mentions scheduled jobs that retry themselves. In my nightly data pipeline project for a logistics client I used Airflow and elt, and it brought data freshness from 3 days to 6 hours. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-145",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Excel",
+   "pandas",
+   "Statistics",
+   "Google Analytics",
+   "scikit-learn",
+   "Airflow"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in Excel, pandas, Statistics, Google Analytics, scikit-learn, Airflow with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-146",
+  "project": "data_analyst-p09",
+  "industry": "SaaS",
+  "skills": [
+   "SQL",
+   "pandas",
+   "Statistics",
+   "Looker"
+  ],
+  "date": "2023-10",
+  "outcome": "replied",
+  "text": "Your post mentions pulling answers out of our database. In my churn cohort analysis project for a SaaS client I used SQL and pandas, and it pinpointed a 30-day drop-off that drove 40% of churn. I can share how the same approach applies to your case."
+ },
+ {
+  "id": "data_analyst-prop-147",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "pandas",
+   "A/B testing",
+   "scikit-learn",
+   "Airflow",
+   "Time series",
+   "Python"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in pandas, A/B testing, scikit-learn, Airflow, Time series, Python with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-148",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "Web scraping",
+   "pandas",
+   "Tableau",
+   "Time series",
+   "Looker",
+   "A/B testing"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Dear Sir/Madam, I am writing to apply for this job. I am an expert in Web scraping, pandas, Tableau, Time series, Looker, A/B testing with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-149",
+  "project": null,
+  "industry": null,
+  "skills": [
+   "SQL",
+   "Google Analytics",
+   "Web scraping",
+   "dbt",
+   "Time series",
+   "BigQuery"
+  ],
+  "date": "2024-06",
+  "outcome": "ignored",
+  "text": "Hello, I am a passionate and hardworking freelancer. I am an expert in SQL, Google Analytics, Web scraping, dbt, Time series, BigQuery with many years of experience. I guarantee 100% satisfaction and fast delivery. Please contact me to discuss."
+ },
+ {
+  "id": "data_analyst-prop-150",
+  "project": "data_analyst-p13",
+  "industry": "logistics",
+  "skills": [
+   "SQL",
+   "pandas",
+   "Statistics",
+   "Power BI"
+  ],
+  "date": "2024-06",
+  "outcome": "replied",
+  "text": "Your post mentions pulling answers out of our database. In my delivery delay root-cause analysis project for a logistics client I used sql and numpy, and it traced 58% of delays to two depots. I can share how the same approach applies to your case."
+ }
+]

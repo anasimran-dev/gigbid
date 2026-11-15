@@ -1,0 +1,113 @@
+[
+ {
+  "id": "data_analyst-rev-01",
+  "project": "data_analyst-p01",
+  "industry": "e-commerce",
+  "date": "2024-06",
+  "rating": 5,
+  "skills": [
+   "Power BI",
+   "SQL",
+   "Data visualization",
+   "Excel"
+  ],
+  "text": "Great work on our sales performance dashboard. It replaced 11 weekly spreadsheets with one dashboard. Clear communication throughout."
+ },
+ {
+  "id": "data_analyst-rev-02",
+  "project": "data_analyst-p02",
+  "industry": "e-commerce",
+  "date": "2025-11",
+  "rating": 5,
+  "skills": [
+   "A/B testing",
+   "Statistics",
+   "SQL",
+   "pandas"
+  ],
+  "text": "Great work on our checkout a/b test analysis. It showed a 4.2% conversion lift at 95% confidence. Clear communication throughout."
+ },
+ {
+  "id": "data_analyst-rev-03",
+  "project": "data_analyst-p03",
+  "industry": "SaaS",
+  "date": "2023-04",
+  "rating": 5,
+  "skills": [
+   "dbt",
+   "BigQuery",
+   "SQL",
+   "ETL"
+  ],
+  "text": "Great work on our warehouse modelling with dbt. It cut dashboard query cost by 63%. Clear communication throughout."
+ },
+ {
+  "id": "data_analyst-rev-04",
+  "project": "data_analyst-p04",
+  "industry": "healthcare",
+  "date": "2024-09",
+  "rating": 5,
+  "skills": [
+   "Statistics",
+   "pandas",
+   "Tableau",
+   "Python"
+  ],
+  "text": "Great work on our patient wait-time study. It identified two bottlenecks worth 18 minutes per visit. Clear communication throughout."
+ },
+ {
+  "id": "data_analyst-rev-05",
+  "project": "data_analyst-p05",
+  "industry": "media",
+  "date": "2025-02",
+  "rating": 5,
+  "skills": [
+   "Google Analytics",
+   "Looker",
+   "SQL",
+   "Data visualization"
+  ],
+  "text": "Great work on our marketing attribution report. It reallocated 22% of ad spend to better channels. Clear communication throughout."
+ },
+ {
+  "id": "data_analyst-rev-06",
+  "project": "data_analyst-p06",
+  "industry": "logistics",
+  "date": "2023-07",
+  "rating": 4,
+  "skills": [
+   "Airflow",
+   "ETL",
+   "BigQuery",
+   "Python"
+  ],
+  "text": "Great work on our nightly data pipeline. It brought data freshness from 3 days to 6 hours. Clear communication throughout."
+ },
+ {
+  "id": "data_analyst-rev-07",
+  "project": "data_analyst-p07",
+  "industry": "fintech",
+  "date": "2024-12",
+  "rating": 4,
+  "skills": [
+   "Excel",
+   "Time series",
+   "Statistics"
+  ],
+  "text": "Great work on our financial forecast workbook. It forecast quarterly revenue within 3% for four quarters. Clear communication throughout."
+ },
+ {
+  "id": "data_analyst-rev-08",
+  "project": "data_analyst-p08",
+  "industry": "e-commerce",
+  "date": "2025-05",
+  "rating": 5,
+  "skills": [
+   "pandas",
+   "scikit-learn",
+   "SQL",
+   "Tableau"
+  ],
+  "text": "Great work on our customer segmentation. It found 5 segments and lifted email revenue by 15%. Clear communication throughout."
+ }
+]

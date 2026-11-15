@@ -1,0 +1,276 @@
+{
+ "meta": {
+  "profile": "offline",
+  "embeddings": "lsa",
+  "reranker": "lexical",
+  "data": "synthetic (scripts/generate_data.py, seed 4016)",
+  "generated_at": "2026-11-15 21:51"
+ },
+ "fixed_jobs_per_persona": 40,
+ "variants": {
+  "v0_naive": {
+   "n_jobs": 120,
+   "proposals_sent": 105,
+   "replied": 94,
+   "reply_rate": 0.783,
+   "hire_rate": 0.233,
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n_jobs": 40,
+     "proposals_sent": 37,
+     "replied": 34,
+     "reply_rate": 0.85,
+     "hire_rate": 0.3
+    },
+    "fullstack_dev": {
+     "n_jobs": 40,
+     "proposals_sent": 31,
+     "replied": 26,
+     "reply_rate": 0.65,
+     "hire_rate": 0.125
+    },
+    "data_analyst": {
+     "n_jobs": 40,
+     "proposals_sent": 37,
+     "replied": 34,
+     "reply_rate": 0.85,
+     "hire_rate": 0.275
+    }
+   },
+   "unsupported_claims_per_proposal": 0.0,
+   "p95_latency_s": 0.0553,
+   "usd_per_proposal": 0.0
+  },
+  "v1_decompose": {
+   "n_jobs": 120,
+   "proposals_sent": 104,
+   "replied": 81,
+   "reply_rate": 0.675,
+   "hire_rate": 0.208,
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n_jobs": 40,
+     "proposals_sent": 36,
+     "replied": 24,
+     "reply_rate": 0.6,
+     "hire_rate": 0.225
+    },
+    "fullstack_dev": {
+     "n_jobs": 40,
+     "proposals_sent": 30,
+     "replied": 24,
+     "reply_rate": 0.6,
+     "hire_rate": 0.1
+    },
+    "data_analyst": {
+     "n_jobs": 40,
+     "proposals_sent": 38,
+     "replied": 33,
+     "reply_rate": 0.825,
+     "hire_rate": 0.3
+    }
+   },
+   "unsupported_claims_per_proposal": 0.0,
+   "p95_latency_s": 0.0542,
+   "usd_per_proposal": 0.0
+  },
+  "v2_hybrid": {
+   "n_jobs": 120,
+   "proposals_sent": 107,
+   "replied": 96,
+   "reply_rate": 0.8,
+   "hire_rate": 0.233,
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n_jobs": 40,
+     "proposals_sent": 36,
+     "replied": 33,
+     "reply_rate": 0.825,
+     "hire_rate": 0.3
+    },
+    "fullstack_dev": {
+     "n_jobs": 40,
+     "proposals_sent": 34,
+     "replied": 28,
+     "reply_rate": 0.7,
+     "hire_rate": 0.125
+    },
+    "data_analyst": {
+     "n_jobs": 40,
+     "proposals_sent": 37,
+     "replied": 35,
+     "reply_rate": 0.875,
+     "hire_rate": 0.275
+    }
+   },
+   "unsupported_claims_per_proposal": 0.0,
+   "p95_latency_s": 0.0538,
+   "usd_per_proposal": 0.0
+  },
+  "v3_rerank": {
+   "n_jobs": 120,
+   "proposals_sent": 107,
+   "replied": 93,
+   "reply_rate": 0.775,
+   "hire_rate": 0.225,
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n_jobs": 40,
+     "proposals_sent": 38,
+     "replied": 31,
+     "reply_rate": 0.775,
+     "hire_rate": 0.3
+    },
+    "fullstack_dev": {
+     "n_jobs": 40,
+     "proposals_sent": 30,
+     "replied": 25,
+     "reply_rate": 0.625,
+     "hire_rate": 0.075
+    },
+    "data_analyst": {
+     "n_jobs": 40,
+     "proposals_sent": 39,
+     "replied": 37,
+     "reply_rate": 0.925,
+     "hire_rate": 0.3
+    }
+   },
+   "unsupported_claims_per_proposal": 0.0,
+   "p95_latency_s": 0.0496,
+   "usd_per_proposal": 0.0
+  },
+  "v4_outcome": {
+   "n_jobs": 120,
+   "proposals_sent": 110,
+   "replied": 100,
+   "reply_rate": 0.833,
+   "hire_rate": 0.275,
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n_jobs": 40,
+     "proposals_sent": 38,
+     "replied": 35,
+     "reply_rate": 0.875,
+     "hire_rate": 0.35
+    },
+    "fullstack_dev": {
+     "n_jobs": 40,
+     "proposals_sent": 34,
+     "replied": 30,
+     "reply_rate": 0.75,
+     "hire_rate": 0.175
+    },
+    "data_analyst": {
+     "n_jobs": 40,
+     "proposals_sent": 38,
+     "replied": 35,
+     "reply_rate": 0.875,
+     "hire_rate": 0.3
+    }
+   },
+   "unsupported_claims_per_proposal": 0.0,
+   "p95_latency_s": 0.0495,
+   "usd_per_proposal": 0.0
+  },
+  "v5_multivector": {
+   "n_jobs": 120,
+   "proposals_sent": 111,
+   "replied": 97,
+   "reply_rate": 0.808,
+   "hire_rate": 0.25,
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n_jobs": 40,
+     "proposals_sent": 38,
+     "replied": 31,
+     "reply_rate": 0.775,
+     "hire_rate": 0.325
+    },
+    "fullstack_dev": {
+     "n_jobs": 40,
+     "proposals_sent": 34,
+     "replied": 30,
+     "reply_rate": 0.75,
+     "hire_rate": 0.125
+    },
+    "data_analyst": {
+     "n_jobs": 40,
+     "proposals_sent": 39,
+     "replied": 36,
+     "reply_rate": 0.9,
+     "hire_rate": 0.3
+    }
+   },
+   "unsupported_claims_per_proposal": 0.0,
+   "p95_latency_s": 0.0475,
+   "usd_per_proposal": 0.0
+  },
+  "v9_skill_graph": {
+   "n_jobs": 120,
+   "proposals_sent": 115,
+   "replied": 99,
+   "reply_rate": 0.825,
+   "hire_rate": 0.275,
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n_jobs": 40,
+     "proposals_sent": 38,
+     "replied": 31,
+     "reply_rate": 0.775,
+     "hire_rate": 0.325
+    },
+    "fullstack_dev": {
+     "n_jobs": 40,
+     "proposals_sent": 37,
+     "replied": 33,
+     "reply_rate": 0.825,
+     "hire_rate": 0.175
+    },
+    "data_analyst": {
+     "n_jobs": 40,
+     "proposals_sent": 40,
+     "replied": 35,
+     "reply_rate": 0.875,
+     "hire_rate": 0.325
+    }
+   },
+   "unsupported_claims_per_proposal": 0.0,
+   "p95_latency_s": 0.0463,
+   "usd_per_proposal": 0.0
+  },
+  "v10_combined": {
+   "n_jobs": 120,
+   "proposals_sent": 114,
+   "replied": 99,
+   "reply_rate": 0.825,
+   "hire_rate": 0.258,
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n_jobs": 40,
+     "proposals_sent": 38,
+     "replied": 31,
+     "reply_rate": 0.775,
+     "hire_rate": 0.325
+    },
+    "fullstack_dev": {
+     "n_jobs": 40,
+     "proposals_sent": 36,
+     "replied": 33,
+     "reply_rate": 0.825,
+     "hire_rate": 0.15
+    },
+    "data_analyst": {
+     "n_jobs": 40,
+     "proposals_sent": 40,
+     "replied": 35,
+     "reply_rate": 0.875,
+     "hire_rate": 0.3
+    }
+   },
+   "unsupported_claims_per_proposal": 0.0,
+   "p95_latency_s": 0.0555,
+   "usd_per_proposal": 0.0
+  }
+ }
+}

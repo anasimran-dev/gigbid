@@ -1,0 +1,1 @@
+Built a LangGraph multi-agent freelancer copilot with MCP tool servers, evidence-verified proposals and human approval; skill-graph retrieval reached recall@5 0.82 vs 0.58 naive on a synthetic benchmark.

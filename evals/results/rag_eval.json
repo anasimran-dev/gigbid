@@ -1,0 +1,491 @@
+{
+ "meta": {
+  "profile": "offline",
+  "embeddings": "lsa",
+  "reranker": "lexical",
+  "data": "synthetic (scripts/generate_data.py, seed 4016)",
+  "generated_at": "2026-11-15 21:48"
+ },
+ "variants": {
+  "v0_naive": {
+   "overall": {
+    "n": 196,
+    "recall@5": 0.5769,
+    "mrr": 0.8829,
+    "ndcg@10": 0.6326
+   },
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n": 66,
+     "recall@5": 0.5914,
+     "mrr": 0.9747,
+     "ndcg@10": 0.6894
+    },
+    "fullstack_dev": {
+     "n": 70,
+     "recall@5": 0.547,
+     "mrr": 0.7304,
+     "ndcg@10": 0.5499
+    },
+    "data_analyst": {
+     "n": 60,
+     "recall@5": 0.596,
+     "mrr": 0.9597,
+     "ndcg@10": 0.6666
+    }
+   },
+   "by_job_type": {
+    "normal": {
+     "n": 87,
+     "recall@5": 0.6075,
+     "mrr": 0.9004,
+     "ndcg@10": 0.6568
+    },
+    "multi": {
+     "n": 42,
+     "recall@5": 0.4194,
+     "mrr": 0.8988,
+     "ndcg@10": 0.5313
+    },
+    "vague": {
+     "n": 27,
+     "recall@5": 0.8179,
+     "mrr": 0.8333,
+     "ndcg@10": 0.773
+    },
+    "injection": {
+     "n": 13,
+     "recall@5": 0.5,
+     "mrr": 0.9231,
+     "ndcg@10": 0.6083
+    }
+   },
+   "four_plus_requirements": {
+    "n": 140,
+    "recall@5": 0.5534,
+    "mrr": 0.9021,
+    "ndcg@10": 0.6252
+   }
+  },
+  "v1_decompose": {
+   "overall": {
+    "n": 196,
+    "recall@5": 0.6159,
+    "mrr": 0.8724,
+    "ndcg@10": 0.6728
+   },
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n": 66,
+     "recall@5": 0.5254,
+     "mrr": 0.952,
+     "ndcg@10": 0.6589
+    },
+    "fullstack_dev": {
+     "n": 70,
+     "recall@5": 0.5654,
+     "mrr": 0.7488,
+     "ndcg@10": 0.5682
+    },
+    "data_analyst": {
+     "n": 60,
+     "recall@5": 0.7744,
+     "mrr": 0.9292,
+     "ndcg@10": 0.8102
+    }
+   },
+   "by_job_type": {
+    "normal": {
+     "n": 87,
+     "recall@5": 0.7047,
+     "mrr": 0.9368,
+     "ndcg@10": 0.7552
+    },
+    "multi": {
+     "n": 42,
+     "recall@5": 0.4863,
+     "mrr": 0.9345,
+     "ndcg@10": 0.6162
+    },
+    "vague": {
+     "n": 27,
+     "recall@5": 0.4489,
+     "mrr": 0.5772,
+     "ndcg@10": 0.4625
+    },
+    "injection": {
+     "n": 13,
+     "recall@5": 0.641,
+     "mrr": 0.8846,
+     "ndcg@10": 0.6779
+    }
+   },
+   "four_plus_requirements": {
+    "n": 140,
+    "recall@5": 0.5122,
+    "mrr": 0.8792,
+    "ndcg@10": 0.6175
+   }
+  },
+  "v2_hybrid": {
+   "overall": {
+    "n": 196,
+    "recall@5": 0.5976,
+    "mrr": 0.8914,
+    "ndcg@10": 0.6597
+   },
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n": 66,
+     "recall@5": 0.6067,
+     "mrr": 0.9747,
+     "ndcg@10": 0.7069
+    },
+    "fullstack_dev": {
+     "n": 70,
+     "recall@5": 0.5455,
+     "mrr": 0.7506,
+     "ndcg@10": 0.572
+    },
+    "data_analyst": {
+     "n": 60,
+     "recall@5": 0.6484,
+     "mrr": 0.9639,
+     "ndcg@10": 0.7099
+    }
+   },
+   "by_job_type": {
+    "normal": {
+     "n": 87,
+     "recall@5": 0.639,
+     "mrr": 0.9107,
+     "ndcg@10": 0.6901
+    },
+    "multi": {
+     "n": 42,
+     "recall@5": 0.4483,
+     "mrr": 0.9107,
+     "ndcg@10": 0.5652
+    },
+    "vague": {
+     "n": 27,
+     "recall@5": 0.7764,
+     "mrr": 0.8364,
+     "ndcg@10": 0.7659
+    },
+    "injection": {
+     "n": 13,
+     "recall@5": 0.5641,
+     "mrr": 0.9231,
+     "ndcg@10": 0.6468
+    }
+   },
+   "four_plus_requirements": {
+    "n": 140,
+    "recall@5": 0.5701,
+    "mrr": 0.9155,
+    "ndcg@10": 0.6561
+   }
+  },
+  "v3_rerank": {
+   "overall": {
+    "n": 196,
+    "recall@5": 0.6272,
+    "mrr": 0.9272,
+    "ndcg@10": 0.7015
+   },
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n": 66,
+     "recall@5": 0.5883,
+     "mrr": 0.9899,
+     "ndcg@10": 0.7048
+    },
+    "fullstack_dev": {
+     "n": 70,
+     "recall@5": 0.6377,
+     "mrr": 0.8176,
+     "ndcg@10": 0.6648
+    },
+    "data_analyst": {
+     "n": 60,
+     "recall@5": 0.6578,
+     "mrr": 0.9861,
+     "ndcg@10": 0.7407
+    }
+   },
+   "by_job_type": {
+    "normal": {
+     "n": 87,
+     "recall@5": 0.639,
+     "mrr": 0.931,
+     "ndcg@10": 0.7167
+    },
+    "multi": {
+     "n": 42,
+     "recall@5": 0.499,
+     "mrr": 1.0,
+     "ndcg@10": 0.6304
+    },
+    "vague": {
+     "n": 27,
+     "recall@5": 0.7967,
+     "mrr": 0.8049,
+     "ndcg@10": 0.7712
+    },
+    "injection": {
+     "n": 13,
+     "recall@5": 0.5744,
+     "mrr": 0.9231,
+     "ndcg@10": 0.6486
+    }
+   },
+   "four_plus_requirements": {
+    "n": 140,
+    "recall@5": 0.6221,
+    "mrr": 0.9726,
+    "ndcg@10": 0.7123
+   }
+  },
+  "v4_outcome": {
+   "overall": {
+    "n": 196,
+    "recall@5": 0.6332,
+    "mrr": 0.903,
+    "ndcg@10": 0.6939
+   },
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n": 66,
+     "recall@5": 0.6355,
+     "mrr": 0.9924,
+     "ndcg@10": 0.7416
+    },
+    "fullstack_dev": {
+     "n": 70,
+     "recall@5": 0.6026,
+     "mrr": 0.7606,
+     "ndcg@10": 0.6193
+    },
+    "data_analyst": {
+     "n": 60,
+     "recall@5": 0.6665,
+     "mrr": 0.9708,
+     "ndcg@10": 0.7283
+    }
+   },
+   "by_job_type": {
+    "normal": {
+     "n": 87,
+     "recall@5": 0.6676,
+     "mrr": 0.9195,
+     "ndcg@10": 0.72
+    },
+    "multi": {
+     "n": 42,
+     "recall@5": 0.477,
+     "mrr": 0.9373,
+     "ndcg@10": 0.6159
+    },
+    "vague": {
+     "n": 27,
+     "recall@5": 0.8548,
+     "mrr": 0.8704,
+     "ndcg@10": 0.8173
+    },
+    "injection": {
+     "n": 13,
+     "recall@5": 0.6077,
+     "mrr": 0.8846,
+     "ndcg@10": 0.6663
+    }
+   },
+   "four_plus_requirements": {
+    "n": 140,
+    "recall@5": 0.6119,
+    "mrr": 0.9232,
+    "ndcg@10": 0.696
+   }
+  },
+  "v5_multivector": {
+   "overall": {
+    "n": 196,
+    "recall@5": 0.6252,
+    "mrr": 0.8833,
+    "ndcg@10": 0.6853
+   },
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n": 66,
+     "recall@5": 0.6252,
+     "mrr": 0.9747,
+     "ndcg@10": 0.7297
+    },
+    "fullstack_dev": {
+     "n": 70,
+     "recall@5": 0.5972,
+     "mrr": 0.7315,
+     "ndcg@10": 0.6109
+    },
+    "data_analyst": {
+     "n": 60,
+     "recall@5": 0.658,
+     "mrr": 0.9597,
+     "ndcg@10": 0.7234
+    }
+   },
+   "by_job_type": {
+    "normal": {
+     "n": 87,
+     "recall@5": 0.6584,
+     "mrr": 0.9004,
+     "ndcg@10": 0.7103
+    },
+    "multi": {
+     "n": 42,
+     "recall@5": 0.4491,
+     "mrr": 0.8988,
+     "ndcg@10": 0.5796
+    },
+    "vague": {
+     "n": 27,
+     "recall@5": 0.8421,
+     "mrr": 0.8333,
+     "ndcg@10": 0.8193
+    },
+    "injection": {
+     "n": 13,
+     "recall@5": 0.6077,
+     "mrr": 0.9231,
+     "ndcg@10": 0.6784
+    }
+   },
+   "four_plus_requirements": {
+    "n": 140,
+    "recall@5": 0.6003,
+    "mrr": 0.9026,
+    "ndcg@10": 0.6834
+   }
+  },
+  "v9_skill_graph": {
+   "overall": {
+    "n": 196,
+    "recall@5": 0.8208,
+    "mrr": 0.9306,
+    "ndcg@10": 0.9135
+   },
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n": 66,
+     "recall@5": 0.8306,
+     "mrr": 0.9378,
+     "ndcg@10": 0.9347
+    },
+    "fullstack_dev": {
+     "n": 70,
+     "recall@5": 0.7634,
+     "mrr": 0.8857,
+     "ndcg@10": 0.8666
+    },
+    "data_analyst": {
+     "n": 60,
+     "recall@5": 0.877,
+     "mrr": 0.975,
+     "ndcg@10": 0.945
+    }
+   },
+   "by_job_type": {
+    "normal": {
+     "n": 87,
+     "recall@5": 0.9471,
+     "mrr": 1.0,
+     "ndcg@10": 0.9957
+    },
+    "multi": {
+     "n": 42,
+     "recall@5": 0.7512,
+     "mrr": 1.0,
+     "ndcg@10": 0.9853
+    },
+    "vague": {
+     "n": 27,
+     "recall@5": 0.3243,
+     "mrr": 0.4962,
+     "ndcg@10": 0.4214
+    },
+    "injection": {
+     "n": 13,
+     "recall@5": 0.9872,
+     "mrr": 1.0,
+     "ndcg@10": 0.9928
+    }
+   },
+   "four_plus_requirements": {
+    "n": 140,
+    "recall@5": 0.7889,
+    "mrr": 0.9243,
+    "ndcg@10": 0.9085
+   }
+  },
+  "v10_combined": {
+   "overall": {
+    "n": 196,
+    "recall@5": 0.7203,
+    "mrr": 0.9218,
+    "ndcg@10": 0.7814
+   },
+   "by_persona": {
+    "ai_ml_engineer": {
+     "n": 66,
+     "recall@5": 0.6266,
+     "mrr": 0.9659,
+     "ndcg@10": 0.7294
+    },
+    "fullstack_dev": {
+     "n": 70,
+     "recall@5": 0.7207,
+     "mrr": 0.8464,
+     "ndcg@10": 0.7378
+    },
+    "data_analyst": {
+     "n": 60,
+     "recall@5": 0.8228,
+     "mrr": 0.9611,
+     "ndcg@10": 0.8896
+    }
+   },
+   "by_job_type": {
+    "normal": {
+     "n": 87,
+     "recall@5": 0.7852,
+     "mrr": 0.9511,
+     "ndcg@10": 0.8259
+    },
+    "multi": {
+     "n": 42,
+     "recall@5": 0.6763,
+     "mrr": 1.0,
+     "ndcg@10": 0.8019
+    },
+    "vague": {
+     "n": 27,
+     "recall@5": 0.4372,
+     "mrr": 0.6451,
+     "ndcg@10": 0.5196
+    },
+    "injection": {
+     "n": 13,
+     "recall@5": 0.7564,
+     "mrr": 1.0,
+     "ndcg@10": 0.8252
+    }
+   },
+   "four_plus_requirements": {
+    "n": 140,
+    "recall@5": 0.6598,
+    "mrr": 0.953,
+    "ndcg@10": 0.7663
+   }
+  }
+ }
+}

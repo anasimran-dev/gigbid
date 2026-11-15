@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "profile": "offline",
+  "embeddings": "lsa",
+  "reranker": "lexical",
+  "data": "synthetic (scripts/generate_data.py, seed 4016)",
+  "generated_at": "2026-11-15 21:48"
+ },
+ "ablation": {
+  "full": {
+   "n": 196,
+   "recall@5": 0.7203,
+   "mrr": 0.9218,
+   "ndcg@10": 0.7814,
+   "recall@5_delta_vs_full": 0.0
+  },
+  "without_decompose": {
+   "n": 196,
+   "recall@5": 0.6783,
+   "mrr": 0.9278,
+   "ndcg@10": 0.7635,
+   "recall@5_delta_vs_full": -0.042
+  },
+  "without_hybrid": {
+   "n": 196,
+   "recall@5": 0.7061,
+   "mrr": 0.9082,
+   "ndcg@10": 0.7623,
+   "recall@5_delta_vs_full": -0.0142
+  },
+  "without_rerank": {
+   "n": 196,
+   "recall@5": 0.7001,
+   "mrr": 0.8946,
+   "ndcg@10": 0.7533,
+   "recall@5_delta_vs_full": -0.0202
+  },
+  "without_outcome": {
+   "n": 196,
+   "recall@5": 0.7126,
+   "mrr": 0.9218,
+   "ndcg@10": 0.7757,
+   "recall@5_delta_vs_full": -0.0077
+  },
+  "without_collapse": {
+   "n": 196,
+   "recall@5": 0.7138,
+   "mrr": 0.9218,
+   "ndcg@10": 0.7739,
+   "recall@5_delta_vs_full": -0.0065
+  }
+ }
+}

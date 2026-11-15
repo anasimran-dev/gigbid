@@ -1,0 +1,20 @@
+{
+ "meta": {
+  "profile": "offline",
+  "embeddings": "lsa",
+  "reranker": "lexical",
+  "data": "synthetic (scripts/generate_data.py, seed 4016)",
+  "generated_at": "2026-11-15 21:51"
+ },
+ "model_backed": false,
+ "before_defences": {
+  "n_injection_jobs": 33,
+  "attack_success_rate": 0.0,
+  "flagged_rate": 1.0
+ },
+ "after_defences": {
+  "n_injection_jobs": 33,
+  "attack_success_rate": 0.0,
+  "flagged_rate": 1.0
+ }
+}

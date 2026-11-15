@@ -1,0 +1,223 @@
+{
+ "persona": "data_analyst",
+ "name": "Sara Malik (synthetic)",
+ "headline": "Data Analyst",
+ "hourly_rate_usd": 30,
+ "min_project_usd": 150,
+ "skills": [
+  "A/B testing",
+  "Airflow",
+  "BigQuery",
+  "Data visualization",
+  "ETL",
+  "Excel",
+  "Google Analytics",
+  "Looker",
+  "Power BI",
+  "Python",
+  "SQL",
+  "Statistics",
+  "Tableau",
+  "Time series",
+  "Web scraping",
+  "dbt",
+  "pandas",
+  "scikit-learn"
+ ],
+ "projects": [
+  {
+   "project_id": "data_analyst-p01",
+   "title": "Sales performance dashboard",
+   "skills": [
+    "Power BI",
+    "SQL",
+    "Data visualization",
+    "Excel"
+   ],
+   "industry": "e-commerce",
+   "result": "replaced 11 weekly spreadsheets with one dashboard",
+   "date": "2024-06"
+  },
+  {
+   "project_id": "data_analyst-p02",
+   "title": "Checkout A/B test analysis",
+   "skills": [
+    "A/B testing",
+    "Statistics",
+    "SQL",
+    "pandas"
+   ],
+   "industry": "e-commerce",
+   "result": "showed a 4.2% conversion lift at 95% confidence",
+   "date": "2025-11"
+  },
+  {
+   "project_id": "data_analyst-p03",
+   "title": "Warehouse modelling with dbt",
+   "skills": [
+    "dbt",
+    "BigQuery",
+    "SQL",
+    "ETL"
+   ],
+   "industry": "SaaS",
+   "result": "cut dashboard query cost by 63%",
+   "date": "2023-04"
+  },
+  {
+   "project_id": "data_analyst-p04",
+   "title": "Patient wait-time study",
+   "skills": [
+    "Statistics",
+    "pandas",
+    "Tableau",
+    "Python"
+   ],
+   "industry": "healthcare",
+   "result": "identified two bottlenecks worth 18 minutes per visit",
+   "date": "2024-09"
+  },
+  {
+   "project_id": "data_analyst-p05",
+   "title": "Marketing attribution report",
+   "skills": [
+    "Google Analytics",
+    "Looker",
+    "SQL",
+    "Data visualization"
+   ],
+   "industry": "media",
+   "result": "reallocated 22% of ad spend to better channels",
+   "date": "2025-02"
+  },
+  {
+   "project_id": "data_analyst-p06",
+   "title": "Nightly data pipeline",
+   "skills": [
+    "Airflow",
+    "ETL",
+    "BigQuery",
+    "Python"
+   ],
+   "industry": "logistics",
+   "result": "brought data freshness from 3 days to 6 hours",
+   "date": "2023-07"
+  },
+  {
+   "project_id": "data_analyst-p07",
+   "title": "Financial forecast workbook",
+   "skills": [
+    "Excel",
+    "Time series",
+    "Statistics"
+   ],
+   "industry": "fintech",
+   "result": "forecast quarterly revenue within 3% for four quarters",
+   "date": "2024-12"
+  },
+  {
+   "project_id": "data_analyst-p08",
+   "title": "Customer segmentation",
+   "skills": [
+    "pandas",
+    "scikit-learn",
+    "SQL",
+    "Tableau"
+   ],
+   "industry": "e-commerce",
+   "result": "found 5 segments and lifted email revenue by 15%",
+   "date": "2025-05"
+  },
+  {
+   "project_id": "data_analyst-p09",
+   "title": "Churn cohort analysis",
+   "skills": [
+    "SQL",
+    "pandas",
+    "Statistics",
+    "Looker"
+   ],
+   "industry": "SaaS",
+   "result": "pinpointed a 30-day drop-off that drove 40% of churn",
+   "date": "2023-10"
+  },
+  {
+   "project_id": "data_analyst-p10",
+   "title": "Competitor price tracker",
+   "skills": [
+    "Web scraping",
+    "Python",
+    "pandas",
+    "Excel"
+   ],
+   "industry": "real estate",
+   "result": "tracked 9,000 listings daily from public APIs",
+   "date": "2024-03"
+  },
+  {
+   "project_id": "data_analyst-p11",
+   "title": "Executive KPI board",
+   "skills": [
+    "Tableau",
+    "SQL",
+    "Data visualization"
+   ],
+   "industry": "fintech",
+   "result": "gave leadership one view of 14 KPIs",
+   "date": "2025-08"
+  },
+  {
+   "project_id": "data_analyst-p12",
+   "title": "Survey analysis for a university",
+   "skills": [
+    "Statistics",
+    "Excel",
+    "Data visualization",
+    "pandas"
+   ],
+   "industry": "education",
+   "result": "analysed 6,200 responses and reported 3 significant drivers",
+   "date": "2023-01"
+  },
+  {
+   "project_id": "data_analyst-p13",
+   "title": "Delivery delay root-cause analysis",
+   "skills": [
+    "SQL",
+    "pandas",
+    "Statistics",
+    "Power BI"
+   ],
+   "industry": "logistics",
+   "result": "traced 58% of delays to two depots",
+   "date": "2024-06"
+  },
+  {
+   "project_id": "data_analyst-p14",
+   "title": "Product analytics tracking plan",
+   "skills": [
+    "Google Analytics",
+    "BigQuery",
+    "SQL",
+    "A/B testing"
+   ],
+   "industry": "SaaS",
+   "result": "defined 42 events and fixed 9 broken funnels",
+   "date": "2025-11"
+  },
+  {
+   "project_id": "data_analyst-p15",
+   "title": "Pricing experiment readout",
+   "skills": [
+    "A/B testing",
+    "Statistics",
+    "Python",
+    "Looker"
+   ],
+   "industry": "media",
+   "result": "showed the higher price raised revenue per user by 11%",
+   "date": "2023-04"
+  }
+ ],
+ "synthetic": true
+}

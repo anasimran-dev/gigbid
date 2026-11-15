@@ -1,0 +1,137 @@
+# GigBid configuration. Rules, models, budgets and thresholds live here, never in code.
+# Env overrides: MODEL_PROFILE, MARKETPLACE_MODE, RAG_VARIANT.
+
+marketplace:
+  mode: gigsim            # gigsim | upwork   (R1: one port, two adapters)
+  max_requests_per_minute: 30   # per user, kept under GigSim's limit of 60
+  retries: 3
+  backoff_seconds: 0.2
+  timeout_seconds: 15
+  scout_interval_minutes: 180   # see docs/RUNBOOK.md for the justification
+
+upwork:
+  url: https://mcp.upwork.com/mcp
+  # port method -> Upwork MCP tool name. UNVERIFIED: list the live tools and correct these.
+  tool_map:
+    search_jobs: search_jobs
+    get_job: get_job
+    get_client_history: get_client
+    get_connects_balance: get_connects_balance
+    list_messages: list_messages
+    create_proposal_draft: create_proposal_draft
+    create_message_draft: create_message_draft
+
+# ---- models -----------------------------------------------------------------
+profile: offline          # offline | open | open_local | paid
+profiles:
+  offline:                # rule-based fallbacks only: tests, CI, reproducible evals. No LLM calls.
+    provider: none
+  open:                   # hosted open-weight models (OpenAI-compatible endpoint, e.g. Groq)
+    provider: openai_compatible
+    base_url_env: OPEN_LLM_BASE_URL
+    api_key_env: OPEN_LLM_API_KEY
+    small: openai/gpt-oss-20b
+    strong: openai/gpt-oss-120b
+    fallback: openai/gpt-oss-20b
+  open_local:             # Ollama on a laptop
+    provider: openai_compatible
+    base_url_env: OLLAMA_OPENAI_URL
+    api_key_env: OLLAMA_API_KEY
+    small: qwen3:4b
+    strong: qwen3:8b
+    fallback: qwen3:4b
+  paid:                   # optional; only where it beats `open` enough to justify the cost
+    provider: openai_compatible
+    base_url_env: PAID_LLM_BASE_URL
+    api_key_env: PAID_LLM_API_KEY
+    small: configure-me
+    strong: configure-me
+    fallback: configure-me
+
+# Route by node: cheap frequent nodes use `small`, writing and judging use `strong`.
+node_models:
+  analyst: small
+  risk: small
+  matcher: small
+  pricing: small
+  compliance: small
+  intent: small
+  writer: strong
+  verifier: small
+  critic: strong
+  liaison: strong
+  judge: strong
+
+# USD per 1M tokens (input, output). Fill in from your provider's price page before reporting cost.
+prices_usd_per_mtok:
+  openai/gpt-oss-20b: [0.0, 0.0]
+  openai/gpt-oss-120b: [0.0, 0.0]
+
+embeddings:
+  backend: lsa            # lsa (offline TF-IDF+SVD) | ollama
+  model: nomic-embed-text
+reranker:
+  backend: lexical        # lexical (offline stand-in) | cross_encoder
+  model: BAAI/bge-reranker-v2-m3
+
+rag:
+  variant: v9_skill_graph   # chosen by evals/runners/rag_eval.py, see README "What ships"
+  k: 5
+
+# ---- budgets and thresholds -------------------------------------------------
+budgets:
+  max_graph_steps: 30
+  max_revisions: 2
+  max_tokens_per_thread: 12000
+  declared_p95_seconds_per_job: 20
+  declared_p95_seconds_per_proposal: 60
+  declared_usd_per_job: 0.002
+  declared_usd_per_proposal: 0.02
+
+thresholds:
+  bid_fit: 0.60
+  watch_fit: 0.40
+  max_risk: 0.60
+  auto_skip_fit: 0.30     # autonomy may auto-skip below this; nothing is ever auto-sent
+
+proposal:
+  strategy: evidence_first    # evidence_first | question_first  (signature extension X2)
+  min_words: 60
+  max_words: 170
+
+# ---- platform policy (the change request is absorbed here) ------------------
+policy:
+  connect_usd: 0.15
+  max_connects_per_job: 16
+  weekly_connects_budget: 60
+  min_client_spend_for_boost: 0
+  extra_connects_fee: 0        # e.g. set to 2 if a policy update adds a flat fee per bid
+  banned_phrases: ["guarantee", "guaranteed", "100% satisfaction", "money back", "best fit for this job"]
+  off_platform: ["telegram", "whatsapp", "skype", "wire transfer", "bank details", "outside the platform", "paypal directly", "my email"]
+
+# ---- MCP client discipline (A6): each agent sees only these tools -----------
+tool_allowlists:
+  scout: [search_jobs, get_job]
+  risk: [get_client_history]
+  matcher: [search_evidence, list_skills]
+  pricing: [get_market_stats, get_connects_balance]
+  writer: [search_evidence, get_case_study]
+  critic: [get_case_study]
+  compliance: []
+  analyst: []
+  submit: [create_proposal_draft, submit_proposal]
+  liaison: [list_messages, send_message, search_evidence, free_slots, create_interview_hold, create_email_draft]
+  board: [list_events]
+  ingest: [get_file_contents]
+
+mcp:
+  transport: inprocess     # inprocess | http
+  servers:
+    portfolio: http://portfolio-mcp:9001/mcp
+    marketplace: http://marketplace-mcp:9002/mcp
+    workspace: http://workspace-mcp:9003/mcp
+    github: https://api.githubcopilot.com/mcp/
+
+memory:
+  style_min_repeats: 2      # an edit pattern must be seen this many times before it is promoted
+  outcome_min_samples: 3    # outcomes per job category before a win rate is stored

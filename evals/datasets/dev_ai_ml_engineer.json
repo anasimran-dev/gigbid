@@ -1,0 +1,3598 @@
+[
+ {
+  "job_id": "job-0260",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    336,
+    504
+   ]
+  }
+ },
+ {
+  "job_id": "job-0163",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 7,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p05",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p12",
+    "ai_ml_engineer-p14"
+   ],
+   "fair_price_band": [
+    1328,
+    1992
+   ]
+  }
+ },
+ {
+  "job_id": "job-0068",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    952,
+    1428
+   ]
+  }
+ },
+ {
+  "job_id": "job-0166",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 7,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1592,
+    2388
+   ]
+  }
+ },
+ {
+  "job_id": "job-0039",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    840,
+    1260
+   ]
+  }
+ },
+ {
+  "job_id": "job-0193",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p06",
+    "ai_ml_engineer-p15"
+   ],
+   "fair_price_band": [
+    584,
+    876
+   ]
+  }
+ },
+ {
+  "job_id": "job-0055",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    280,
+    420
+   ]
+  }
+ },
+ {
+  "job_id": "job-0041",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    824,
+    1236
+   ]
+  }
+ },
+ {
+  "job_id": "job-0212",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    824,
+    1236
+   ]
+  }
+ },
+ {
+  "job_id": "job-0285",
+  "kind": "scam",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p12"
+   ],
+   "fair_price_band": [
+    1064,
+    1596
+   ]
+  }
+ },
+ {
+  "job_id": "job-0117",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    808,
+    1212
+   ]
+  }
+ },
+ {
+  "job_id": "job-0071",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    824,
+    1236
+   ]
+  }
+ },
+ {
+  "job_id": "job-0191",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    824,
+    1236
+   ]
+  }
+ },
+ {
+  "job_id": "job-0185",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 6,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1024,
+    1536
+   ]
+  }
+ },
+ {
+  "job_id": "job-0199",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1176,
+    1764
+   ]
+  }
+ },
+ {
+  "job_id": "job-0240",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    232,
+    348
+   ]
+  }
+ },
+ {
+  "job_id": "job-0213",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p13"
+   ],
+   "fair_price_band": [
+    936,
+    1404
+   ]
+  }
+ },
+ {
+  "job_id": "job-0010",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    336,
+    504
+   ]
+  }
+ },
+ {
+  "job_id": "job-0220",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    968,
+    1452
+   ]
+  }
+ },
+ {
+  "job_id": "job-0133",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p12"
+   ],
+   "fair_price_band": [
+    1264,
+    1896
+   ]
+  }
+ },
+ {
+  "job_id": "job-0284",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    744,
+    1116
+   ]
+  }
+ },
+ {
+  "job_id": "job-0303",
+  "kind": "injection",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p12"
+   ],
+   "fair_price_band": [
+    1016,
+    1524
+   ]
+  }
+ },
+ {
+  "job_id": "job-0234",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    184,
+    276
+   ]
+  }
+ },
+ {
+  "job_id": "job-0208",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p06",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p11",
+    "ai_ml_engineer-p15"
+   ],
+   "fair_price_band": [
+    712,
+    1068
+   ]
+  }
+ },
+ {
+  "job_id": "job-0112",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    568,
+    852
+   ]
+  }
+ },
+ {
+  "job_id": "job-0312",
+  "kind": "injection",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1088,
+    1632
+   ]
+  }
+ },
+ {
+  "job_id": "job-0124",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p04",
+    "ai_ml_engineer-p14"
+   ],
+   "fair_price_band": [
+    1064,
+    1596
+   ]
+  }
+ },
+ {
+  "job_id": "job-0171",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p04",
+    "ai_ml_engineer-p05",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p13",
+    "ai_ml_engineer-p14"
+   ],
+   "fair_price_band": [
+    944,
+    1416
+   ]
+  }
+ },
+ {
+  "job_id": "job-0009",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    360,
+    540
+   ]
+  }
+ },
+ {
+  "job_id": "job-0254",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    120,
+    180
+   ]
+  }
+ },
+ {
+  "job_id": "job-0194",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1024,
+    1536
+   ]
+  }
+ },
+ {
+  "job_id": "job-0148",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p06",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p11",
+    "ai_ml_engineer-p15"
+   ],
+   "fair_price_band": [
+    800,
+    1200
+   ]
+  }
+ },
+ {
+  "job_id": "job-0094",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    896,
+    1344
+   ]
+  }
+ },
+ {
+  "job_id": "job-0079",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    680,
+    1020
+   ]
+  }
+ },
+ {
+  "job_id": "job-0060",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p12"
+   ],
+   "fair_price_band": [
+    976,
+    1464
+   ]
+  }
+ },
+ {
+  "job_id": "job-0051",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1096,
+    1644
+   ]
+  }
+ },
+ {
+  "job_id": "job-0300",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    272,
+    408
+   ]
+  }
+ },
+ {
+  "job_id": "job-0236",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1640,
+    2460
+   ]
+  }
+ },
+ {
+  "job_id": "job-0131",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p11"
+   ],
+   "fair_price_band": [
+    1304,
+    1956
+   ]
+  }
+ },
+ {
+  "job_id": "job-0147",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p06",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p11",
+    "ai_ml_engineer-p15"
+   ],
+   "fair_price_band": [
+    920,
+    1380
+   ]
+  }
+ },
+ {
+  "job_id": "job-0316",
+  "kind": "injection",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [],
+   "fair_price_band": [
+    840,
+    1260
+   ]
+  }
+ },
+ {
+  "job_id": "job-0003",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    896,
+    1344
+   ]
+  }
+ },
+ {
+  "job_id": "job-0042",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    720,
+    1080
+   ]
+  }
+ },
+ {
+  "job_id": "job-0121",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    816,
+    1224
+   ]
+  }
+ },
+ {
+  "job_id": "job-0090",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1336,
+    2004
+   ]
+  }
+ },
+ {
+  "job_id": "job-0022",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p12"
+   ],
+   "fair_price_band": [
+    1144,
+    1716
+   ]
+  }
+ },
+ {
+  "job_id": "job-0130",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    344,
+    516
+   ]
+  }
+ },
+ {
+  "job_id": "job-0008",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    776,
+    1164
+   ]
+  }
+ },
+ {
+  "job_id": "job-0174",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p11"
+   ],
+   "fair_price_band": [
+    1432,
+    2148
+   ]
+  }
+ },
+ {
+  "job_id": "job-0170",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p11"
+   ],
+   "fair_price_band": [
+    1288,
+    1932
+   ]
+  }
+ },
+ {
+  "job_id": "job-0006",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    320,
+    480
+   ]
+  }
+ },
+ {
+  "job_id": "job-0005",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p06",
+    "ai_ml_engineer-p15"
+   ],
+   "fair_price_band": [
+    504,
+    756
+   ]
+  }
+ },
+ {
+  "job_id": "job-0207",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p13"
+   ],
+   "fair_price_band": [
+    704,
+    1056
+   ]
+  }
+ },
+ {
+  "job_id": "job-0134",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    576,
+    864
+   ]
+  }
+ },
+ {
+  "job_id": "job-0214",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    824,
+    1236
+   ]
+  }
+ },
+ {
+  "job_id": "job-0017",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    448,
+    672
+   ]
+  }
+ },
+ {
+  "job_id": "job-0206",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    936,
+    1404
+   ]
+  }
+ },
+ {
+  "job_id": "job-0224",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p13"
+   ],
+   "fair_price_band": [
+    800,
+    1200
+   ]
+  }
+ },
+ {
+  "job_id": "job-0222",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    408,
+    612
+   ]
+  }
+ },
+ {
+  "job_id": "job-0019",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p04",
+    "ai_ml_engineer-p14"
+   ],
+   "fair_price_band": [
+    1248,
+    1872
+   ]
+  }
+ },
+ {
+  "job_id": "job-0259",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    120,
+    180
+   ]
+  }
+ },
+ {
+  "job_id": "job-0249",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1552,
+    2328
+   ]
+  }
+ },
+ {
+  "job_id": "job-0119",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    712,
+    1068
+   ]
+  }
+ },
+ {
+  "job_id": "job-0072",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    720,
+    1080
+   ]
+  }
+ },
+ {
+  "job_id": "job-0088",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p12"
+   ],
+   "fair_price_band": [
+    1024,
+    1536
+   ]
+  }
+ },
+ {
+  "job_id": "job-0023",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1472,
+    2208
+   ]
+  }
+ },
+ {
+  "job_id": "job-0128",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    1056,
+    1584
+   ]
+  }
+ },
+ {
+  "job_id": "job-0030",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p05"
+   ],
+   "fair_price_band": [
+    1472,
+    2208
+   ]
+  }
+ },
+ {
+  "job_id": "job-0013",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    480,
+    720
+   ]
+  }
+ },
+ {
+  "job_id": "job-0091",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    816,
+    1224
+   ]
+  }
+ },
+ {
+  "job_id": "job-0104",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    784,
+    1176
+   ]
+  }
+ },
+ {
+  "job_id": "job-0270",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    136,
+    204
+   ]
+  }
+ },
+ {
+  "job_id": "job-0168",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p11",
+    "ai_ml_engineer-p13"
+   ],
+   "fair_price_band": [
+    1048,
+    1572
+   ]
+  }
+ },
+ {
+  "job_id": "job-0020",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    656,
+    984
+   ]
+  }
+ },
+ {
+  "job_id": "job-0173",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p11"
+   ],
+   "fair_price_band": [
+    984,
+    1476
+   ]
+  }
+ },
+ {
+  "job_id": "job-0107",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p04",
+    "ai_ml_engineer-p14"
+   ],
+   "fair_price_band": [
+    1360,
+    2040
+   ]
+  }
+ },
+ {
+  "job_id": "job-0086",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p06",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p11",
+    "ai_ml_engineer-p15"
+   ],
+   "fair_price_band": [
+    584,
+    876
+   ]
+  }
+ },
+ {
+  "job_id": "job-0102",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    792,
+    1188
+   ]
+  }
+ },
+ {
+  "job_id": "job-0217",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1112,
+    1668
+   ]
+  }
+ },
+ {
+  "job_id": "job-0297",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    848,
+    1272
+   ]
+  }
+ },
+ {
+  "job_id": "job-0183",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    712,
+    1068
+   ]
+  }
+ },
+ {
+  "job_id": "job-0219",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    760,
+    1140
+   ]
+  }
+ },
+ {
+  "job_id": "job-0216",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p06",
+    "ai_ml_engineer-p15"
+   ],
+   "fair_price_band": [
+    496,
+    744
+   ]
+  }
+ },
+ {
+  "job_id": "job-0215",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    512,
+    768
+   ]
+  }
+ },
+ {
+  "job_id": "job-0317",
+  "kind": "injection",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [],
+   "fair_price_band": [
+    392,
+    588
+   ]
+  }
+ },
+ {
+  "job_id": "job-0014",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    848,
+    1272
+   ]
+  }
+ },
+ {
+  "job_id": "job-0043",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    384,
+    576
+   ]
+  }
+ },
+ {
+  "job_id": "job-0149",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p04",
+    "ai_ml_engineer-p11",
+    "ai_ml_engineer-p14"
+   ],
+   "fair_price_band": [
+    1288,
+    1932
+   ]
+  }
+ },
+ {
+  "job_id": "job-0315",
+  "kind": "injection",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1344,
+    2016
+   ]
+  }
+ },
+ {
+  "job_id": "job-0314",
+  "kind": "injection",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p06",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p11",
+    "ai_ml_engineer-p15"
+   ],
+   "fair_price_band": [
+    696,
+    1044
+   ]
+  }
+ },
+ {
+  "job_id": "job-0101",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    424,
+    636
+   ]
+  }
+ },
+ {
+  "job_id": "job-0255",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    264,
+    396
+   ]
+  }
+ },
+ {
+  "job_id": "job-0264",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    200,
+    300
+   ]
+  }
+ },
+ {
+  "job_id": "job-0110",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    1152,
+    1728
+   ]
+  }
+ },
+ {
+  "job_id": "job-0116",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    992,
+    1488
+   ]
+  }
+ },
+ {
+  "job_id": "job-0045",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    416,
+    624
+   ]
+  }
+ },
+ {
+  "job_id": "job-0016",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    440,
+    660
+   ]
+  }
+ },
+ {
+  "job_id": "job-0084",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p06",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p11",
+    "ai_ml_engineer-p15"
+   ],
+   "fair_price_band": [
+    672,
+    1008
+   ]
+  }
+ },
+ {
+  "job_id": "job-0204",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    872,
+    1308
+   ]
+  }
+ },
+ {
+  "job_id": "job-0146",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 6,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1376,
+    2064
+   ]
+  }
+ },
+ {
+  "job_id": "job-0218",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    632,
+    948
+   ]
+  }
+ },
+ {
+  "job_id": "job-0263",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    248,
+    372
+   ]
+  }
+ },
+ {
+  "job_id": "job-0290",
+  "kind": "scam",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1248,
+    1872
+   ]
+  }
+ },
+ {
+  "job_id": "job-0139",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    600,
+    900
+   ]
+  }
+ },
+ {
+  "job_id": "job-0057",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1024,
+    1536
+   ]
+  }
+ },
+ {
+  "job_id": "job-0301",
+  "kind": "injection",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [],
+   "fair_price_band": [
+    368,
+    552
+   ]
+  }
+ },
+ {
+  "job_id": "job-0126",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    776,
+    1164
+   ]
+  }
+ },
+ {
+  "job_id": "job-0237",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    240,
+    360
+   ]
+  }
+ },
+ {
+  "job_id": "job-0292",
+  "kind": "scam",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    432,
+    648
+   ]
+  }
+ },
+ {
+  "job_id": "job-0243",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1896,
+    2844
+   ]
+  }
+ },
+ {
+  "job_id": "job-0109",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1360,
+    2040
+   ]
+  }
+ },
+ {
+  "job_id": "job-0178",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    640,
+    960
+   ]
+  }
+ },
+ {
+  "job_id": "job-0114",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    696,
+    1044
+   ]
+  }
+ },
+ {
+  "job_id": "job-0127",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1120,
+    1680
+   ]
+  }
+ },
+ {
+  "job_id": "job-0262",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    104,
+    156
+   ]
+  }
+ },
+ {
+  "job_id": "job-0076",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    544,
+    816
+   ]
+  }
+ },
+ {
+  "job_id": "job-0031",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p05"
+   ],
+   "fair_price_band": [
+    1632,
+    2448
+   ]
+  }
+ },
+ {
+  "job_id": "job-0012",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    856,
+    1284
+   ]
+  }
+ },
+ {
+  "job_id": "job-0175",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 6,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1088,
+    1632
+   ]
+  }
+ },
+ {
+  "job_id": "job-0184",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p04",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p14"
+   ],
+   "fair_price_band": [
+    792,
+    1188
+   ]
+  }
+ },
+ {
+  "job_id": "job-0288",
+  "kind": "scam",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    688,
+    1032
+   ]
+  }
+ },
+ {
+  "job_id": "job-0311",
+  "kind": "injection",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p12"
+   ],
+   "fair_price_band": [
+    1184,
+    1776
+   ]
+  }
+ },
+ {
+  "job_id": "job-0103",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    392,
+    588
+   ]
+  }
+ },
+ {
+  "job_id": "job-0015",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    944,
+    1416
+   ]
+  }
+ },
+ {
+  "job_id": "job-0100",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    312,
+    468
+   ]
+  }
+ },
+ {
+  "job_id": "job-0096",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    552,
+    828
+   ]
+  }
+ },
+ {
+  "job_id": "job-0286",
+  "kind": "scam",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    424,
+    636
+   ]
+  }
+ },
+ {
+  "job_id": "job-0283",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    720,
+    1080
+   ]
+  }
+ },
+ {
+  "job_id": "job-0244",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    144,
+    216
+   ]
+  }
+ },
+ {
+  "job_id": "job-0161",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p04",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p14"
+   ],
+   "fair_price_band": [
+    976,
+    1464
+   ]
+  }
+ },
+ {
+  "job_id": "job-0296",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    880,
+    1320
+   ]
+  }
+ },
+ {
+  "job_id": "job-0058",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    360,
+    540
+   ]
+  }
+ },
+ {
+  "job_id": "job-0160",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p06",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p11",
+    "ai_ml_engineer-p15"
+   ],
+   "fair_price_band": [
+    1016,
+    1524
+   ]
+  }
+ },
+ {
+  "job_id": "job-0111",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    568,
+    852
+   ]
+  }
+ },
+ {
+  "job_id": "job-0061",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    656,
+    984
+   ]
+  }
+ },
+ {
+  "job_id": "job-0036",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    352,
+    528
+   ]
+  }
+ },
+ {
+  "job_id": "job-0188",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    640,
+    960
+   ]
+  }
+ },
+ {
+  "job_id": "job-0318",
+  "kind": "injection",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p13"
+   ],
+   "fair_price_band": [
+    792,
+    1188
+   ]
+  }
+ },
+ {
+  "job_id": "job-0273",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    376,
+    564
+   ]
+  }
+ },
+ {
+  "job_id": "job-0238",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1368,
+    2052
+   ]
+  }
+ },
+ {
+  "job_id": "job-0310",
+  "kind": "injection",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    960,
+    1440
+   ]
+  }
+ },
+ {
+  "job_id": "job-0059",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    816,
+    1224
+   ]
+  }
+ },
+ {
+  "job_id": "job-0136",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p06",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p11",
+    "ai_ml_engineer-p13",
+    "ai_ml_engineer-p15"
+   ],
+   "fair_price_band": [
+    872,
+    1308
+   ]
+  }
+ },
+ {
+  "job_id": "job-0075",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    424,
+    636
+   ]
+  }
+ },
+ {
+  "job_id": "job-0034",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    488,
+    732
+   ]
+  }
+ },
+ {
+  "job_id": "job-0177",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    536,
+    804
+   ]
+  }
+ },
+ {
+  "job_id": "job-0064",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    416,
+    624
+   ]
+  }
+ },
+ {
+  "job_id": "job-0093",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    480,
+    720
+   ]
+  }
+ },
+ {
+  "job_id": "job-0187",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p06",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p11",
+    "ai_ml_engineer-p13",
+    "ai_ml_engineer-p15"
+   ],
+   "fair_price_band": [
+    880,
+    1320
+   ]
+  }
+ },
+ {
+  "job_id": "job-0053",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p12"
+   ],
+   "fair_price_band": [
+    1192,
+    1788
+   ]
+  }
+ },
+ {
+  "job_id": "job-0082",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    840,
+    1260
+   ]
+  }
+ },
+ {
+  "job_id": "job-0182",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1040,
+    1560
+   ]
+  }
+ },
+ {
+  "job_id": "job-0278",
+  "kind": "scam",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p13"
+   ],
+   "fair_price_band": [
+    688,
+    1032
+   ]
+  }
+ },
+ {
+  "job_id": "job-0162",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    432,
+    648
+   ]
+  }
+ },
+ {
+  "job_id": "job-0038",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    352,
+    528
+   ]
+  }
+ },
+ {
+  "job_id": "job-0225",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    864,
+    1296
+   ]
+  }
+ },
+ {
+  "job_id": "job-0027",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    304,
+    456
+   ]
+  }
+ },
+ {
+  "job_id": "job-0274",
+  "kind": "scam",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p12"
+   ],
+   "fair_price_band": [
+    960,
+    1440
+   ]
+  }
+ },
+ {
+  "job_id": "job-0246",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    312,
+    468
+   ]
+  }
+ },
+ {
+  "job_id": "job-0261",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    200,
+    300
+   ]
+  }
+ },
+ {
+  "job_id": "job-0227",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    824,
+    1236
+   ]
+  }
+ },
+ {
+  "job_id": "job-0202",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1136,
+    1704
+   ]
+  }
+ },
+ {
+  "job_id": "job-0150",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p04",
+    "ai_ml_engineer-p11",
+    "ai_ml_engineer-p14"
+   ],
+   "fair_price_band": [
+    1312,
+    1968
+   ]
+  }
+ },
+ {
+  "job_id": "job-0306",
+  "kind": "injection",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [],
+   "fair_price_band": [
+    800,
+    1200
+   ]
+  }
+ },
+ {
+  "job_id": "job-0209",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    768,
+    1152
+   ]
+  }
+ },
+ {
+  "job_id": "job-0032",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p05"
+   ],
+   "fair_price_band": [
+    1616,
+    2424
+   ]
+  }
+ },
+ {
+  "job_id": "job-0269",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    256,
+    384
+   ]
+  }
+ },
+ {
+  "job_id": "job-0291",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    344,
+    516
+   ]
+  }
+ },
+ {
+  "job_id": "job-0165",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    488,
+    732
+   ]
+  }
+ },
+ {
+  "job_id": "job-0085",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    920,
+    1380
+   ]
+  }
+ },
+ {
+  "job_id": "job-0028",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    528,
+    792
+   ]
+  }
+ },
+ {
+  "job_id": "job-0125",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1264,
+    1896
+   ]
+  }
+ },
+ {
+  "job_id": "job-0070",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1328,
+    1992
+   ]
+  }
+ },
+ {
+  "job_id": "job-0256",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    248,
+    372
+   ]
+  }
+ },
+ {
+  "job_id": "job-0186",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 6,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1424,
+    2136
+   ]
+  }
+ },
+ {
+  "job_id": "job-0105",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p02",
+    "ai_ml_engineer-p06",
+    "ai_ml_engineer-p15"
+   ],
+   "fair_price_band": [
+    656,
+    984
+   ]
+  }
+ },
+ {
+  "job_id": "job-0232",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    328,
+    492
+   ]
+  }
+ },
+ {
+  "job_id": "job-0307",
+  "kind": "injection",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [],
+   "fair_price_band": [
+    624,
+    936
+   ]
+  }
+ },
+ {
+  "job_id": "job-0231",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    216,
+    324
+   ]
+  }
+ },
+ {
+  "job_id": "job-0018",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    512,
+    768
+   ]
+  }
+ },
+ {
+  "job_id": "job-0289",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    768,
+    1152
+   ]
+  }
+ },
+ {
+  "job_id": "job-0239",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1680,
+    2520
+   ]
+  }
+ },
+ {
+  "job_id": "job-0141",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 6,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1696,
+    2544
+   ]
+  }
+ },
+ {
+  "job_id": "job-0099",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    280,
+    420
+   ]
+  }
+ },
+ {
+  "job_id": "job-0164",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    984,
+    1476
+   ]
+  }
+ },
+ {
+  "job_id": "job-0248",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1368,
+    2052
+   ]
+  }
+ },
+ {
+  "job_id": "job-0319",
+  "kind": "injection",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [],
+   "fair_price_band": [
+    696,
+    1044
+   ]
+  }
+ },
+ {
+  "job_id": "job-0011",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p04",
+    "ai_ml_engineer-p14"
+   ],
+   "fair_price_band": [
+    1384,
+    2076
+   ]
+  }
+ },
+ {
+  "job_id": "job-0180",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    800,
+    1200
+   ]
+  }
+ },
+ {
+  "job_id": "job-0144",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    912,
+    1368
+   ]
+  }
+ },
+ {
+  "job_id": "job-0021",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    928,
+    1392
+   ]
+  }
+ },
+ {
+  "job_id": "job-0002",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    824,
+    1236
+   ]
+  }
+ },
+ {
+  "job_id": "job-0323",
+  "kind": "duplicate",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    704,
+    1056
+   ]
+  }
+ },
+ {
+  "job_id": "job-0330",
+  "kind": "duplicate",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p03",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p09",
+    "ai_ml_engineer-p10"
+   ],
+   "fair_price_band": [
+    720,
+    1080
+   ]
+  }
+ },
+ {
+  "job_id": "job-0327",
+  "kind": "duplicate",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    424,
+    636
+   ]
+  }
+ },
+ {
+  "job_id": "job-0328",
+  "kind": "duplicate",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p01",
+    "ai_ml_engineer-p07",
+    "ai_ml_engineer-p08",
+    "ai_ml_engineer-p10",
+    "ai_ml_engineer-p12"
+   ],
+   "fair_price_band": [
+    1192,
+    1788
+   ]
+  }
+ },
+ {
+  "job_id": "job-0322",
+  "kind": "duplicate",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    752,
+    1128
+   ]
+  }
+ },
+ {
+  "job_id": "job-0338",
+  "kind": "duplicate",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "ai_ml_engineer-p05"
+   ],
+   "fair_price_band": [
+    1520,
+    2280
+   ]
+  }
+ },
+ {
+  "job_id": "job-0336",
+  "kind": "duplicate",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    800,
+    1200
+   ]
+  }
+ },
+ {
+  "job_id": "job-0333",
+  "kind": "duplicate",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    840,
+    1260
+   ]
+  }
+ }
+]

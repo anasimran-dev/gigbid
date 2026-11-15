@@ -1,0 +1,223 @@
+{
+ "persona": "fullstack_dev",
+ "name": "Bilal Ahmed (synthetic)",
+ "headline": "Full-Stack Web Developer",
+ "hourly_rate_usd": 40,
+ "min_project_usd": 250,
+ "skills": [
+  "AWS",
+  "Authentication",
+  "Django",
+  "Docker",
+  "GraphQL",
+  "Jest",
+  "MongoDB",
+  "Next.js",
+  "Node.js",
+  "PostgreSQL",
+  "REST API",
+  "React",
+  "Redis",
+  "Stripe",
+  "Tailwind CSS",
+  "TypeScript",
+  "WebSockets"
+ ],
+ "projects": [
+  {
+   "project_id": "fullstack_dev-p01",
+   "title": "Clinic appointment portal",
+   "skills": [
+    "React",
+    "Node.js",
+    "PostgreSQL",
+    "Authentication"
+   ],
+   "industry": "healthcare",
+   "result": "moved 70% of bookings online within two months",
+   "date": "2024-06"
+  },
+  {
+   "project_id": "fullstack_dev-p02",
+   "title": "Subscription billing dashboard",
+   "skills": [
+    "Next.js",
+    "Stripe",
+    "TypeScript",
+    "PostgreSQL"
+   ],
+   "industry": "SaaS",
+   "result": "recovered 9% of failed payments automatically",
+   "date": "2025-11"
+  },
+  {
+   "project_id": "fullstack_dev-p03",
+   "title": "Marketplace storefront rebuild",
+   "skills": [
+    "Next.js",
+    "Tailwind CSS",
+    "TypeScript",
+    "GraphQL"
+   ],
+   "industry": "e-commerce",
+   "result": "improved Lighthouse performance from 54 to 96",
+   "date": "2023-04"
+  },
+  {
+   "project_id": "fullstack_dev-p04",
+   "title": "Fleet tracking live map",
+   "skills": [
+    "React",
+    "WebSockets",
+    "Node.js",
+    "Redis"
+   ],
+   "industry": "logistics",
+   "result": "streamed positions for 1,200 vehicles with sub-second lag",
+   "date": "2024-09"
+  },
+  {
+   "project_id": "fullstack_dev-p05",
+   "title": "Learning platform API",
+   "skills": [
+    "Django",
+    "PostgreSQL",
+    "REST API",
+    "Docker"
+   ],
+   "industry": "education",
+   "result": "served 40,000 students at 99.9% uptime",
+   "date": "2025-02"
+  },
+  {
+   "project_id": "fullstack_dev-p06",
+   "title": "Property listing site",
+   "skills": [
+    "Next.js",
+    "MongoDB",
+    "Tailwind CSS",
+    "REST API"
+   ],
+   "industry": "real estate",
+   "result": "doubled organic search traffic in one quarter",
+   "date": "2023-07"
+  },
+  {
+   "project_id": "fullstack_dev-p07",
+   "title": "Checkout redesign",
+   "skills": [
+    "React",
+    "Stripe",
+    "Jest",
+    "TypeScript"
+   ],
+   "industry": "e-commerce",
+   "result": "raised checkout completion from 61% to 74%",
+   "date": "2024-12"
+  },
+  {
+   "project_id": "fullstack_dev-p08",
+   "title": "Team chat widget",
+   "skills": [
+    "WebSockets",
+    "Node.js",
+    "Redis",
+    "React"
+   ],
+   "industry": "SaaS",
+   "result": "handled 8,000 concurrent connections in load tests",
+   "date": "2025-05"
+  },
+  {
+   "project_id": "fullstack_dev-p09",
+   "title": "Loan application workflow",
+   "skills": [
+    "React",
+    "Node.js",
+    "Authentication",
+    "PostgreSQL"
+   ],
+   "industry": "fintech",
+   "result": "cut application time from 25 to 8 minutes",
+   "date": "2023-10"
+  },
+  {
+   "project_id": "fullstack_dev-p10",
+   "title": "Newsroom CMS",
+   "skills": [
+    "Django",
+    "PostgreSQL",
+    "Redis",
+    "AWS"
+   ],
+   "industry": "media",
+   "result": "cut page render time from 1.9 s to 300 ms",
+   "date": "2024-03"
+  },
+  {
+   "project_id": "fullstack_dev-p11",
+   "title": "Mobile-and-web GraphQL gateway",
+   "skills": [
+    "GraphQL",
+    "Node.js",
+    "TypeScript",
+    "Docker"
+   ],
+   "industry": "media",
+   "result": "replaced 37 REST endpoints with one schema",
+   "date": "2025-08"
+  },
+  {
+   "project_id": "fullstack_dev-p12",
+   "title": "Test suite for a legacy app",
+   "skills": [
+    "Jest",
+    "TypeScript",
+    "React"
+   ],
+   "industry": "fintech",
+   "result": "took coverage from 12% to 78% and halved regressions",
+   "date": "2023-01"
+  },
+  {
+   "project_id": "fullstack_dev-p13",
+   "title": "Warehouse inventory app",
+   "skills": [
+    "React",
+    "Node.js",
+    "MongoDB",
+    "REST API"
+   ],
+   "industry": "logistics",
+   "result": "eliminated 90% of manual stock spreadsheets",
+   "date": "2024-06"
+  },
+  {
+   "project_id": "fullstack_dev-p14",
+   "title": "Single sign-on integration",
+   "skills": [
+    "Authentication",
+    "Node.js",
+    "AWS",
+    "Docker"
+   ],
+   "industry": "healthcare",
+   "result": "connected 6 internal tools to one login",
+   "date": "2025-11"
+  },
+  {
+   "project_id": "fullstack_dev-p15",
+   "title": "Donation platform",
+   "skills": [
+    "Next.js",
+    "Stripe",
+    "Tailwind CSS",
+    "PostgreSQL"
+   ],
+   "industry": "education",
+   "result": "processed 14,000 donations with zero payment disputes",
+   "date": "2023-04"
+  }
+ ],
+ "synthetic": true
+}

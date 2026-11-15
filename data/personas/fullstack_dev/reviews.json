@@ -1,0 +1,114 @@
+[
+ {
+  "id": "fullstack_dev-rev-01",
+  "project": "fullstack_dev-p01",
+  "industry": "healthcare",
+  "date": "2024-06",
+  "rating": 4,
+  "skills": [
+   "React",
+   "Node.js",
+   "PostgreSQL",
+   "Authentication"
+  ],
+  "text": "Great work on our clinic appointment portal. It moved 70% of bookings online within two months. Clear communication throughout."
+ },
+ {
+  "id": "fullstack_dev-rev-02",
+  "project": "fullstack_dev-p02",
+  "industry": "SaaS",
+  "date": "2025-11",
+  "rating": 4,
+  "skills": [
+   "Next.js",
+   "Stripe",
+   "TypeScript",
+   "PostgreSQL"
+  ],
+  "text": "Great work on our subscription billing dashboard. It recovered 9% of failed payments automatically. Clear communication throughout."
+ },
+ {
+  "id": "fullstack_dev-rev-03",
+  "project": "fullstack_dev-p03",
+  "industry": "e-commerce",
+  "date": "2023-04",
+  "rating": 5,
+  "skills": [
+   "Next.js",
+   "Tailwind CSS",
+   "TypeScript",
+   "GraphQL"
+  ],
+  "text": "Great work on our marketplace storefront rebuild. It improved Lighthouse performance from 54 to 96. Clear communication throughout."
+ },
+ {
+  "id": "fullstack_dev-rev-04",
+  "project": "fullstack_dev-p04",
+  "industry": "logistics",
+  "date": "2024-09",
+  "rating": 5,
+  "skills": [
+   "React",
+   "WebSockets",
+   "Node.js",
+   "Redis"
+  ],
+  "text": "Great work on our fleet tracking live map. It streamed positions for 1,200 vehicles with sub-second lag. Clear communication throughout."
+ },
+ {
+  "id": "fullstack_dev-rev-05",
+  "project": "fullstack_dev-p05",
+  "industry": "education",
+  "date": "2025-02",
+  "rating": 5,
+  "skills": [
+   "Django",
+   "PostgreSQL",
+   "REST API",
+   "Docker"
+  ],
+  "text": "Great work on our learning platform api. It served 40,000 students at 99.9% uptime. Clear communication throughout."
+ },
+ {
+  "id": "fullstack_dev-rev-06",
+  "project": "fullstack_dev-p06",
+  "industry": "real estate",
+  "date": "2023-07",
+  "rating": 5,
+  "skills": [
+   "Next.js",
+   "MongoDB",
+   "Tailwind CSS",
+   "REST API"
+  ],
+  "text": "Great work on our property listing site. It doubled organic search traffic in one quarter. Clear communication throughout."
+ },
+ {
+  "id": "fullstack_dev-rev-07",
+  "project": "fullstack_dev-p07",
+  "industry": "e-commerce",
+  "date": "2024-12",
+  "rating": 4,
+  "skills": [
+   "React",
+   "Stripe",
+   "Jest",
+   "TypeScript"
+  ],
+  "text": "Great work on our checkout redesign. It raised checkout completion from 61% to 74%. Clear communication throughout."
+ },
+ {
+  "id": "fullstack_dev-rev-08",
+  "project": "fullstack_dev-p08",
+  "industry": "SaaS",
+  "date": "2025-05",
+  "rating": 4,
+  "skills": [
+   "WebSockets",
+   "Node.js",
+   "Redis",
+   "React"
+  ],
+  "text": "Great work on our team chat widget. It handled 8,000 concurrent connections in load tests. Clear communication throughout."
+ }
+]

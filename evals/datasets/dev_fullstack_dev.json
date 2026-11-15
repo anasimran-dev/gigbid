@@ -1,0 +1,3576 @@
+[
+ {
+  "job_id": "job-0132",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p07",
+    "fullstack_dev-p12",
+    "fullstack_dev-p13",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    1360,
+    2040
+   ]
+  }
+ },
+ {
+  "job_id": "job-0158",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p04",
+    "fullstack_dev-p07",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    1112,
+    1668
+   ]
+  }
+ },
+ {
+  "job_id": "job-0234",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    184,
+    276
+   ]
+  }
+ },
+ {
+  "job_id": "job-0105",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    656,
+    984
+   ]
+  }
+ },
+ {
+  "job_id": "job-0117",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    808,
+    1212
+   ]
+  }
+ },
+ {
+  "job_id": "job-0004",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p02",
+    "fullstack_dev-p04",
+    "fullstack_dev-p07",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p12",
+    "fullstack_dev-p13",
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    1208,
+    1812
+   ]
+  }
+ },
+ {
+  "job_id": "job-0216",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    496,
+    744
+   ]
+  }
+ },
+ {
+  "job_id": "job-0235",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1432,
+    2148
+   ]
+  }
+ },
+ {
+  "job_id": "job-0118",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    768,
+    1152
+   ]
+  }
+ },
+ {
+  "job_id": "job-0213",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    936,
+    1404
+   ]
+  }
+ },
+ {
+  "job_id": "job-0112",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    568,
+    852
+   ]
+  }
+ },
+ {
+  "job_id": "job-0010",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    336,
+    504
+   ]
+  }
+ },
+ {
+  "job_id": "job-0121",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p03",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    816,
+    1224
+   ]
+  }
+ },
+ {
+  "job_id": "job-0231",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    216,
+    324
+   ]
+  }
+ },
+ {
+  "job_id": "job-0116",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    992,
+    1488
+   ]
+  }
+ },
+ {
+  "job_id": "job-0172",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    632,
+    948
+   ]
+  }
+ },
+ {
+  "job_id": "job-0191",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    824,
+    1236
+   ]
+  }
+ },
+ {
+  "job_id": "job-0220",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    968,
+    1452
+   ]
+  }
+ },
+ {
+  "job_id": "job-0281",
+  "kind": "scam",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    1240,
+    1860
+   ]
+  }
+ },
+ {
+  "job_id": "job-0122",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p07",
+    "fullstack_dev-p12"
+   ],
+   "fair_price_band": [
+    448,
+    672
+   ]
+  }
+ },
+ {
+  "job_id": "job-0167",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 7,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1568,
+    2352
+   ]
+  }
+ },
+ {
+  "job_id": "job-0225",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    864,
+    1296
+   ]
+  }
+ },
+ {
+  "job_id": "job-0249",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1552,
+    2328
+   ]
+  }
+ },
+ {
+  "job_id": "job-0005",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    504,
+    756
+   ]
+  }
+ },
+ {
+  "job_id": "job-0072",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    720,
+    1080
+   ]
+  }
+ },
+ {
+  "job_id": "job-0221",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    768,
+    1152
+   ]
+  }
+ },
+ {
+  "job_id": "job-0124",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1064,
+    1596
+   ]
+  }
+ },
+ {
+  "job_id": "job-0113",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p04",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    1016,
+    1524
+   ]
+  }
+ },
+ {
+  "job_id": "job-0139",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p11",
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    600,
+    900
+   ]
+  }
+ },
+ {
+  "job_id": "job-0090",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p02",
+    "fullstack_dev-p04",
+    "fullstack_dev-p07",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p12",
+    "fullstack_dev-p13",
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    1336,
+    2004
+   ]
+  }
+ },
+ {
+  "job_id": "job-0123",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    544,
+    816
+   ]
+  }
+ },
+ {
+  "job_id": "job-0093",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    480,
+    720
+   ]
+  }
+ },
+ {
+  "job_id": "job-0298",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    456,
+    684
+   ]
+  }
+ },
+ {
+  "job_id": "job-0014",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    848,
+    1272
+   ]
+  }
+ },
+ {
+  "job_id": "job-0182",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p07",
+    "fullstack_dev-p12",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    1040,
+    1560
+   ]
+  }
+ },
+ {
+  "job_id": "job-0089",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    320,
+    480
+   ]
+  }
+ },
+ {
+  "job_id": "job-0130",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    344,
+    516
+   ]
+  }
+ },
+ {
+  "job_id": "job-0148",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    800,
+    1200
+   ]
+  }
+ },
+ {
+  "job_id": "job-0094",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    896,
+    1344
+   ]
+  }
+ },
+ {
+  "job_id": "job-0251",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    128,
+    192
+   ]
+  }
+ },
+ {
+  "job_id": "job-0199",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    1176,
+    1764
+   ]
+  }
+ },
+ {
+  "job_id": "job-0301",
+  "kind": "injection",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [],
+   "fair_price_band": [
+    368,
+    552
+   ]
+  }
+ },
+ {
+  "job_id": "job-0133",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1264,
+    1896
+   ]
+  }
+ },
+ {
+  "job_id": "job-0069",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    840,
+    1260
+   ]
+  }
+ },
+ {
+  "job_id": "job-0202",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p05",
+    "fullstack_dev-p10"
+   ],
+   "fair_price_band": [
+    1136,
+    1704
+   ]
+  }
+ },
+ {
+  "job_id": "job-0277",
+  "kind": "scam",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1064,
+    1596
+   ]
+  }
+ },
+ {
+  "job_id": "job-0264",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    200,
+    300
+   ]
+  }
+ },
+ {
+  "job_id": "job-0006",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    320,
+    480
+   ]
+  }
+ },
+ {
+  "job_id": "job-0246",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    312,
+    468
+   ]
+  }
+ },
+ {
+  "job_id": "job-0134",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    576,
+    864
+   ]
+  }
+ },
+ {
+  "job_id": "job-0232",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    328,
+    492
+   ]
+  }
+ },
+ {
+  "job_id": "job-0060",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    976,
+    1464
+   ]
+  }
+ },
+ {
+  "job_id": "job-0166",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 7,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p04",
+    "fullstack_dev-p06",
+    "fullstack_dev-p07",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p12",
+    "fullstack_dev-p13",
+    "fullstack_dev-p14",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    1592,
+    2388
+   ]
+  }
+ },
+ {
+  "job_id": "job-0030",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1472,
+    2208
+   ]
+  }
+ },
+ {
+  "job_id": "job-0157",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    920,
+    1380
+   ]
+  }
+ },
+ {
+  "job_id": "job-0064",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    416,
+    624
+   ]
+  }
+ },
+ {
+  "job_id": "job-0279",
+  "kind": "scam",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    920,
+    1380
+   ]
+  }
+ },
+ {
+  "job_id": "job-0162",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    432,
+    648
+   ]
+  }
+ },
+ {
+  "job_id": "job-0036",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    352,
+    528
+   ]
+  }
+ },
+ {
+  "job_id": "job-0106",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1520,
+    2280
+   ]
+  }
+ },
+ {
+  "job_id": "job-0224",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    800,
+    1200
+   ]
+  }
+ },
+ {
+  "job_id": "job-0177",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    536,
+    804
+   ]
+  }
+ },
+ {
+  "job_id": "job-0266",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    224,
+    336
+   ]
+  }
+ },
+ {
+  "job_id": "job-0050",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    360,
+    540
+   ]
+  }
+ },
+ {
+  "job_id": "job-0239",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1680,
+    2520
+   ]
+  }
+ },
+ {
+  "job_id": "job-0103",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    392,
+    588
+   ]
+  }
+ },
+ {
+  "job_id": "job-0163",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 7,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1328,
+    1992
+   ]
+  }
+ },
+ {
+  "job_id": "job-0156",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1720,
+    2580
+   ]
+  }
+ },
+ {
+  "job_id": "job-0196",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    616,
+    924
+   ]
+  }
+ },
+ {
+  "job_id": "job-0206",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p04",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    936,
+    1404
+   ]
+  }
+ },
+ {
+  "job_id": "job-0189",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1128,
+    1692
+   ]
+  }
+ },
+ {
+  "job_id": "job-0197",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1096,
+    1644
+   ]
+  }
+ },
+ {
+  "job_id": "job-0020",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    656,
+    984
+   ]
+  }
+ },
+ {
+  "job_id": "job-0273",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    376,
+    564
+   ]
+  }
+ },
+ {
+  "job_id": "job-0292",
+  "kind": "scam",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p07",
+    "fullstack_dev-p12"
+   ],
+   "fair_price_band": [
+    432,
+    648
+   ]
+  }
+ },
+ {
+  "job_id": "job-0201",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    352,
+    528
+   ]
+  }
+ },
+ {
+  "job_id": "job-0283",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    720,
+    1080
+   ]
+  }
+ },
+ {
+  "job_id": "job-0074",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    560,
+    840
+   ]
+  }
+ },
+ {
+  "job_id": "job-0047",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p02",
+    "fullstack_dev-p04",
+    "fullstack_dev-p07",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p12",
+    "fullstack_dev-p13",
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    1112,
+    1668
+   ]
+  }
+ },
+ {
+  "job_id": "job-0316",
+  "kind": "injection",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p04",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    840,
+    1260
+   ]
+  }
+ },
+ {
+  "job_id": "job-0222",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    408,
+    612
+   ]
+  }
+ },
+ {
+  "job_id": "job-0002",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    824,
+    1236
+   ]
+  }
+ },
+ {
+  "job_id": "job-0280",
+  "kind": "scam",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p02",
+    "fullstack_dev-p04",
+    "fullstack_dev-p07",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p12",
+    "fullstack_dev-p13",
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    1096,
+    1644
+   ]
+  }
+ },
+ {
+  "job_id": "job-0046",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    744,
+    1116
+   ]
+  }
+ },
+ {
+  "job_id": "job-0210",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    912,
+    1368
+   ]
+  }
+ },
+ {
+  "job_id": "job-0175",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p05",
+    "fullstack_dev-p09",
+    "fullstack_dev-p10",
+    "fullstack_dev-p11",
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    1088,
+    1632
+   ]
+  }
+ },
+ {
+  "job_id": "job-0270",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    136,
+    204
+   ]
+  }
+ },
+ {
+  "job_id": "job-0289",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    768,
+    1152
+   ]
+  }
+ },
+ {
+  "job_id": "job-0096",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    552,
+    828
+   ]
+  }
+ },
+ {
+  "job_id": "job-0011",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1384,
+    2076
+   ]
+  }
+ },
+ {
+  "job_id": "job-0227",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    824,
+    1236
+   ]
+  }
+ },
+ {
+  "job_id": "job-0297",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    848,
+    1272
+   ]
+  }
+ },
+ {
+  "job_id": "job-0039",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p04",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    840,
+    1260
+   ]
+  }
+ },
+ {
+  "job_id": "job-0204",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    872,
+    1308
+   ]
+  }
+ },
+ {
+  "job_id": "job-0186",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p04",
+    "fullstack_dev-p06",
+    "fullstack_dev-p08",
+    "fullstack_dev-p13",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    1424,
+    2136
+   ]
+  }
+ },
+ {
+  "job_id": "job-0066",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    848,
+    1272
+   ]
+  }
+ },
+ {
+  "job_id": "job-0173",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    984,
+    1476
+   ]
+  }
+ },
+ {
+  "job_id": "job-0146",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p04",
+    "fullstack_dev-p05",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p10",
+    "fullstack_dev-p11",
+    "fullstack_dev-p13",
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    1376,
+    2064
+   ]
+  }
+ },
+ {
+  "job_id": "job-0027",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    304,
+    456
+   ]
+  }
+ },
+ {
+  "job_id": "job-0034",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    488,
+    732
+   ]
+  }
+ },
+ {
+  "job_id": "job-0287",
+  "kind": "scam",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    896,
+    1344
+   ]
+  }
+ },
+ {
+  "job_id": "job-0176",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1296,
+    1944
+   ]
+  }
+ },
+ {
+  "job_id": "job-0035",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    920,
+    1380
+   ]
+  }
+ },
+ {
+  "job_id": "job-0236",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1640,
+    2460
+   ]
+  }
+ },
+ {
+  "job_id": "job-0100",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    312,
+    468
+   ]
+  }
+ },
+ {
+  "job_id": "job-0154",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 6,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p14",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    1016,
+    1524
+   ]
+  }
+ },
+ {
+  "job_id": "job-0098",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p03",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    920,
+    1380
+   ]
+  }
+ },
+ {
+  "job_id": "job-0003",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    896,
+    1344
+   ]
+  }
+ },
+ {
+  "job_id": "job-0296",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    880,
+    1320
+   ]
+  }
+ },
+ {
+  "job_id": "job-0302",
+  "kind": "injection",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1432,
+    2148
+   ]
+  }
+ },
+ {
+  "job_id": "job-0078",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    520,
+    780
+   ]
+  }
+ },
+ {
+  "job_id": "job-0169",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1112,
+    1668
+   ]
+  }
+ },
+ {
+  "job_id": "job-0253",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    144,
+    216
+   ]
+  }
+ },
+ {
+  "job_id": "job-0284",
+  "kind": "scam",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    744,
+    1116
+   ]
+  }
+ },
+ {
+  "job_id": "job-0274",
+  "kind": "scam",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    960,
+    1440
+   ]
+  }
+ },
+ {
+  "job_id": "job-0041",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    824,
+    1236
+   ]
+  }
+ },
+ {
+  "job_id": "job-0077",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    312,
+    468
+   ]
+  }
+ },
+ {
+  "job_id": "job-0212",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    824,
+    1236
+   ]
+  }
+ },
+ {
+  "job_id": "job-0312",
+  "kind": "injection",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [
+    "fullstack_dev-p05",
+    "fullstack_dev-p10"
+   ],
+   "fair_price_band": [
+    1088,
+    1632
+   ]
+  }
+ },
+ {
+  "job_id": "job-0159",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1408,
+    2112
+   ]
+  }
+ },
+ {
+  "job_id": "job-0304",
+  "kind": "injection",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    1432,
+    2148
+   ]
+  }
+ },
+ {
+  "job_id": "job-0051",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p05",
+    "fullstack_dev-p10"
+   ],
+   "fair_price_band": [
+    1096,
+    1644
+   ]
+  }
+ },
+ {
+  "job_id": "job-0219",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    760,
+    1140
+   ]
+  }
+ },
+ {
+  "job_id": "job-0152",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    472,
+    708
+   ]
+  }
+ },
+ {
+  "job_id": "job-0257",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    216,
+    324
+   ]
+  }
+ },
+ {
+  "job_id": "job-0102",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p04",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    792,
+    1188
+   ]
+  }
+ },
+ {
+  "job_id": "job-0207",
+  "kind": "vague",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    704,
+    1056
+   ]
+  }
+ },
+ {
+  "job_id": "job-0217",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p02",
+    "fullstack_dev-p04",
+    "fullstack_dev-p07",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p12",
+    "fullstack_dev-p13",
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    1112,
+    1668
+   ]
+  }
+ },
+ {
+  "job_id": "job-0013",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    480,
+    720
+   ]
+  }
+ },
+ {
+  "job_id": "job-0099",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    280,
+    420
+   ]
+  }
+ },
+ {
+  "job_id": "job-0290",
+  "kind": "scam",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    1248,
+    1872
+   ]
+  }
+ },
+ {
+  "job_id": "job-0228",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    792,
+    1188
+   ]
+  }
+ },
+ {
+  "job_id": "job-0269",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    256,
+    384
+   ]
+  }
+ },
+ {
+  "job_id": "job-0088",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1024,
+    1536
+   ]
+  }
+ },
+ {
+  "job_id": "job-0215",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    512,
+    768
+   ]
+  }
+ },
+ {
+  "job_id": "job-0275",
+  "kind": "scam",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p05",
+    "fullstack_dev-p10"
+   ],
+   "fair_price_band": [
+    880,
+    1320
+   ]
+  }
+ },
+ {
+  "job_id": "job-0271",
+  "kind": "scam",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    496,
+    744
+   ]
+  }
+ },
+ {
+  "job_id": "job-0107",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1360,
+    2040
+   ]
+  }
+ },
+ {
+  "job_id": "job-0031",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1632,
+    2448
+   ]
+  }
+ },
+ {
+  "job_id": "job-0230",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    1208,
+    1812
+   ]
+  }
+ },
+ {
+  "job_id": "job-0056",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    1320,
+    1980
+   ]
+  }
+ },
+ {
+  "job_id": "job-0140",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 7,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1648,
+    2472
+   ]
+  }
+ },
+ {
+  "job_id": "job-0022",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1144,
+    1716
+   ]
+  }
+ },
+ {
+  "job_id": "job-0255",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    264,
+    396
+   ]
+  }
+ },
+ {
+  "job_id": "job-0085",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p04",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    920,
+    1380
+   ]
+  }
+ },
+ {
+  "job_id": "job-0237",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    240,
+    360
+   ]
+  }
+ },
+ {
+  "job_id": "job-0037",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    840,
+    1260
+   ]
+  }
+ },
+ {
+  "job_id": "job-0001",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p03",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    1016,
+    1524
+   ]
+  }
+ },
+ {
+  "job_id": "job-0278",
+  "kind": "scam",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    688,
+    1032
+   ]
+  }
+ },
+ {
+  "job_id": "job-0009",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    360,
+    540
+   ]
+  }
+ },
+ {
+  "job_id": "job-0205",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p05",
+    "fullstack_dev-p10"
+   ],
+   "fair_price_band": [
+    1016,
+    1524
+   ]
+  }
+ },
+ {
+  "job_id": "job-0233",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1368,
+    2052
+   ]
+  }
+ },
+ {
+  "job_id": "job-0282",
+  "kind": "scam",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    600,
+    900
+   ]
+  }
+ },
+ {
+  "job_id": "job-0188",
+  "kind": "multi",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p02",
+    "fullstack_dev-p04",
+    "fullstack_dev-p07",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p12",
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    640,
+    960
+   ]
+  }
+ },
+ {
+  "job_id": "job-0040",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p04",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    976,
+    1464
+   ]
+  }
+ },
+ {
+  "job_id": "job-0195",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    584,
+    876
+   ]
+  }
+ },
+ {
+  "job_id": "job-0308",
+  "kind": "injection",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    832,
+    1248
+   ]
+  }
+ },
+ {
+  "job_id": "job-0263",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    248,
+    372
+   ]
+  }
+ },
+ {
+  "job_id": "job-0070",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p02",
+    "fullstack_dev-p04",
+    "fullstack_dev-p07",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p12",
+    "fullstack_dev-p13",
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    1328,
+    1992
+   ]
+  }
+ },
+ {
+  "job_id": "job-0026",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    448,
+    672
+   ]
+  }
+ },
+ {
+  "job_id": "job-0108",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    304,
+    456
+   ]
+  }
+ },
+ {
+  "job_id": "job-0061",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    656,
+    984
+   ]
+  }
+ },
+ {
+  "job_id": "job-0258",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    264,
+    396
+   ]
+  }
+ },
+ {
+  "job_id": "job-0024",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    984,
+    1476
+   ]
+  }
+ },
+ {
+  "job_id": "job-0052",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p05",
+    "fullstack_dev-p10"
+   ],
+   "fair_price_band": [
+    1064,
+    1596
+   ]
+  }
+ },
+ {
+  "job_id": "job-0180",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    800,
+    1200
+   ]
+  }
+ },
+ {
+  "job_id": "job-0317",
+  "kind": "injection",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": true,
+   "relevant_projects": [],
+   "fair_price_band": [
+    392,
+    588
+   ]
+  }
+ },
+ {
+  "job_id": "job-0065",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    392,
+    588
+   ]
+  }
+ },
+ {
+  "job_id": "job-0109",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    1360,
+    2040
+   ]
+  }
+ },
+ {
+  "job_id": "job-0128",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1056,
+    1584
+   ]
+  }
+ },
+ {
+  "job_id": "job-0181",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    424,
+    636
+   ]
+  }
+ },
+ {
+  "job_id": "job-0091",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    816,
+    1224
+   ]
+  }
+ },
+ {
+  "job_id": "job-0082",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    840,
+    1260
+   ]
+  }
+ },
+ {
+  "job_id": "job-0286",
+  "kind": "scam",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p07",
+    "fullstack_dev-p12"
+   ],
+   "fair_price_band": [
+    424,
+    636
+   ]
+  }
+ },
+ {
+  "job_id": "job-0267",
+  "kind": "other",
+  "category": "other",
+  "n_requirements": 0,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    224,
+    336
+   ]
+  }
+ },
+ {
+  "job_id": "job-0115",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p02",
+    "fullstack_dev-p04",
+    "fullstack_dev-p07",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p12",
+    "fullstack_dev-p13",
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    1256,
+    1884
+   ]
+  }
+ },
+ {
+  "job_id": "job-0110",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1152,
+    1728
+   ]
+  }
+ },
+ {
+  "job_id": "job-0021",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p04",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    928,
+    1392
+   ]
+  }
+ },
+ {
+  "job_id": "job-0184",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    792,
+    1188
+   ]
+  }
+ },
+ {
+  "job_id": "job-0048",
+  "kind": "normal",
+  "category": "ai_ml",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1032,
+    1548
+   ]
+  }
+ },
+ {
+  "job_id": "job-0161",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    976,
+    1464
+   ]
+  }
+ },
+ {
+  "job_id": "job-0081",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    384,
+    576
+   ]
+  }
+ },
+ {
+  "job_id": "job-0226",
+  "kind": "vague",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    1224,
+    1836
+   ]
+  }
+ },
+ {
+  "job_id": "job-0293",
+  "kind": "scam",
+  "category": "web",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": true,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p02",
+    "fullstack_dev-p04",
+    "fullstack_dev-p07",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p12",
+    "fullstack_dev-p13",
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    1200,
+    1800
+   ]
+  }
+ },
+ {
+  "job_id": "job-0223",
+  "kind": "vague",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    544,
+    816
+   ]
+  }
+ },
+ {
+  "job_id": "job-0187",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    880,
+    1320
+   ]
+  }
+ },
+ {
+  "job_id": "job-0007",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p03",
+    "fullstack_dev-p09",
+    "fullstack_dev-p11",
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    800,
+    1200
+   ]
+  }
+ },
+ {
+  "job_id": "job-0171",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 6,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p14"
+   ],
+   "fair_price_band": [
+    944,
+    1416
+   ]
+  }
+ },
+ {
+  "job_id": "job-0119",
+  "kind": "normal",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    712,
+    1068
+   ]
+  }
+ },
+ {
+  "job_id": "job-0165",
+  "kind": "multi",
+  "category": "data",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    488,
+    732
+   ]
+  }
+ },
+ {
+  "job_id": "job-0155",
+  "kind": "multi",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1680,
+    2520
+   ]
+  }
+ },
+ {
+  "job_id": "job-0111",
+  "kind": "normal",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    568,
+    852
+   ]
+  }
+ },
+ {
+  "job_id": "job-0325",
+  "kind": "duplicate",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1024,
+    1536
+   ]
+  }
+ },
+ {
+  "job_id": "job-0327",
+  "kind": "duplicate",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    424,
+    636
+   ]
+  }
+ },
+ {
+  "job_id": "job-0337",
+  "kind": "duplicate",
+  "category": "data",
+  "n_requirements": 3,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    336,
+    504
+   ]
+  }
+ },
+ {
+  "job_id": "job-0333",
+  "kind": "duplicate",
+  "category": "web",
+  "n_requirements": 4,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p01",
+    "fullstack_dev-p04",
+    "fullstack_dev-p08",
+    "fullstack_dev-p09",
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    840,
+    1260
+   ]
+  }
+ },
+ {
+  "job_id": "job-0323",
+  "kind": "duplicate",
+  "category": "data",
+  "n_requirements": 4,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    704,
+    1056
+   ]
+  }
+ },
+ {
+  "job_id": "job-0328",
+  "kind": "duplicate",
+  "category": "ai_ml",
+  "n_requirements": 5,
+  "gold": {
+   "bid": false,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [],
+   "fair_price_band": [
+    1192,
+    1788
+   ]
+  }
+ },
+ {
+  "job_id": "job-0322",
+  "kind": "duplicate",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p02",
+    "fullstack_dev-p03",
+    "fullstack_dev-p06",
+    "fullstack_dev-p15"
+   ],
+   "fair_price_band": [
+    752,
+    1128
+   ]
+  }
+ },
+ {
+  "job_id": "job-0332",
+  "kind": "duplicate",
+  "category": "web",
+  "n_requirements": 3,
+  "gold": {
+   "bid": true,
+   "scam": false,
+   "injection": false,
+   "relevant_projects": [
+    "fullstack_dev-p13"
+   ],
+   "fair_price_band": [
+    552,
+    828
+   ]
+  }
+ }
+]

@@ -1,0 +1,556 @@
+{
+ "marketplace.create_proposal_draft": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": true,
+   "readonlyhint": false
+  },
+  "properties": {
+   "bid_usd": {
+    "exclusiveMinimum": 0,
+    "maximum": 1000000,
+    "type": "number"
+   },
+   "cover_letter": {
+    "maxLength": 5000,
+    "minLength": 40,
+    "type": "string"
+   },
+   "dry_run": {
+    "default": false,
+    "type": "boolean"
+   },
+   "idempotency_key": {
+    "maxLength": 128,
+    "minLength": 8,
+    "type": "string"
+   },
+   "job_id": {
+    "maxLength": 64,
+    "minLength": 3,
+    "type": "string"
+   },
+   "screening_answers": {
+    "default": [],
+    "items": {
+     "type": "string"
+    },
+    "maxItems": 10,
+    "type": "array"
+   },
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   },
+   "user_id": {
+    "maxLength": 64,
+    "minLength": 1,
+    "type": "string"
+   }
+  },
+  "required": [
+   "bid_usd",
+   "cover_letter",
+   "idempotency_key",
+   "job_id",
+   "user_id"
+  ]
+ },
+ "marketplace.get_client_history": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": false,
+   "readonlyhint": true
+  },
+  "properties": {
+   "client_id": {
+    "maxLength": 64,
+    "minLength": 3,
+    "type": "string"
+   },
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   },
+   "user_id": {
+    "maxLength": 64,
+    "minLength": 1,
+    "type": "string"
+   }
+  },
+  "required": [
+   "client_id",
+   "user_id"
+  ]
+ },
+ "marketplace.get_connects_balance": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": false,
+   "readonlyhint": true
+  },
+  "properties": {
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   },
+   "user_id": {
+    "maxLength": 64,
+    "minLength": 1,
+    "type": "string"
+   }
+  },
+  "required": [
+   "user_id"
+  ]
+ },
+ "marketplace.get_job": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": false,
+   "readonlyhint": true
+  },
+  "properties": {
+   "job_id": {
+    "maxLength": 64,
+    "minLength": 3,
+    "type": "string"
+   },
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   },
+   "user_id": {
+    "maxLength": 64,
+    "minLength": 1,
+    "type": "string"
+   }
+  },
+  "required": [
+   "job_id",
+   "user_id"
+  ]
+ },
+ "marketplace.get_market_stats": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": false,
+   "readonlyhint": true
+  },
+  "properties": {
+   "category": {
+    "maxLength": 40,
+    "minLength": 1,
+    "type": "string"
+   },
+   "skills": {
+    "default": [],
+    "items": {
+     "type": "string"
+    },
+    "maxItems": 20,
+    "type": "array"
+   },
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   },
+   "user_id": {
+    "maxLength": 64,
+    "minLength": 1,
+    "type": "string"
+   }
+  },
+  "required": [
+   "category",
+   "user_id"
+  ]
+ },
+ "marketplace.list_events": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": false,
+   "readonlyhint": true
+  },
+  "properties": {
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   },
+   "user_id": {
+    "maxLength": 64,
+    "minLength": 1,
+    "type": "string"
+   }
+  },
+  "required": [
+   "user_id"
+  ]
+ },
+ "marketplace.list_messages": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": false,
+   "readonlyhint": true
+  },
+  "properties": {
+   "thread_id": {
+    "default": "",
+    "maxLength": 64,
+    "type": "string"
+   },
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   },
+   "user_id": {
+    "maxLength": 64,
+    "minLength": 1,
+    "type": "string"
+   }
+  },
+  "required": [
+   "user_id"
+  ]
+ },
+ "marketplace.search_jobs": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": false,
+   "readonlyhint": true
+  },
+  "properties": {
+   "limit": {
+    "default": 20,
+    "maximum": 50,
+    "minimum": 1,
+    "type": "integer"
+   },
+   "query": {
+    "default": "",
+    "maxLength": 200,
+    "type": "string"
+   },
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   },
+   "user_id": {
+    "maxLength": 64,
+    "minLength": 1,
+    "type": "string"
+   }
+  },
+  "required": [
+   "user_id"
+  ]
+ },
+ "marketplace.send_message": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": true,
+   "readonlyhint": false
+  },
+  "properties": {
+   "dry_run": {
+    "default": false,
+    "type": "boolean"
+   },
+   "idempotency_key": {
+    "maxLength": 128,
+    "minLength": 8,
+    "type": "string"
+   },
+   "text": {
+    "maxLength": 4000,
+    "minLength": 1,
+    "type": "string"
+   },
+   "thread_id": {
+    "maxLength": 64,
+    "minLength": 3,
+    "type": "string"
+   },
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   },
+   "user_id": {
+    "maxLength": 64,
+    "minLength": 1,
+    "type": "string"
+   }
+  },
+  "required": [
+   "idempotency_key",
+   "text",
+   "thread_id",
+   "user_id"
+  ]
+ },
+ "marketplace.submit_proposal": {
+  "annotations": {
+   "destructivehint": true,
+   "idempotenthint": true,
+   "openworldhint": true,
+   "readonlyhint": false
+  },
+  "properties": {
+   "connects_cost": {
+    "default": 0,
+    "maximum": 100,
+    "minimum": 0,
+    "type": "integer"
+   },
+   "draft_id": {
+    "maxLength": 64,
+    "minLength": 3,
+    "type": "string"
+   },
+   "dry_run": {
+    "default": false,
+    "type": "boolean"
+   },
+   "idempotency_key": {
+    "maxLength": 128,
+    "minLength": 8,
+    "type": "string"
+   },
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   },
+   "user_id": {
+    "maxLength": 64,
+    "minLength": 1,
+    "type": "string"
+   }
+  },
+  "required": [
+   "draft_id",
+   "idempotency_key",
+   "user_id"
+  ]
+ },
+ "portfolio.get_case_study": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": false,
+   "readonlyhint": true
+  },
+  "properties": {
+   "id": {
+    "maxLength": 80,
+    "minLength": 3,
+    "type": "string"
+   },
+   "persona": {
+    "default": "",
+    "maxLength": 64,
+    "type": "string"
+   },
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   }
+  },
+  "required": [
+   "id"
+  ]
+ },
+ "portfolio.list_skills": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": false,
+   "readonlyhint": true
+  },
+  "properties": {
+   "persona": {
+    "default": "",
+    "maxLength": 64,
+    "type": "string"
+   }
+  },
+  "required": []
+ },
+ "portfolio.search_evidence": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": false,
+   "readonlyhint": true
+  },
+  "properties": {
+   "filters": {
+    "anyOf": [
+     {
+      "$ref": "#/$defs/Filters"
+     },
+     {
+      "type": "null"
+     }
+    ],
+    "default": null
+   },
+   "k": {
+    "default": 5,
+    "maximum": 20,
+    "minimum": 1,
+    "type": "integer"
+   },
+   "persona": {
+    "default": "",
+    "maxLength": 64,
+    "type": "string"
+   },
+   "requirement": {
+    "maxLength": 4000,
+    "minLength": 2,
+    "type": "string"
+   },
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   }
+  },
+  "required": [
+   "requirement"
+  ]
+ },
+ "workspace.create_email_draft": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": true,
+   "readonlyhint": false
+  },
+  "properties": {
+   "body": {
+    "maxLength": 5000,
+    "minLength": 1,
+    "type": "string"
+   },
+   "dry_run": {
+    "default": false,
+    "type": "boolean"
+   },
+   "idempotency_key": {
+    "maxLength": 128,
+    "minLength": 8,
+    "type": "string"
+   },
+   "subject": {
+    "maxLength": 200,
+    "minLength": 1,
+    "type": "string"
+   },
+   "to": {
+    "default": "",
+    "maxLength": 200,
+    "type": "string"
+   },
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   },
+   "user_id": {
+    "maxLength": 64,
+    "minLength": 1,
+    "type": "string"
+   }
+  },
+  "required": [
+   "body",
+   "idempotency_key",
+   "subject",
+   "user_id"
+  ]
+ },
+ "workspace.create_interview_hold": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": true,
+   "readonlyhint": false
+  },
+  "properties": {
+   "dry_run": {
+    "default": false,
+    "type": "boolean"
+   },
+   "idempotency_key": {
+    "maxLength": 128,
+    "minLength": 8,
+    "type": "string"
+   },
+   "slot": {
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}$",
+    "type": "string"
+   },
+   "title": {
+    "maxLength": 120,
+    "minLength": 3,
+    "type": "string"
+   },
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   },
+   "user_id": {
+    "maxLength": 64,
+    "minLength": 1,
+    "type": "string"
+   }
+  },
+  "required": [
+   "idempotency_key",
+   "slot",
+   "title",
+   "user_id"
+  ]
+ },
+ "workspace.free_slots": {
+  "annotations": {
+   "destructivehint": false,
+   "idempotenthint": true,
+   "openworldhint": false,
+   "readonlyhint": true
+  },
+  "properties": {
+   "days": {
+    "default": 5,
+    "maximum": 14,
+    "minimum": 1,
+    "type": "integer"
+   },
+   "start_date": {
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+    "type": "string"
+   },
+   "trace_id": {
+    "default": "",
+    "type": "string"
+   },
+   "user_id": {
+    "maxLength": 64,
+    "minLength": 1,
+    "type": "string"
+   }
+  },
+  "required": [
+   "start_date",
+   "user_id"
+  ]
+ }
+}

@@ -1,0 +1,221 @@
+{
+ "persona": "ai_ml_engineer",
+ "name": "Ayesha Khan (synthetic)",
+ "headline": "AI/ML Engineer",
+ "hourly_rate_usd": 45,
+ "min_project_usd": 300,
+ "skills": [
+  "AWS",
+  "Computer vision",
+  "Docker",
+  "FAISS",
+  "FastAPI",
+  "LLM fine-tuning",
+  "LangChain",
+  "MLflow",
+  "NLP",
+  "PyTorch",
+  "Python",
+  "RAG",
+  "Time series",
+  "XGBoost",
+  "pandas",
+  "scikit-learn"
+ ],
+ "projects": [
+  {
+   "project_id": "ai_ml_engineer-p01",
+   "title": "Support-ticket RAG assistant",
+   "skills": [
+    "RAG",
+    "LangChain",
+    "FAISS",
+    "FastAPI",
+    "Python"
+   ],
+   "industry": "SaaS",
+   "result": "cut first-response time from 9 hours to 40 minutes",
+   "date": "2024-06"
+  },
+  {
+   "project_id": "ai_ml_engineer-p02",
+   "title": "Churn prediction for a telecom",
+   "skills": [
+    "scikit-learn",
+    "XGBoost",
+    "pandas",
+    "Python"
+   ],
+   "industry": "media",
+   "result": "raised recall on churners from 0.58 to 0.81",
+   "date": "2025-11"
+  },
+  {
+   "project_id": "ai_ml_engineer-p03",
+   "title": "Invoice field extraction",
+   "skills": [
+    "NLP",
+    "PyTorch",
+    "Python",
+    "Docker"
+   ],
+   "industry": "fintech",
+   "result": "reached 94% field-level accuracy on 3,000 invoices",
+   "date": "2023-04"
+  },
+  {
+   "project_id": "ai_ml_engineer-p04",
+   "title": "Defect detection on a packaging line",
+   "skills": [
+    "Computer vision",
+    "PyTorch",
+    "Docker"
+   ],
+   "industry": "logistics",
+   "result": "caught 96% of defects at 30 frames per second",
+   "date": "2024-09"
+  },
+  {
+   "project_id": "ai_ml_engineer-p05",
+   "title": "Fine-tuned support tone model",
+   "skills": [
+    "LLM fine-tuning",
+    "PyTorch",
+    "MLflow",
+    "Python"
+   ],
+   "industry": "e-commerce",
+   "result": "lifted agent acceptance of drafts from 41% to 73%",
+   "date": "2025-02"
+  },
+  {
+   "project_id": "ai_ml_engineer-p06",
+   "title": "Demand forecasting for a grocery chain",
+   "skills": [
+    "Time series",
+    "pandas",
+    "XGBoost",
+    "Python"
+   ],
+   "industry": "e-commerce",
+   "result": "reduced forecast error (MAPE) from 22% to 13%",
+   "date": "2023-07"
+  },
+  {
+   "project_id": "ai_ml_engineer-p07",
+   "title": "Clinical note classifier",
+   "skills": [
+    "NLP",
+    "scikit-learn",
+    "FastAPI",
+    "Python"
+   ],
+   "industry": "healthcare",
+   "result": "scored 0.89 macro-F1 across 12 note types",
+   "date": "2024-12"
+  },
+  {
+   "project_id": "ai_ml_engineer-p08",
+   "title": "Semantic product search",
+   "skills": [
+    "FAISS",
+    "NLP",
+    "FastAPI",
+    "AWS"
+   ],
+   "industry": "e-commerce",
+   "result": "improved search click-through by 18%",
+   "date": "2025-05"
+  },
+  {
+   "project_id": "ai_ml_engineer-p09",
+   "title": "Model serving platform",
+   "skills": [
+    "FastAPI",
+    "Docker",
+    "AWS",
+    "MLflow"
+   ],
+   "industry": "SaaS",
+   "result": "brought p95 inference latency down to 120 ms",
+   "date": "2023-10"
+  },
+  {
+   "project_id": "ai_ml_engineer-p10",
+   "title": "Resume-to-job matching engine",
+   "skills": [
+    "NLP",
+    "FAISS",
+    "scikit-learn",
+    "Python"
+   ],
+   "industry": "education",
+   "result": "matched 5,000 resumes with 0.77 nDCG@10",
+   "date": "2024-03"
+  },
+  {
+   "project_id": "ai_ml_engineer-p11",
+   "title": "Fraud scoring pipeline",
+   "skills": [
+    "XGBoost",
+    "scikit-learn",
+    "AWS",
+    "pandas"
+   ],
+   "industry": "fintech",
+   "result": "flagged 31% more fraud at the same false-positive rate",
+   "date": "2025-08"
+  },
+  {
+   "project_id": "ai_ml_engineer-p12",
+   "title": "Contract question-answering bot",
+   "skills": [
+    "RAG",
+    "LangChain",
+    "LLM fine-tuning",
+    "FAISS"
+   ],
+   "industry": "real estate",
+   "result": "answered 86% of test questions with a correct citation",
+   "date": "2023-01"
+  },
+  {
+   "project_id": "ai_ml_engineer-p13",
+   "title": "Experiment tracking rollout",
+   "skills": [
+    "MLflow",
+    "Docker",
+    "Python"
+   ],
+   "industry": "healthcare",
+   "result": "made 140 past experiments reproducible",
+   "date": "2024-06"
+  },
+  {
+   "project_id": "ai_ml_engineer-p14",
+   "title": "Property photo tagger",
+   "skills": [
+    "Computer vision",
+    "PyTorch",
+    "FastAPI"
+   ],
+   "industry": "real estate",
+   "result": "tagged 20,000 listing photos at 92% precision",
+   "date": "2025-11"
+  },
+  {
+   "project_id": "ai_ml_engineer-p15",
+   "title": "Course recommendation model",
+   "skills": [
+    "scikit-learn",
+    "pandas",
+    "Time series",
+    "Python"
+   ],
+   "industry": "education",
+   "result": "increased course enrolment clicks by 12%",
+   "date": "2023-04"
+  }
+ ],
+ "synthetic": true
+}
