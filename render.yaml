@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: gigbid
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: MODEL_PROFILE
+        value: open
+      - key: OPEN_LLM_BASE_URL
+        value: https://api.groq.com/openai/v1
+      - key: OPEN_LLM_API_KEY
+        sync: false          # paste your Groq key in the Render dashboard
+      - key: APP_SECRET_KEY
+        generateValue: true
+      - key: REVIEWER_EMAIL
+        sync: false
+      - key: REVIEWER_PASSWORD
+        sync: false
+      - key: REVIEWER_PERSONA
+        value: ai_ml_engineer
