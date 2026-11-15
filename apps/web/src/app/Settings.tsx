@@ -34,7 +34,7 @@ export default function Settings() {
             <label htmlFor="connects">Weekly Connects budget</label>
             <input id="connects" type="number" min={0} value={s.weekly_connects_budget} onChange={(e) => setS({ ...s, weekly_connects_budget: +e.target.value })} />
             <label htmlFor="searches">Saved searches (one per line)</label>
-            <textarea id="searches" rows={3} value={s.saved_searches.join("\n")} onChange={(e) => setS({ ...s, saved_searches: e.target.value.split("\n") })} />
+            <textarea id="searches" rows={3} value={(s.saved_searches ?? []).join("\n")} onChange={(e) => setS({ ...s, saved_searches: e.target.value.split("\n") })} />
             <button onClick={save}>Save settings</button> {saved && <span role="status">Saved.</span>}
           </section>
         )}

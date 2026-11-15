@@ -56,7 +56,7 @@ export default function Onboarding() {
           <label htmlFor="connects">Weekly Connects budget</label>
           <input id="connects" type="number" min={0} value={s.weekly_connects_budget} onChange={(e) => setS({ ...s, weekly_connects_budget: +e.target.value })} />
           <label htmlFor="searches">Saved searches (one per line; empty = all new jobs)</label>
-          <textarea id="searches" rows={3} value={s.saved_searches.join("\n")} onChange={(e) => setS({ ...s, saved_searches: e.target.value.split("\n") })} />
+          <textarea id="searches" rows={3} value={(s.saved_searches ?? []).join("\n")} onChange={(e) => setS({ ...s, saved_searches: e.target.value.split("\n") })} />
           <fieldset>
             <legend>Add a portfolio item (optional)</legend>
             <label htmlFor="ptitle">Title</label>

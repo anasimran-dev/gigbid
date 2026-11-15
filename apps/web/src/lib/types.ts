@@ -4,9 +4,9 @@ import type { components } from "./api/schema";
 type S = components["schemas"];
 export type JobCard = S["JobCard"];
 export type Settings = S["Settings"];
-export type Decision = S["Decision"];
+export type Decision = S["ApprovalDecision"];
 export type Token = S["Token"];
-export type RunRef = S["RunRef"];
+export type RunRef = S["Started"];
 
 // Views over the free-form JSON documents the API returns (graph state mirrored per job/thread).
 export type Evidence = { id: string; type: string; title: string; snippet: string; outcome: string; source: string; date: string };

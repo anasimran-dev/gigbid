@@ -47,7 +47,7 @@ export default function Inbox() {
                 {j.fit != null && <span>Fit {(j.fit * 100).toFixed(0)}%</span>}
                 {j.price_usd != null && <span>Bid ${j.price_usd}</span>}
                 {j.connects_cost != null && <span>{j.connects_cost} Connects</span>}
-                {j.risk_flags.map((f) => <Badge key={f} kind="bad">{f.replaceAll("_", " ")}</Badge>)}
+                {(j.risk_flags ?? []).map((f) => <Badge key={f} kind="bad">{f.replaceAll("_", " ")}</Badge>)}
               </div>
               <div className="row">
                 {j.status === "awaiting_approval" && <Link className="button" to={`/studio/${j.id}`}>Open proposal</Link>}
