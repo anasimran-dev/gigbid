@@ -44,7 +44,7 @@ def _chat(model: str, system: str, user: str, timeout: int = 60) -> tuple[str, i
     body = {"model": model, "temperature": 0.2, "response_format": {"type": "json_object"},
             "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}]}
     req = urllib.request.Request(f"{base}/chat/completions", json.dumps(body).encode(),
-                                 {"Content-Type": "application/json",
+                                 {"Content-Type": "application/json", "User-Agent": "gigbid/1.0",
                                   "Authorization": f"Bearer {os.getenv(p['api_key_env'], 'ollama')}"})
     with urllib.request.urlopen(req, timeout=timeout) as res:
         out = json.loads(res.read())
