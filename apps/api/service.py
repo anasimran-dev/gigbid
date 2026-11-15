@@ -6,6 +6,7 @@ reads, stores pending approvals, and resumes interrupted threads.
 import collections
 import os
 import threading
+from concurrent.futures import ThreadPoolExecutor
 import time
 import uuid
 
@@ -163,6 +164,25 @@ def _mirror_conversation(user: str, thread_id: str, run: dict, v: dict, interrup
 
 
 # ---- background execution -------------------------------------------------------
+_POOL: ThreadPoolExecutor | None = None
+
+
+def _pool() -> ThreadPoolExecutor:
+    """Few workers on purpose: bounded memory on small hosts and polite use of the marketplace rate limit."""
+    global _POOL
+    if _POOL is None:
+        _POOL = ThreadPoolExecutor(max_workers=int(os.getenv("GIGBID_WORKERS", "1")), thread_name_prefix="gigbid")
+    return _POOL
+
+
+def _safe(fn, *args):
+    try:
+        fn(*args)
+    except Exception:  # one failed job must not kill the worker thread
+        import logging
+        logging.getLogger("gigbid").exception("background task failed")
+
+
 def launch(task: str, *args):
     """Long runs never execute inside a web request (E1).
     REDIS_URL set -> queued for the Arq worker; otherwise a background thread (local dev);
@@ -175,7 +195,7 @@ def launch(task: str, *args):
         from worker.main import enqueue
         asyncio.run(enqueue(task, *args))
     else:
-        threading.Thread(target=TASKS[task], args=args, daemon=True).start()
+        _pool().submit(_safe, TASKS[task], *args)
 
 
 def task_bid(user: str, job_id: str, run_id: str):
