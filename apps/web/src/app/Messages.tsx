@@ -1,19 +1,25 @@
 import { Link } from "react-router-dom";
 import ApprovalPanel from "../components/ApprovalPanel";
 import { Async, Badge } from "../components/States";
-import { useApi } from "../lib/http";
+import { api, useApi } from "../lib/http";
 import type { Approval } from "../lib/types";
 
 type Thread = { id: string; status?: string; run_id?: string; thread?: { messages: { from: string; text: string }[] }; approval: Approval | null };
 
 /** Client threads with suggested replies and interview slots. Nothing is sent before approval. */
 export default function Messages() {
-  const { data, loading, error, reload } = useApi<{ threads: Thread[] }>("/messages", 5000);
+  const { data, loading, error, reload } = useApi<Thread[]>("/messages", 5000);
+  const threads = Array.isArray(data) ? data : [];
+  async function checkReplies() {
+    await api("/messages/sync", "POST");
+    reload();
+  }
   return (
     <>
       <h1>Messages</h1>
-      <Async loading={loading} error={error} empty={data?.threads.length === 0 && "No client replies yet."}>
-        {data?.threads.map((t) => (
+      <button type="button" onClick={checkReplies}>Check for client replies</button>
+      <Async loading={loading} error={error} empty={threads.length === 0 && "No client replies yet."}>
+        {threads.map((t) => (
           <section key={t.id} className="card">
             <h2>Thread {t.id} {t.run_id && <Link className="muted" to={`/runs/${t.run_id}`}>agent run</Link>}</h2>
             <ul className="chat">
