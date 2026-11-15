@@ -1,21 +1,41 @@
 {
  "meta": {
-  "profile": "offline",
+  "profile": "open",
   "embeddings": "lsa",
   "reranker": "lexical",
   "data": "synthetic (scripts/generate_data.py, seed 4016)",
-  "generated_at": "2026-11-15 21:51"
+  "generated_at": "2026-11-15 23:29"
  },
  "persona": "ai_ml_engineer",
  "systems": {
   "c_hand_built_graph": {
-   "n": 50,
-   "bid_or_skip_accuracy": 0.96,
-   "unsupported_claims_per_proposal": 0.1111,
+   "n": 20,
+   "bid_or_skip_accuracy": 1.0,
+   "unsupported_claims_per_proposal": 0.3333,
    "compliance_violations_in_output": 0,
-   "reply_rate": 0.8333,
-   "tokens_per_job": 0.0,
-   "latency_p95_s": 0.0478
+   "reply_rate": 0.5,
+   "tokens_per_job": 1778.3,
+   "latency_p95_s": 33.9905
+  },
+  "a_single_react_agent": {
+   "n": 20,
+   "bid_or_skip_accuracy": 0.7,
+   "unsupported_claims_per_proposal": 0.0,
+   "compliance_violations_in_output": 0,
+   "reply_rate": 0.0,
+   "tokens_per_job": 1162.9,
+   "latency_p95_s": 88.7464,
+   "failed_runs": 17
+  },
+  "b_prebuilt_supervisor": {
+   "n": 20,
+   "bid_or_skip_accuracy": 0.7,
+   "unsupported_claims_per_proposal": 0.0,
+   "compliance_violations_in_output": 0,
+   "reply_rate": 0.0,
+   "tokens_per_job": 282.95,
+   "latency_p95_s": 331.7153,
+   "failed_runs": 18
   }
  }
 }
