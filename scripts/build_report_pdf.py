@@ -39,8 +39,8 @@ def main():
     i = 0
     while i < len(lines):
         ln = lines[i]
-        if ln.startswith("## "):
-            story.append(Paragraph(inline(ln[3:]), H2))
+        if ln.startswith("#"):
+            story.append(Paragraph(inline(ln.lstrip("#").strip()), H2 if ln.startswith("## ") else BODY))
         elif ln.startswith("|"):
             rows = []
             while i < len(lines) and lines[i].startswith("|"):

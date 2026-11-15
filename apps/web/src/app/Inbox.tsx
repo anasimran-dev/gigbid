@@ -11,12 +11,20 @@ export default function Inbox() {
   const [filter, setFilter] = useState("");
   const { data, loading, error, reload } = useApi<JobCard[]>("/jobs", 4000);
   const [busy, setBusy] = useState(false);
+  const [jobId, setJobId] = useState("");
   const jobs = (data ?? []).filter((j) => !filter || j.action === filter);
 
   async function scout() {
     setBusy(true);
     await api("/jobs/scout", "POST").catch(() => undefined);
     setBusy(false);
+    reload();
+  }
+
+  async function analyseById() {
+    if (!jobId.trim()) return;
+    await api(`/jobs/${jobId.trim()}/analyse`, "POST").catch(() => undefined);
+    setJobId("");
     reload();
   }
 
@@ -33,6 +41,11 @@ export default function Inbox() {
             <option value="skip">Skip</option>
           </select>
           <button onClick={scout} disabled={busy}>{busy ? "Looking…" : "Find new jobs"}</button>
+        </div>
+        <div className="row">
+          <label htmlFor="jobid" className="muted">Analyse a job by ID</label>
+          <input id="jobid" value={jobId} placeholder="e.g. job-0285" onChange={(e) => setJobId(e.target.value)} />
+          <button type="button" className="secondary" onClick={analyseById}>Analyse</button>
         </div>
       </div>
       <Async loading={loading} error={error} empty={jobs.length === 0 && "No jobs yet. Press “Find new jobs” to run your saved searches."}>
