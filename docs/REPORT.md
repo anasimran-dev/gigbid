@@ -10,7 +10,9 @@ GigBid scouts freelance jobs, decides bid or skip, retrieves evidence from the f
 A LangGraph bid graph (scout, parallel analyst/risk/matcher via `Send`, decide, pricing, writer, verifier, critic loop with at most 2 revisions, compliance, preview, approval interrupt, submit, learn) and a conversation graph. Agents call three MCP servers (Portfolio, Marketplace, Workspace) through per-agent allowlists. Marketplace access goes through one port with GigSim and live Upwork adapters. Thresholds, policy, budgets, model routing and the retrieval variant are in `agent/config.yaml`; prompts are in `agent/prompts/`.
 
 ## 3. MCP servers
-Sixteen tools across the three servers (see `docs/TOOLS.md`). Writes use idempotency keys and dry-run; all calls are audited; servers use bearer auth and rate limits. A contract test snapshots every tool schema. GitHub is intended as a third-party server for repo ingestion; it was not run here.
+Sixteen tools across the three servers (see `docs/TOOLS.md`). Writes use idempotency keys and dry-run; all calls are audited; servers use bearer auth and rate limits. A contract test snapshots every tool schema. GitHub is intended as a third-party server for repo ingestion; it was not run.
+
+**R&D question A (tool granularity).** Hypothesis: rewritten, example-bearing descriptions would beat both fine and coarse tool sets. Setup: 40 tasks with a known correct call, gpt-oss-20b on Groq (`evals/results/tool_granularity.json`). Result: fine-grained (10 tools) tool selection 0.825, arguments 0.775, 411.25 tokens/task; coarse (3 tools) 0.525, 0.5, 319.675; rewritten descriptions 0.525, 0.525, 301.75. The hypothesis was not supported: fine-grained tools won and the rewritten descriptions matched the coarse set. I did not test why.
 
 ## 4. Retrieval and ablation
 | Variant | Recall@5 | nDCG@10 |
@@ -30,16 +32,18 @@ Removing one component from V10 changes recall@5 by 0.4 to 4.2 points (decompose
 Every agent has a rule-based path and an optional LLM path with small/strong model routing. A verifier labels each claim supported, partly supported or unsupported and removes unsupported ones. Memory is written only through promotion rules (style after 2 repeats, outcomes after 3 samples). Comparison of single-agent vs supervisor vs graph: only the graph (c) was measured offline (accuracy 0.96, 0.11 unsupported claims per proposal, 0 compliance violations); (a) and (b) need an LLM and are not run.
 
 ## 6. Web UI
-React + Vite + TypeScript with nine screens, SSE run streaming, evidence hover, approval panel, run timeline, degraded-mode banner, and five Playwright specs. The UI was written but not built or tested in this environment.
+React + Vite + TypeScript with nine screens, SSE run streaming, evidence hover, approval panel, run timeline, degraded-mode banner, and five Playwright specs. The web app builds and type-checks against the client generated from the FastAPI OpenAPI schema, and all 10 Playwright runs pass (5 specs on a laptop and a phone profile). It is deployed on Render (see README).
 
 ## 7. Production
-Arq worker with cron scouting, Postgres checkpointer and tenant-scoped storage, Fernet-encrypted OAuth tokens, docker compose, CI with an eval gate, and PII-masked JSONL traces. None of the container, worker or CI paths were executed here.
+Arq worker with cron scouting, Postgres checkpointer and tenant-scoped storage, Fernet-encrypted OAuth tokens, docker compose, CI with an eval gate, and PII-masked JSONL traces. The Render deployment runs the API and the built web app in one process with inline job execution. The docker compose stack, the Arq worker, the Postgres checkpointer and CI were not executed.
 
 ## 8. Evaluation
-Decision eval: bid/skip F1 about 0.95; scam recall 1.0 (precision 0.81-0.875); price in fair band 0.70-0.78. GigSim reply rates by variant are 0.675-0.833 and reflect my simulator's hidden preferences only. Injection: 33 injection jobs, attack success 0.0 and flagged 1.0, from the rule-based path; the model-backed measurement is not run. A/B extension: reply rate 0.855 vs 0.855, p = 1.0, no effect, as expected from the simulator.
+Decision eval: bid/skip F1 about 0.95; scam recall 1.0 (precision 0.81-0.875); price in fair band 0.70-0.78. GigSim reply rates by variant are 0.675-0.833 and reflect my simulator's hidden preferences only. Injection: 33 injection jobs; with a model behind the pipeline attack success was 0.0 before and 0.0 after the defences, flagged rate 1.0. gpt-oss did not obey the injected text even without the defence, so this run does not show the defence's own effect. LLM decision eval (first 20 dev jobs per persona, gpt-oss-20b/120b): bid/skip F1 1.0, 0.857, 1.0; 0.0 unsupported claims before and after verification; p95 latency per job 32.2865, 38.0901, 14.1213 s; cost 0.0 USD on the free tier (`decision_eval_llm.json`). Only 15 proposals were drafted across the three personas, so price and proposal-quality numbers are thin. Judge calibration: Cohen's kappa 0.047 on 25 items, near chance, with reference labels assigned by Claude rather than by me (`docs/AI_USAGE.md`); I therefore do not report per-variant judge scores. A/B extension: reply rate 0.855 vs 0.855, p = 1.0, no effect, as expected from the simulator.
 
 ## 9. Failures
 25 decision failures: vague posts (11 wrong bids, 4 wrong skips) and injection posts (6 wrong bids, 4 wrong skips). Proposed fixes: a clarifying-question path for vague posts, and neutralise-then-re-evaluate for injected posts.
 
 ## 10. Limitations and not run
-Synthetic data only. Not executed: real LangGraph and Postgres checkpointer, FastAPI, worker, web build, Docker, Playwright, live Upwork and GitHub, all LLM calls. Judge calibration (needs 30 human labels), tool-granularity study, and single-agent/supervisor comparison are not run; no numbers are given for them.
+Synthetic data only. Not executed: Docker compose, the Postgres checkpointer crash-and-resume demo, the worker, live Upwork and GitHub MCP, the blind human panel and the hidden test run. LLM evals used small samples (20 jobs per persona; 20 for the agent comparison) on a free-tier hosted open model.
+
+**A bug the evals exposed.** My first LLM-backed runs reported plausible numbers while the provider was rejecting every request with HTTP 403 (it blocked Python's default user agent). Each node silently fell back to its rule-based path, so the eval looked healthy with no model in it. I caught it because token counts were near zero and latency was too low, discarded those runs, added a User-Agent header and reran everything. The lesson for the design: a fallback that hides a dead dependency needs a visible counter of how many calls actually reached the model.
