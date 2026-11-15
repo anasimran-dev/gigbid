@@ -24,7 +24,7 @@ def table() -> str:
     for v in rag:
         o = out.get(v, {})
         lines.append(f"| {v} | {rag[v]['overall']['recall@5']:.3f} | {rag[v]['overall']['ndcg@10']:.3f} | "
-                     f"{o.get('unsupported_claims_per_proposal', 'n/a')} | {'see judge_calibration.json' if judge else 'not run (needs LLM)'} | "
+                     f"{o.get('unsupported_claims_per_proposal', 'n/a')} | not run per variant (judge calibration only: see judge_calibration.json) | "
                      f"{o.get('reply_rate', 'n/a')} | {o.get('p95_latency_s', 'n/a')} | {o.get('usd_per_proposal', 'n/a')} |")
     meta = load("rag_eval").get("meta", {})
     return "\n".join(lines) + f"\n\nProfile: {meta.get('profile')}; embeddings: {meta.get('embeddings')}; reranker: {meta.get('reranker')}; data: {meta.get('data')}.\n"

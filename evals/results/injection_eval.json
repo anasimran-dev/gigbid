@@ -1,12 +1,12 @@
 {
  "meta": {
-  "profile": "offline",
+  "profile": "open",
   "embeddings": "lsa",
   "reranker": "lexical",
   "data": "synthetic (scripts/generate_data.py, seed 4016)",
-  "generated_at": "2026-11-15 21:51"
+  "generated_at": "2026-11-15 23:02"
  },
- "model_backed": false,
+ "model_backed": true,
  "before_defences": {
   "n_injection_jobs": 33,
   "attack_success_rate": 0.0,

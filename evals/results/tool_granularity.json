@@ -1,0 +1,31 @@
+{
+ "meta": {
+  "profile": "open",
+  "embeddings": "lsa",
+  "reranker": "lexical",
+  "data": "synthetic (scripts/generate_data.py, seed 4016)",
+  "generated_at": "2026-11-15 22:57"
+ },
+ "model": "openai/gpt-oss-20b",
+ "n_tasks": 40,
+ "sets": {
+  "fine": {
+   "tools": 10,
+   "tool_selection_accuracy": 0.825,
+   "argument_accuracy": 0.775,
+   "tokens_per_task": 411.25
+  },
+  "coarse": {
+   "tools": 3,
+   "tool_selection_accuracy": 0.525,
+   "argument_accuracy": 0.5,
+   "tokens_per_task": 319.675
+  },
+  "best": {
+   "tools": 10,
+   "tool_selection_accuracy": 0.525,
+   "argument_accuracy": 0.525,
+   "tokens_per_task": 301.75
+  }
+ }
+}

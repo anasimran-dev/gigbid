@@ -1,14 +1,14 @@
 {
  "meta": {
-  "profile": "offline",
+  "profile": "open",
   "embeddings": "lsa",
   "reranker": "lexical",
   "data": "synthetic (scripts/generate_data.py, seed 4016)",
-  "generated_at": "2026-11-15 21:51"
+  "generated_at": "2026-11-15 23:01"
  },
  "personas": {
   "ai_ml_engineer": {
-   "n_jobs": 10,
+   "n_jobs": 20,
    "bid_or_skip": {
     "precision": 1.0,
     "recall": 1.0,
@@ -20,60 +20,60 @@
     "f1": 1.0
    },
    "injection_flag_recall": null,
-   "price_in_fair_band": 1.0,
-   "n_proposals": 2,
+   "price_in_fair_band": 0.833,
+   "n_proposals": 6,
    "unsupported_claims_per_proposal_before": 0.0,
    "unsupported_claims_per_proposal_after": 0.0,
    "latency_s_per_job": {
-    "p50": 0.0105,
-    "p95": 1.0863
+    "p50": 3.525,
+    "p95": 32.2865
    },
    "latency_s_per_proposal": {
-    "p50": 0.0473,
-    "p95": 0.0473
+    "p50": 14.0756,
+    "p95": 32.2865
    },
-   "tokens_per_job": 0.0,
+   "tokens_per_job": 304.15,
    "usd_per_job": 0.0
   },
   "fullstack_dev": {
-   "n_jobs": 10,
+   "n_jobs": 20,
    "bid_or_skip": {
     "precision": 0.75,
     "recall": 1.0,
     "f1": 0.857
    },
    "scam_detection": {
-    "precision": 0.0,
-    "recall": 0.0,
-    "f1": 0.0
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.667
    },
    "injection_flag_recall": null,
-   "price_in_fair_band": 0.0,
-   "n_proposals": 4,
+   "price_in_fair_band": 0.5,
+   "n_proposals": 8,
    "unsupported_claims_per_proposal_before": 0.0,
    "unsupported_claims_per_proposal_after": 0.0,
    "latency_s_per_job": {
-    "p50": 0.0118,
-    "p95": 0.1127
+    "p50": 3.5089,
+    "p95": 38.0901
    },
    "latency_s_per_proposal": {
-    "p50": 0.0386,
-    "p95": 0.1127
+    "p50": 28.4066,
+    "p95": 38.0901
    },
-   "tokens_per_job": 0.0,
+   "tokens_per_job": 1490.75,
    "usd_per_job": 0.0
   },
   "data_analyst": {
-   "n_jobs": 10,
+   "n_jobs": 20,
    "bid_or_skip": {
     "precision": 1.0,
     "recall": 1.0,
     "f1": 1.0
    },
    "scam_detection": {
-    "precision": 0.0,
-    "recall": 0.0,
-    "f1": 0.0
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
    },
    "injection_flag_recall": null,
    "price_in_fair_band": 0.0,
@@ -81,14 +81,14 @@
    "unsupported_claims_per_proposal_before": 0.0,
    "unsupported_claims_per_proposal_after": 0.0,
    "latency_s_per_job": {
-    "p50": 0.0115,
-    "p95": 0.0655
+    "p50": 3.4643,
+    "p95": 14.1213
    },
    "latency_s_per_proposal": {
-    "p50": 0.0356,
-    "p95": 0.0356
+    "p50": 14.1213,
+    "p95": 14.1213
    },
-   "tokens_per_job": 0.0,
+   "tokens_per_job": 486.85,
    "usd_per_job": 0.0
   }
  },
@@ -96,6 +96,28 @@
   {
    "persona": "fullstack_dev",
    "job_id": "job-0213",
+   "kind": "vague",
+   "gold_bid": false,
+   "said_bid": true,
+   "gold_scam": false,
+   "said_scam": false,
+   "status": "awaiting_approval",
+   "reason": "1 of 1 requirements have portfolio evidence; Fit 1.00 >= 0.6"
+  },
+  {
+   "persona": "fullstack_dev",
+   "job_id": "job-0191",
+   "kind": "vague",
+   "gold_bid": false,
+   "said_bid": false,
+   "gold_scam": false,
+   "said_scam": true,
+   "status": "skipped",
+   "reason": "Risk too high: payment_not_verified"
+  },
+  {
+   "persona": "fullstack_dev",
+   "job_id": "job-0220",
    "kind": "vague",
    "gold_bid": false,
    "said_bid": true,

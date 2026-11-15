@@ -46,6 +46,8 @@ def export():
 
 def kappa(a: list[int], b: list[int]) -> float:
     n, cats = len(a), sorted(set(a) | set(b))
+    if n == 0:
+        raise SystemExit('no judge scores returned; check the LLM profile and rate limits')
     po = sum(x == y for x, y in zip(a, b)) / n
     pe = sum((a.count(c) / n) * (b.count(c) / n) for c in cats)
     return round((po - pe) / (1 - pe), 3) if pe < 1 else 1.0

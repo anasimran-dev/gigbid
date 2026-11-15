@@ -57,7 +57,7 @@ def chat_model():
 
     from langchain_openai import ChatOpenAI
     p = cfg()["profiles"][cfg()["profile"]]
-    return ChatOpenAI(model=p["strong"], base_url=os.getenv(p["base_url_env"], llm.DEFAULT_URLS.get(p["base_url_env"])),
+    return ChatOpenAI(model=os.getenv("AGENT_CMP_MODEL", p["strong"]), base_url=os.getenv(p["base_url_env"], llm.DEFAULT_URLS.get(p["base_url_env"])),
                       api_key=os.getenv(p["api_key_env"], "ollama"), temperature=0.2)
 
 
