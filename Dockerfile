@@ -11,5 +11,5 @@ WORKDIR /app
 COPY . .
 RUN pip install --no-cache-dir .
 COPY --from=web /w/dist apps/web/dist
-ENV MODEL_PROFILE=open GIGBID_SYNC=1 MARKETPLACE_MODE=gigsim APP_DB=data/processed/app.db PYTHONUNBUFFERED=1
+ENV MODEL_PROFILE=open MARKETPLACE_MODE=gigsim APP_DB=data/processed/app.db PYTHONUNBUFFERED=1
 CMD ["sh", "-c", "uvicorn apps.api.serve:root --host 0.0.0.0 --port ${PORT:-10000}"]
