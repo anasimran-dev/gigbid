@@ -105,17 +105,17 @@ def main(limit: int = 50) -> dict:
     for key, kind in (("a_single_react_agent", "react"), ("b_prebuilt_supervisor", "supervisor")):
         agent, rows = build(kind, f"cmp-{kind}", persona), []
         for r in dev:
-            start = time.time()
-            res = agent.invoke({"messages": [("user", f"job id: {r['job_id']}")]})
-            last = res["messages"][-1]
+            start, failed = time.time(), False
             try:
+                res = agent.invoke({"messages": [("user", f"job id: {r['job_id']}")]})
+                last = res["messages"][-1]
                 ans = json.loads(last.content[last.content.find("{"): last.content.rfind("}") + 1])
-            except ValueError:
-                ans = {"action": "skip"}
-            tokens = sum((getattr(m, "usage_metadata", None) or {}).get("total_tokens", 0) for m in res["messages"])
+                tokens = sum((getattr(m, "usage_metadata", None) or {}).get("total_tokens", 0) for m in res["messages"])
+            except Exception:  # malformed tool call, bad JSON or provider error: the run counts as a failed job
+                ans, tokens, failed = {"action": "skip"}, 0, True
             rows.append({"job_id": r["job_id"], "gold_bid": r["gold"]["bid"], "bid": ans.get("action") == "bid", "letter": ans.get("cover_letter", ""),
-                         "bid_usd": ans.get("bid_usd"), "tokens": tokens, "seconds": time.time() - start})
-        out[key] = score(rows, sim, evidence_of)
+                         "bid_usd": ans.get("bid_usd"), "tokens": tokens, "seconds": time.time() - start, "failed": failed})
+        out[key] = {**score(rows, sim, evidence_of), "failed_runs": sum(r["failed"] for r in rows)}
     return out
 
 
