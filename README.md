@@ -1,7 +1,7 @@
 # GigBid: multi-agent freelancer copilot
 Finds jobs, checks fit and risk, retrieves evidence from my portfolio, writes a verified proposal, and waits for my approval before anything is sent. Built for AI-4016 Assignment II (22i-1319).
 
-**Live demo:** https://gigbid-m75r.onrender.com (reviewer login is given privately in the Classroom submission; free tier, the first load after idle can take about a minute). Source: https://github.com/anasimran-dev/gigbid
+**Live demo:** https://gigbid-m75r.onrender.com (reviewer login is given privately in the Classroom submission; free tier, the first load after idle can take about a minute). Source: https://github.com/anasimran-dev/gigbid · Write-up: https://medium.com/@i221319/building-a-freelancer-copilot-that-has-to-show-its-evidence-bdd80bfbc781
 
 Architecture: see `docs/ARCHITECTURE.md`. Tools: `docs/TOOLS.md`. Run: `docs/RUNBOOK.md`. Data: `docs/DATA_CARD.md`.
 
