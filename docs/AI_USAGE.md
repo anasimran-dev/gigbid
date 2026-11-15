@@ -2,5 +2,7 @@
 - Tool: Claude (chat/agent assistant) was used to scaffold and write most of the code, tests, docs and the data generator, which I directed and reviewed.
 - Files: nearly every file in `agent/`, `rag/`, `mcp_servers/`, `apps/`, `evals/`, `docs/`.
 - Something it got wrong and was caught: the first decomposed-retrieval variants scored recall@5 about 0.15 (worse than naive) until query expansion and project collapsing were added; separately, proposal "result" sentences contained markdown headings, found by reading output, and fixed.
-- Offline evals use stand-ins (LSA, lexical rerank); the LLM paths were not run in the build environment.
-- [Student to complete: your own review notes and anything you changed.]
+- Offline evals use stand-ins (LSA, lexical rerank). The LLM-backed evals were run later against Groq (`openai/gpt-oss-20b` and `openai/gpt-oss-120b`); each result file records its settings and sample sizes.
+- Second pass with Claude Code: installed the real dependencies and ran the tests with LangGraph 0.6.11, fixed packaging and the TypeScript client build, split the Portfolio server into `tools.py`/`resources.py`/`prompts.py`, ran the web build and Playwright specs, ran the LLM evals, and updated the docs from the result files.
+- Something it got wrong in that pass and was caught: the first Playwright run failed all 10 specs because I started two runs at once with an eval job running, so scouting exceeded the 45 s wait; the API itself was fine (checked by replaying the calls by hand).
+- Judge calibration labels: the 30 human scores in `evals/datasets/judge_items.json` were assigned by Claude acting on my instruction to fill them in as a human reader would, using the judge's own four criteria, before the judge was run. They are not my own hand labels. Cohen's kappa in `evals/results/judge_calibration.json` is therefore agreement between two model-produced raters, and I should relabel the items myself if I want a true human kappa.
