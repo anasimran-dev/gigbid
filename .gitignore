@@ -12,3 +12,6 @@ CLAUDE.md
 !.env.example
 build/
 *.egg-info/
+data/processed/
+apps/web/test-results/
+apps/web/playwright-report/
